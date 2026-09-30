@@ -15,7 +15,7 @@ p.add_argument("--top-p", type=float, default=0.9)
 a = p.parse_args()
 
 tok = AutoTokenizer.from_pretrained(a.model)
-model = AutoModelForCausalLM.from_pretrained(a.model, torch_dtype=torch.bfloat16, device_map={"": 0})
+model = AutoModelForCausalLM.from_pretrained(a.model, dtype=torch.bfloat16, device_map={"": 0})
 if a.adapter:
     model = PeftModel.from_pretrained(model, a.adapter)
 model.eval()

@@ -79,7 +79,7 @@ def collate(batch):
     return {"input_ids": ids, "labels": lab, "attention_mask": att}
 
 
-kw = dict(torch_dtype=torch.bfloat16)
+kw = dict(dtype=torch.bfloat16)
 if a.load_in_4bit:
     kw["quantization_config"] = BitsAndBytesConfig(
         load_in_4bit=True, bnb_4bit_quant_type="nf4", bnb_4bit_use_double_quant=True,
@@ -102,7 +102,7 @@ train_ds, val_ds = SFT(a.train), SFT(a.val)
 args = TrainingArguments(
     output_dir=a.out, num_train_epochs=a.epochs, learning_rate=a.lr,
     per_device_train_batch_size=a.batch_size, per_device_eval_batch_size=a.batch_size,
-    gradient_accumulation_steps=a.grad_accum, lr_scheduler_type="cosine", warmup_ratio=0.03,
+    gradient_accumulation_steps=a.grad_accum, lr_scheduler_type="cosine", warmup_steps=0.03,
     weight_decay=0.0, bf16=True, logging_steps=10, eval_strategy="epoch", save_strategy="epoch",
     save_total_limit=2, load_best_model_at_end=True, metric_for_best_model="eval_loss",
     greater_is_better=False, report_to="none", seed=a.seed, remove_unused_columns=False,
@@ -117,7 +117,7 @@ print(f"Adapter saved to {a.out}")
 if a.merge:
     del model
     torch.cuda.empty_cache()
-    base = AutoModelForCausalLM.from_pretrained(a.model, torch_dtype=torch.bfloat16)
+    base = AutoModelForCausalLM.from_pretrained(a.model, dtype=torch.bfloat16)
     from peft import PeftModel
     merged = PeftModel.from_pretrained(base, a.out).merge_and_unload()
     dst = Path(a.out) / "merged"
