@@ -1,0 +1,53 @@
+bge-220-1
+d|Is there really such a thing as a disinterested action?
+c|A mother sacrificing herself for her child is surely acting without self-interest. Isn't she?
+m|When I make a sacrifice for someone, do I always get something out of it?
+bge-222-1
+d|What does the preaching of sympathy reveal about the preachers?
+m|Does all the talk about empathy today hide a deeper dissatisfaction with ourselves?
+c|Isn't sympathy the most basic of human virtues?
+bge-223-1
+d|Why does the modern European need history as a storeroom of costumes?
+m|We keep trying on new styles and identities and none of them fit. Why?
+k|Will our laughter have a future?
+bge-224-1
+d|What is the historical sense, and where does it come from?
+m|Does having access to every culture's past make us richer or shallower?
+k|Why can we enjoy Homer when the French classicists couldn't?
+bge-224-2
+d|Why is the historical sense a mark of bad taste?
+c|Isn't it a virtue to appreciate every age and culture equally?
+m|Why do we love Shakespeare's wild mixture of high and low that a stricter culture would have rejected?
+bge-224-3
+d|Is our love of the infinite in conflict with good taste?
+m|Are we modern people drawn to danger and excess because we've lost a sense of proportion?
+bge-225-1
+d|What is wrong with measuring the worth of things by pleasure and pain?
+c|Isn't the reduction of suffering the noblest goal a person can pursue?
+m|Does great suffering shape people and make them greater?
+bge-225-2
+d|What do you mean by "sympathy against sympathy"?
+c|How can withholding sympathy ever be a form of sympathy?
+bge-226-1
+d|What kind of duties do the immoralists have?
+k|Are immoralists men without duty?
+bge-227-1
+d|Which virtue is left to the free spirits?
+m|Can honesty become a vice, or a form of vanity?
+k|Why do you warn against becoming saints and bores?
+bge-228-1
+d|Why has moral philosophy been so tedious?
+c|The English utilitarians simply wanted the greatest happiness for the greatest number. What's wrong with that?
+m|Why do so many discussions of ethics feel like sermons rather than real inquiry?
+bge-229-1
+d|What is the truth about cruelty in higher culture?
+c|We have overcome our cruelty through civilization, haven't we?
+m|Is the pleasure we take in tragedy and violent entertainment a disguised form of cruelty?
+bge-229-2
+d|Why do people enjoy tragedy, bull-fights and gladiatorial contests?
+m|Can cruelty toward oneself be a source of pleasure, as in self-denial and religious asceticism?
+c|Isn't the pursuit of knowledge the opposite of cruelty?
+bge-230-1
+d|What is the fundamental will of the spirit?
+m|Why do we choose ignorance and narrow horizons sometimes even when we could know more?
+k|Is the mind more like a stomach than a mirror?

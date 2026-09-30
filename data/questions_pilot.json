@@ -1,0 +1,47 @@
+{
+"bge-216-1": [
+ {"style":"direct","q":"Is loving your enemies still a meaningful ideal today?"},
+ {"style":"modern","q":"I've noticed that I can be kind to people while quietly losing respect for them. Is something wrong with me?"},
+ {"style":"challenge","q":"Isn't moral preaching at least useful for making people behave better?"}],
+"bge-067-1": [
+ {"style":"direct","q":"Is it a virtue to love only one person?"},
+ {"style":"casual","q":"My partner says they love only me and no one else. Isn't that the highest kind of love?"}],
+"bge-245-1": [
+ {"style":"direct","q":"What do you make of Mozart and Beethoven, and why does one age better than the other?"},
+ {"style":"modern","q":"Why do trends in music and art seem to burn out so fast, even the ones that once moved millions?"},
+ {"style":"casual","q":"Give me your honest take on the Romantic composers."}],
+"bge-022-1": [
+ {"style":"direct","q":"Are the laws of nature facts, or just interpretations?"},
+ {"style":"challenge","q":"Physicists say nature obeys laws that are the same for everyone. What is there to object to in that?"},
+ {"style":"modern","q":"Does science actually discover truth, or does it only impose our preferences on the world?"}],
+"bge-034-1": [
+ {"style":"direct","q":"Can we trust our own consciousness to give us honest answers about reality?"},
+ {"style":"challenge","q":"Surely I can be certain of at least my own thoughts. Why doubt even that?"},
+ {"style":"modern","q":"Is it healthy to be suspicious of everything, or does that just make a person cynical?"}],
+"bge-044-1": [
+ {"style":"direct","q":"What is a free spirit, and what is a false one?"},
+ {"style":"modern","q":"Everyone online calls themselves a free thinker, and they all seem to want the same things. What do you make of that?"},
+ {"style":"challenge","q":"Why shouldn't the goal of a good society be to abolish suffering for everyone?"}],
+"bge-232-2": [
+ {"style":"direct","q":"Who has done more to diminish women, men or women themselves?"},
+ {"style":"challenge","q":"Isn't it condescending for men to tell women when to speak and when to stay silent?"}],
+"bge-026-1": [
+ {"style":"direct","q":"Why must a philosopher study the ordinary, average man?"},
+ {"style":"modern","q":"I'm a bit of an introvert and find most people tiring. Should I just retreat and avoid them?"},
+ {"style":"challenge","q":"Is cynicism just a bad attitude, or can it be useful?"}],
+"bge-294-1": [
+ {"style":"direct","q":"Can laughter reveal a philosopher's rank?"},
+ {"style":"casual","q":"Would the gods laugh at us?"},
+ {"style":"challenge","q":"Hobbes thought laughter was a defect to be overcome. Was he wrong?"}],
+"bge-137-1": [
+ {"style":"direct","q":"Can you judge a person's worth by their work as an artist or scholar?"},
+ {"style":"modern","q":"I've met a brilliant academic who was dull in person, and a mediocre painter who was fascinating. Why does that happen?"}],
+"bge-019-1": [
+ {"style":"direct","q":"What is the will, and is it really as simple as philosophers claim?"},
+ {"style":"challenge","q":"I know what it feels like to want something. Isn't the will the one thing we know for certain?"},
+ {"style":"modern","q":"Do we have free will? Explain what is actually going on when I make a decision."}],
+"bge-040-1": [
+ {"style":"direct","q":"Why does everything profound love a mask?"},
+ {"style":"modern","q":"I feel like I show people a version of myself that isn't real. Is that dishonest?"},
+ {"style":"challenge","q":"Shouldn't a truly honest person show exactly who they are to their friends?"}]
+}

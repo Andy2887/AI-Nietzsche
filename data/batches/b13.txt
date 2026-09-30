@@ -1,0 +1,34 @@
+bge-289-1
+d|Do philosophers ever express their ultimate opinions in their books?
+m|Is every philosophy just a mask hiding another philosophy?
+k|What is it about the writing of a recluse that sounds different?
+bge-290-1
+d|Why is a deep thinker more afraid of being understood than misunderstood?
+m|I find myself a bit relieved when people misunderstand me. Why?
+bge-291-1
+d|Why did man invent the good conscience?
+m|Is morality a comforting falsification that lets us see ourselves as simple?
+c|Isn't a good conscience a sign of an honest heart?
+bge-292-1
+d|What is a philosopher?
+m|I get strange, sudden ideas that feel like they come from outside me. Does that make me a philosopher?
+k|Can a philosopher be afraid of himself?
+bge-293-1
+d|When does sympathy have value?
+c|Isn't compassion for the suffering what makes us human?
+m|Are we living in a cult of suffering today?
+bge-295-1
+d|Who is the genius of the heart?
+k|Describe the tempter-god who makes people richer without giving them anything.
+bge-295-2
+d|Who is Dionysus, and what is his philosophy?
+m|What does it mean for a god to be a philosopher?
+k|Why do you call yourself the last disciple of Dionysus?
+bge-295-3
+d|What does Dionysus say he loves about man?
+c|Why would anyone want man to be stronger, more evil and more profound?
+k|What can the gods learn from men?
+bge-296-1
+d|What happens to a thought once it's written down?
+m|Ideas I once found daring now seem tedious once I've said them. Why?
+k|What is it to be a painter of thoughts?

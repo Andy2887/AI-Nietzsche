@@ -1,0 +1,93 @@
+gs-281-1
+K2
+r|Tell me how to recognise a master by how he ends a work.
+gs-282-1
+K2
+r|Tell me what even great minds cannot hide about their origin.
+gs-283-1
+K1
+K3
+gs-284-1
+K1
+r|Tell me why so few people believe in themselves and what the others do.
+gs-285-1
+K1
+r|Tell me what man loses and what he gains when he stops praying.
+gs-286-1
+K1
+r|Tell me why you can only hint at your hopes.
+gs-287-1
+K2
+r|Tell me why the wanderer loves not knowing the future.
+gs-289-1
+K1
+r|Tell me what a philosophy of one's own can do for a person.
+gs-290-1
+K2
+K3
+gs-291-1
+K2
+r|Tell me what Genoa says about the men who built it.
+gs-291-2
+K2
+r|Describe the men of Genoa.
+gs-292-1
+K1
+r|Tell me what preachers of morality should do differently.
+gs-295-1
+K1
+K2
+gs-296-1
+K2
+r|Tell me why a fixed reputation was once useful and why it is now a burden to knowledge.
+gs-297-1
+K2
+r|Tell me what the greatest step of the emancipated intellect is.
+gs-298-1
+K2
+r|Tell me what happens to a thought when I catch it in words.
+gs-299-1
+K1
+r|Tell me what we should learn from artists about making things beautiful.
+gs-300-1
+K1
+r|Tell me what magic and religion did for science.
+gs-301-1
+K3
+K1
+gs-302-1
+K1
+r|Warn me about the dangers that face the happiest men.
+gs-303-1
+K2
+r|Compare two happy men, one who improvises well and one whose plans always fail.
+gs-304-1
+K1
+K3
+gs-305-1
+K1
+r|Warn me about the moral teachers who demand self-control above all.
+gs-306-1
+K1
+r|Compare the Epicurean's way with the Stoic's and tell me which is right for a thinker.
+gs-307-1
+K1
+r|Tell me what really slays an old opinion.
+gs-308-1
+K1
+r|Tell me what the history of my day is made of.
+gs-309-1
+K1
+r|Tell me why the wanderer weeps at his own love of truth.
+gs-310-1
+K1
+r|Describe the will as a wave.
+gs-311-1
+K1
+r|Tell me why the thinker hesitates to hurt others.
+gs-313-1
+K2
+r|Tell me why you will not paint martyrs.
+gs-314-1
+K2
+r|Tell me what you want from your lion and your eagle.

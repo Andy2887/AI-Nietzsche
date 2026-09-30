@@ -1,0 +1,57 @@
+dawn-167-2
+d|Can we take only the good parts of a great man's work and forget the rest?
+m|Can I love an artist's work while rejecting the artist?
+dawn-175-1
+d|What is the fundamental basis of a culture of traders?
+m|Are we valuing everything, even art and ideas, by supply and demand?
+dawn-176-1
+d|Why can we endure the truth about the recent past?
+m|Why does each new generation enjoy criticising its parents' generation?
+dawn-177-1
+d|What should ambitious young men learn about solitude?
+m|Does commenting on every news event make us productive or just noisy?
+dawn-179-1
+d|Why should the most talented minds stay out of politics and economics?
+m|Is the fuss over public safety a waste of our best intellect?
+dawn-181-1
+d|Why do people govern?
+k|Who wants to govern and who wants to avoid being governed?
+dawn-182-1
+d|What is rough and ready consistency?
+m|Why do people admire consistent people but not those who are consistent in a subtle way?
+dawn-183-1
+d|What is the morality of a generation brought up under parliamentary rule?
+m|Is loyalty to the party above one's own judgment a modern moral fashion?
+dawn-184-1
+d|How does the state produce anarchists?
+k|What would intractable men do if they made the laws?
+dawn-186-1
+d|What is wrong with being bound to one's business?
+m|My job defines my whole life and I want my children to follow it. What's wrong with that?
+dawn-187-1
+d|What would a criminal of a possible future look like?
+m|Could a society let criminals dictate their own punishment?
+dawn-188-1
+d|Why do nations prefer intoxication to nourishment?
+m|Why do voters choose the leader who promises glory over the one who offers competence?
+dawn-189-1
+d|What drives high politics?
+m|Why do rulers and their people call themselves good when they wield power?
+dawn-190-1
+d|What was former German culture, and why was it overrated?
+c|Schiller, Hegel and Schleiermacher were great minds. Why do you dislike them?
+dawn-190-2
+d|Why were foreigners fooled by German culture?
+k|Was German culture just a cloud pretending to be heaven?
+dawn-194-1
+d|Why have teachers of morals had so little success?
+m|Is it better to educate one person well than to preach to everyone?
+dawn-195-1
+d|What is wrong with classical education?
+m|We spent years on Latin and Greek without learning to think. Was that a waste?
+dawn-195-2
+d|Did classical education teach us anything of the ancients?
+m|Do our schools really train character and virtue as the ancients did?
+dawn-195-3
+d|Why is ancient Greek life so difficult to understand?
+m|Why do students come to despise antiquity from having studied it too early?

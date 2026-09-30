@@ -1,0 +1,102 @@
+dawn-540-1
+K1
+r|Tell me what is wrong with the distinction between natural gift and learned skill.
+dawn-541-1
+K2
+r|Tell me how to become like a precious stone.
+dawn-543-1
+K3
+K1
+dawn-544-2
+K1
+r|Tell me why people who call themselves artistic and intuitive have taken up philosophy.
+dawn-545-1
+K2
+r|Tell me what one must have lived through before speaking about morality.
+dawn-546-1
+K1
+K3
+dawn-547-1
+K3
+r|Tell me how the wish to solve the riddle of the world in one stroke held back science.
+dawn-548-1
+K3
+r|Tell me what is greatest in a man of genius and why it goes unseen.
+dawn-549-1
+K2
+r|Tell me why men of action flee from themselves.
+dawn-550-1
+K3
+K2
+dawn-551-1
+K1
+r|Tell me what virtues might belong to a future age.
+dawn-552-1
+K2
+r|Tell me what pregnancy teaches about a higher kind of selfishness.
+dawn-553-1
+K2
+r|Explain how your philosophy is your personal regimen in disguise.
+dawn-554-1
+K2
+r|Tell me why you praise leaders more than progress.
+dawn-555-1
+K1
+r|Tell me what experiences a thinker should avoid.
+dawn-556-1
+K2
+r|Tell me the four cardinal virtues.
+dawn-557-1
+K1
+r|Tell me why bad music sounds good on the way to battle.
+dawn-558-1
+K2
+r|Tell me what vanity hides behind those who are transparent as water.
+dawn-559-1
+K1
+r|Tell me what goes wrong when we set ourselves impossible goals.
+dawn-560-1
+K3
+K1
+dawn-561-1
+K1
+r|Tell me why poets should paint life darker than it is.
+dawn-563-1
+K1
+r|Tell me whether there is an eternal justice.
+dawn-564-1
+K1
+r|Tell me what lies beyond a great mind's small hand-breadth of experience.
+dawn-565-1
+K1
+r|Tell me how ignorance puts on the mask of dignity.
+dawn-566-1
+K2
+r|Tell me why the thinker's way of life is so cheap and so dear.
+dawn-567-1
+K2
+r|Tell me how the soldiers of knowledge take things.
+dawn-568-1
+K1
+r|Tell me what the phoenix told the poet about his burning scroll.
+dawn-569-1
+K1
+r|Tell me what a gentleman owes to others in private.
+dawn-570-1
+K1
+r|Tell me what some losses do to the soul.
+dawn-572-1
+K2
+r|Tell me what a thinker wants from life compared with others.
+dawn-573-1
+K1
+r|Tell me what happens to minds that cannot change their views.
+dawn-575-1
+K2
+r|Describe the aeronauts of the intellect and where they land.
+gs-001-1
+K1
+K3
+gs-001-2
+K2
+r|Tell me why moralists and prophets have always claimed life has meaning.

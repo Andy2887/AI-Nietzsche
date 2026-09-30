@@ -1,0 +1,122 @@
+dawn-301-1
+K2
+r|Tell me why holding to what I said once is taken for strength of character.
+dawn-302-1
+K1
+r|Tell me why men lie so freely and forget it.
+dawn-304-1
+K2
+r|Explain what lies behind the cry "may the whole world perish."
+dawn-305-1
+K2
+r|Tell me why a bargain makes me greedier.
+dawn-306-1
+K1
+r|Tell me what the Greeks saw in Ulysses.
+dawn-307-1
+K1
+r|Tell me what history actually records.
+dawn-308-1
+K2
+r|Tell me why it lowers a person to sell his virtue at the highest price.
+dawn-309-1
+K1
+r|Tell me why fear taught us more about people than love did.
+dawn-310-1
+K1
+r|Tell me where the good-natured get their character.
+dawn-311-1
+K1
+r|Tell me what people call a soul.
+dawn-312-1
+K2
+r|Tell me what passion, dreams and madness reveal about the past of mankind.
+dawn-314-1
+K1
+r|Describe life among the thinkers as birds of passage on a small island.
+dawn-315-1
+K1
+r|Tell me why giving away something can be a pleasure.
+dawn-316-1
+K2
+r|Tell me why small sects hunt for a few brilliant members.
+dawn-317-1
+K1
+r|Tell me why the judgment of the evening is unreliable.
+dawn-318-1
+K1
+r|Tell me what is funny about people who build systems.
+dawn-319-1
+K1
+r|Tell me what hospitality is really for.
+dawn-320-1
+K2
+r|Tell me what changeable weather does to a people's habits.
+dawn-323-1
+K2
+r|Tell me about the small revenges of the timid and how they darken the sky.
+dawn-325-1
+K1
+r|Tell me how a man becomes the prophet of his age.
+dawn-326-1
+K1
+r|Tell me why we cannot measure our own power.
+dawn-327-1
+K1
+r|Tell the fable of the Don Juan of knowledge.
+dawn-328-1
+K2
+r|Tell me why practical men love idealistic theories.
+dawn-329-1
+K2
+r|Tell me why the deeply disappointed mistrust cheerfulness.
+dawn-331-1
+K2
+r|Tell me who really needs asceticism.
+dawn-332-1
+K2
+r|Tell me how an artist becomes bombastic.
+dawn-333-1
+K1
+r|Tell me what an animal would say about the human claim to morality.
+dawn-335-1
+K1
+r|Tell me what love and kindness require of a man who is honest with himself.
+dawn-336-1
+X
+dawn-337-1
+K1
+r|Tell me what praise remains for an artist who is otherwise theatrical.
+dawn-339-1
+K1
+K2
+dawn-341-1
+K2
+r|Tell me why not knowing one's own temperament might be an advantage.
+dawn-342-1
+K2
+r|Warn me about the person who examines everything so carefully before he buys.
+dawn-343-1
+K1
+r|Tell me what you think of those who refuse to be dissatisfied with themselves.
+dawn-344-1
+K1
+r|Tell me why a great master should sometimes nod.
+dawn-345-1
+K2
+r|Tell me whether a philosophy must make people happy in order to be wise.
+dawn-347-1
+K1
+r|Tell me what a year of silence teaches.
+dawn-348-1
+K2
+r|Compare the man seeking power with the man who already has it.
+dawn-349-1
+K2
+r|Tell me what we secretly think at a death-bed.
+dawn-350-1
+K1
+r|Tell me how to make a promise most safely.
+dawn-351-1
+K2
+r|Tell me why people prepare traps in conversation.

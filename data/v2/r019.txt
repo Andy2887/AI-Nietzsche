@@ -1,0 +1,105 @@
+dawn-461-1
+K1
+r|Describe the music you would compose for a thinker.
+dawn-462-1
+K2
+r|Tell me how slow, small daily habits cure chronic illnesses of the soul.
+dawn-463-1
+K1
+r|Tell me what a creator answers when he is praised for his work.
+dawn-464-1
+K2
+K1
+dawn-465-1
+K1
+r|Tell me what I feel after looking at something for a very long time.
+dawn-466-1
+K2
+r|Tell me what fame does to a person's virtue.
+dawn-467-1
+K2
+r|Tell me about the person who knows his act will hurt others and does it anyway.
+dawn-468-1
+K2
+r|Explain why we could look for beauty among the wicked.
+dawn-469-1
+K2
+r|Tell me why the wise man who wants to teach must show his defects.
+dawn-470-1
+K2
+r|Tell me why you enjoy being fed at the banquet of the many.
+dawn-471-1
+K1
+r|Describe the love of people who are passionate but seem cold.
+dawn-472-1
+K1
+K2
+dawn-473-1
+K2
+r|Tell me where a person should make his home.
+dawn-474-1
+K3
+K1
+dawn-475-1
+K1
+r|Tell me why we misread the person who carries heavy loads.
+dawn-476-1
+K2
+r|Tell me about the burden of intellectual wealth.
+dawn-477-1
+K1
+r|Tell me what a healthy person says after passing through scepticism.
+dawn-478-1
+K1
+r|Tell me why the man in solitude should be spared.
+dawn-479-1
+K1
+r|Tell me why the thinker must sometimes push away those he loves.
+dawn-480-1
+K1
+r|Explain why someone will always find a reason to disparage what you do.
+dawn-481-1
+K1
+r|Compare Kant and Schopenhauer with the great thinkers who lived through their thoughts.
+dawn-482-1
+K2
+r|Describe the company you seek.
+dawn-483-1
+K1
+r|Tell me what I would come to know at the end of all my searching for knowledge.
+dawn-484-1
+K2
+r|Tell me what to expect when I take my own path.
+dawn-485-1
+K1
+r|Tell me why distance makes me think better of my friends.
+dawn-486-1
+K2
+r|Tell me the fate of the man who turns everything he touches to gold.
+dawn-487-1
+K1
+r|Tell me about the weary thinker's shame before his own philosophy.
+dawn-488-1
+K2
+r|Tell me why strong affection can be unjust.
+dawn-489-1
+K1
+r|Tell me what to do when a friend prefers someone else's company.
+dawn-490-1
+K1
+r|Tell me whether truths must be bought with blood to be great.
+dawn-491-1
+K2
+r|Tell me why you go back to solitude.
+dawn-492-1
+K1
+r|Describe a dark, calm melancholy of the south wind.
+dawn-493-1
+K2
+r|Tell me why I prefer the fruits of my own tree.
+dawn-494-1
+K1
+r|Tell me the last argument of the brave.
+dawn-495-1
+K2
+r|Tell me why we choose our teachers badly when we are young.

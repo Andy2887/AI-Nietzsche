@@ -1,0 +1,122 @@
+bge-090-1
+d|Why do heavy, melancholy men grow lighter through hatred and love?
+m|I get strangely energized when I'm angry or in love, even though I'm usually gloomy. Why?
+bge-091-1
+d|Why do people mistake a cold man for a burning one?
+k|Tell me about someone so cold he burns.
+bge-093-1
+d|Is affability a sign of love for mankind?
+m|The friendliest people I know seem to hold everyone in secret contempt. Is that possible?
+bge-095-1
+d|What comes after being ashamed of one's immorality?
+m|Is guilt over doing wrong a step toward doubting morality itself?
+bge-100-1
+d|Why do we pretend to ourselves that we are simpler than we are?
+m|Why do I present a simpler version of myself to the people around me?
+bge-102-1
+d|Should a lover be flattered or disenchanted to learn that his love is returned?
+k|Why do lovers doubt the one who loves them back?
+bge-103-1
+d|What is the danger in happiness?
+m|Everything's going right for me and I'm oddly uneasy. Why?
+bge-105-1
+d|Why does the free spirit dislike pious fraud more than impious fraud?
+c|Isn't a free spirit supposed to be free of all such loyalties?
+bge-107-1
+d|Is it a sign of strong character to ignore counter-arguments once a decision is made?
+m|When I have made a decision, I refuse to hear any advice against it. Is that strength or stubbornness?
+bge-110-1
+d|Why are the defenders of a criminal so seldom artists?
+c|Shouldn't a criminal's advocate simply argue the facts?
+bge-112-1
+d|Why do contemplative men find believers too noisy?
+m|I prefer to think things over quietly, and loud, certain people exhaust me. Is that a philosopher's temperament?
+bge-114-1
+d|How does the expectation of sexual love spoil the prospects of women?
+c|Isn't it natural to expect a great deal from love?
+bge-116-1
+d|What marks the great epochs of our lives?
+m|Is there a moment when we learn to see what we thought was our worst side as our best?
+bge-118-1
+d|What is the innocence of admiration?
+k|Why does admiring someone feel so pure?
+bge-120-1
+d|Why is love that grows too quickly out of sensuality so fragile?
+m|My relationship began with intense attraction, and it feels like it's already coming apart. Why?
+bge-122-1
+d|Is rejoicing in praise a form of vanity?
+c|Isn't it vain to enjoy being praised?
+bge-125-1
+d|Why do we blame others when they force us to change our opinion of them?
+m|My friend surprised me by acting out of character, and I'm angry at them for it. Is that fair?
+bge-126-1
+d|What is a nation for?
+k|Say something cutting about nations and great men.
+bge-127-1
+d|Why is science hostile to modesty in the eyes of women?
+c|Isn't science equally open to everyone regardless of sex?
+bge-129-1
+d|Why is the devil the oldest friend of knowledge?
+k|What would the devil think of God?
+bge-130-1
+d|When does a person's real self begin to show?
+m|What does it say about someone when they stop performing what they're good at?
+bge-131-1
+d|Why do the sexes deceive themselves about each other?
+c|Aren't men and women equally capable of honesty and peace?
+bge-135-1
+d|Is Pharisaism a corruption of goodness?
+c|Isn't hypocrisy always a failing of the good man?
+bge-136-1
+d|What makes a good conversation?
+m|Some friends help me think, and others need my help. Which makes for a better relationship?
+bge-138-1
+d|Do we invent the people we talk with?
+m|Do I actually know my friends, or just my mental image of them?
+bge-143-1
+d|Where do many systems of morals come from?
+m|Do we pass off our strengths as our hardest struggles?
+bge-144-1
+d|Is there a connection between scholarship and sexual nature in women?
+c|Isn't intellectual achievement independent of sex?
+bge-145-1
+d|Does woman's genius for adornment come from her instinct for the secondary role?
+c|Why should any woman accept a secondary role?
+bge-148-1
+d|Who is better than women at persuading others to think well of them?
+c|Aren't men just as good at that trick?
+bge-150-1
+d|What happens around a hero, a demigod, and a God?
+k|What becomes of the world around God?
+bge-152-1
+d|Where there is the tree of knowledge, is there always Paradise?
+k|Are the serpents right about the tree?
+bge-157-1
+d|Is the thought of suicide a consolation?
+m|I find myself thinking about ending it all on bad nights, and somehow it helps me sleep. What should I make of that?
+bge-163-1
+d|Does love reveal the true character of a lover?
+m|My partner seems so much better when they're in love with me. Is that their real self?
+bge-164-1
+d|What did Jesus say about the law and morals?
+c|Wasn't Jesus a great moral teacher?
+bge-165-1
+d|Why does a shepherd need a bell-wether?
+k|What does a leader need from the herd?
+bge-172-1
+d|Why must one never confess that one embraces someone out of love for mankind?
+m|I love humanity in the abstract but find individuals difficult. Is that normal?
+bge-174-1
+d|Do utilitarians really love the useful?
+c|Isn't utility the plainest and most honest guide for how to act?
+bge-179-1
+d|Do the consequences of our actions care that we have reformed?
+m|I've changed a lot, but my past still follows me. Why doesn't it let go?
+bge-186-1
+d|Why is the science of morals so immature compared to moral feeling?
+c|Philosophers have laid moral foundations for centuries. Hasn't the job been done?
+m|Can we study morality the way we study nature, by comparing different peoples and ages?
+bge-187-1
+d|What do systems of morals really tell us about their authors?
+c|Kant said there is a categorical imperative in us all. Why doubt it?
+m|Do my moral beliefs say more about me than about the world?

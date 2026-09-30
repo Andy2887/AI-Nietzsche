@@ -1,0 +1,75 @@
+gs-031-1
+d|How might commerce and nobility change places?
+m|Could buying and selling one day become a luxury for the noble, as hunting did?
+gs-032-1
+d|Why are certain disciples unwelcome to a philosopher?
+m|What kind of student can't handle a hard philosophy?
+gs-033-1
+d|Is man now more wicked than ever?
+k|Why did science make man more distrustful?
+gs-034-1
+d|How does a great man affect history?
+m|Does every great person change how we see the past?
+gs-035-1
+d|What is heresy?
+c|Is thinking differently the mark of a better intellect?
+m|Are heretics and rebels driven by malice rather than reason?
+gs-037-1
+d|Why has science been furthered?
+m|Did science advance because of three errors?
+gs-038-1
+d|Why do young men join causes so uncritically?
+m|Why are young people drawn to the fire of a cause rather than its reasons?
+gs-039-1
+d|What changes the general taste?
+m|Do opinions follow taste, or taste follow opinions?
+gs-040-1
+d|Why does industrial civilisation lack noble presence?
+m|Would socialism have arisen if the employers had been more noble?
+c|Isn't it better that merit, not birth, determines status?
+gs-041-1
+d|Why should the thinker not feel remorse?
+m|How should a scientist treat failure?
+gs-042-1
+d|What is the relation of work and boredom for a thinker?
+m|Why do creative people need to endure boredom before they can create?
+gs-044-1
+d|Why is the believed motive more important than the actual motive?
+m|Does what we believe motivates us matter more than what actually does?
+gs-045-1
+d|How do you perceive Epicurus?
+k|What did Epicurus's eye see?
+gs-046-1
+d|Why are we astonished that science holds its ground?
+m|Is our trust in science like the joy of a shipwrecked man on firm ground?
+gs-047-1
+d|What happens if you suppress the expression of passions?
+m|Is our culture suppressing genuine feelings while staging their display?
+gs-048-1
+d|What separates people by their knowledge of distress?
+m|Do we hate pain more than earlier generations because we experience it less?
+gs-048-2
+d|What does the appearance of pessimism indicate?
+c|Isn't pessimism a response to real suffering?
+m|Is the modern feeling of distress a sign of too much comfort?
+gs-049-1
+d|What is magnanimity?
+m|Is forgiving an enemy a kind of egoism?
+gs-050-1
+d|What is the argument of isolation?
+m|Why do we fear social exclusion more than our own conscience?
+gs-051-1
+d|What is your sense for truth?
+k|What kind of scepticism do you welcome?
+gs-053-1
+d|Where does goodness begin?
+m|Do we call things good because our eyes can no longer see the evil in them?
+gs-054-1
+d|What is the consciousness of appearance?
+m|Are we dreamers who must keep dreaming to survive?
+gs-055-1
+d|What makes a person noble?
+m|Is nobility a matter of unconscious rare passion rather than sacrifice?
+gs-056-1
+d|Why do young Europeans desire suffering?
+m|Why do people go looking for causes to be distressed about?

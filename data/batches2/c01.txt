@@ -1,0 +1,82 @@
+# d=direct m=modern c=challenge k=casual
+dawn-001-1
+d|Why do old and enduring things seem so reasonable?
+m|Every institution has a reasoned justification now, but did it begin that way?
+dawn-002-1
+d|Do we really know good and evil better than earlier ages did?
+c|Surely moral progress has made us wiser about right and wrong than our ancestors.
+dawn-003-1
+d|Why did man read moral significance into everything that exists?
+m|Will our belief in moral order in the world one day look as silly as thinking the sun is male?
+dawn-004-1
+d|Why should we not wish the world to be more disharmonious than it is?
+k|What is wrong with false grandeur?
+dawn-005-1
+d|What is the most important result of humanity's past efforts?
+m|What are we fortunate to be free of today?
+dawn-007-1
+d|Did real or imaginary things build most of man's happiness?
+m|Does science make our sense of space, and of ourselves, smaller?
+dawn-008-1
+d|What are Raphael's three classes of mankind?
+k|What would Raphael see today?
+dawn-009-1
+d|What is the morality of custom?
+c|Isn't morality about doing good, rather than obeying tradition?
+m|Are people who break with tradition immoral by definition?
+dawn-009-2
+d|What is tradition, and why do we obey it?
+m|Is the person who makes the greatest sacrifices to morality the most moral?
+c|Isn't obeying custom in the hardest cases just a virtue of self-control?
+dawn-009-3
+d|How did Socrates and the Christians differ from the morality of custom?
+m|Why do original thinkers so often feel guilty about their originality?
+dawn-010-1
+d|How does the sense of causality relate to morality?
+m|Does scientific understanding of causes reduce the domain of morality?
+dawn-011-1
+d|What do popular morals and popular medicine have in common?
+m|Are everyday moral beliefs as unreliable as folk remedies?
+dawn-012-1
+d|How were the consequences of an action understood in earlier times?
+k|What is the confusion in treating consequences as God's addition?
+dawn-013-1
+d|What is wrong with the conception of punishment?
+m|Why do people treat misfortune as if it must be a punishment?
+c|Isn't punishment necessary for a just society?
+dawn-014-1
+d|What role did madness play in the history of morality?
+m|Is it true that genius is tinged with madness?
+c|Were great innovators just unstable people who got lucky?
+dawn-014-2
+d|How did ancient men make themselves mad in order to escape custom?
+k|What do medicine-men and Christian saints have in common?
+dawn-014-3
+d|What did the lonely innovators pray for?
+m|What does it feel like to break a law you believe in?
+dawn-015-1
+d|What are the oldest means of solace?
+m|Why do we look for someone to blame when things go wrong?
+dawn-016-1
+d|What is the first principle of civilisation?
+k|Why do savage tribes have such odd, pointless rules?
+dawn-017-1
+d|Why did humans first call nature evil, then good?
+m|Is "nature is good" just a modern human need?
+dawn-018-1
+d|Why did suffering come to be considered virtuous?
+m|Is the enjoyment of cruelty at the heart of old religions?
+dawn-018-2
+d|How did the tormented innovators treat their own bodies?
+k|Why did the pioneers of free thought torture themselves?
+dawn-018-3
+d|What was the true epoch that established the character of mankind?
+m|Have we really changed from the age when suffering, cruelty, and hypocrisy were virtues?
+c|We are surely more humane now. Haven't we moved beyond all that?
+dawn-019-1
+d|Why does morality stupefy?
+m|Does the reverence for tradition make it harder to improve our morals?
+dawn-020-1
+d|Who suffers more, the free-doer or the free-thinker?
+c|Aren't criminals simply wicked men?
+m|Why do people who break the law often come to be admired later?

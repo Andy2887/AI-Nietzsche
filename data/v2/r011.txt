@@ -1,0 +1,90 @@
+dawn-106-1
+K1
+K3
+dawn-107-1
+K1
+r|Explain why morality forbids us to ask how and why we must act.
+dawn-108-1
+K3
+r|Tell me why moral precepts do not make individuals happy.
+dawn-109-1
+K1
+r|Lay out the six methods of fighting the vehemence of an impulse.
+dawn-109-2
+K3
+r|Tell me how a painful association can tame a craving.
+dawn-109-3
+K2
+r|Explain why the will to fight a craving is itself just another craving.
+dawn-110-1
+K1
+r|Explain how a new desire disguises itself as a moral goal.
+dawn-112-1
+K1
+r|Tell me how duties arise from what others have done for us.
+dawn-112-2
+K1
+K3
+dawn-112-3
+K2
+s|I want to be fair in a dispute where the balance of power keeps changing. What does justice require of me?
+dawn-113-1
+K2
+r|Tell me what the desire for distinction really seeks in other people.
+dawn-114-1
+K1
+r|Describe what a man who has suffered long can see that a healthy man cannot.
+dawn-114-2
+K1
+r|Tell me how pride helps the sufferer endure.
+dawn-115-1
+K2
+r|Explain why our words for feelings mislead us about our own character.
+dawn-116-1
+K3
+K2
+dawn-117-1
+K2
+r|Tell me how our senses imprison us.
+dawn-118-1
+K2
+r|Tell me what we can really know about the people around us.
+dawn-119-1
+K1
+r|Explain why my character depends on which instincts chance happens to feed.
+dawn-119-2
+K2
+r|Tell me how a starved instinct uses my dreams.
+dawn-120-1
+K1
+r|Comfort a sceptic who says he doesn't know what he is doing.
+dawn-121-1
+K1
+r|Explain why cause and effect is only a picture of sequence.
+dawn-122-1
+K2
+r|Tell me what the history of the eye shows about purposes in nature.
+dawn-123-1
+K1
+r|Tell me how reason came into the world.
+dawn-124-1
+K1
+K2
+dawn-125-1
+K2
+r|Explain why thought feels free while action does not.
+dawn-127-1
+K2
+r|Tell me which of our actions we understand least and why.
+dawn-128-1
+K3
+K1
+dawn-129-1
+K2
+r|Explain what really happens when we think we are weighing motives.
+dawn-130-1
+K1
+r|Tell me about the giants of chance who tear our webs of purpose.
+dawn-130-2
+K1
+r|Explain how the Greeks, Indians and Christians dealt with the realm of chance.

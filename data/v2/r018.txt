@@ -1,0 +1,105 @@
+dawn-422-1
+K2
+r|Tell me why making others happy gives more pleasure than anything else.
+dawn-423-1
+K3
+K2
+dawn-424-1
+K3
+K2
+dawn-425-1
+K2
+r|Tell me what the errors about our descent and mission have done to mankind.
+dawn-426-1
+K1
+K2
+dawn-427-1
+K2
+r|Explain how the wish to make science attractive gives rise to philosophy.
+dawn-428-1
+K2
+r|Tell me the difference between those who see moral laws and those who interpret them.
+dawn-429-1
+K1
+K2
+dawn-430-1
+K1
+r|Tell me what counts as heroic besides fighting.
+dawn-431-1
+K1
+r|Tell me how to judge an intellect by the way it treats its opponents.
+dawn-432-1
+K1
+r|Tell me what kind of a person a scientific investigator is.
+dawn-433-1
+K1
+r|Tell me what modern realism in art says about our happiness.
+dawn-434-1
+K2
+r|Tell me why great painters paint modest scenes.
+dawn-436-1
+K2
+s|I'm a passenger and I can see that the captain is making dangerous mistakes and I know more about navigation than he does. Should I lead a mutiny?
+dawn-437-1
+K1
+r|Tell me what it is to own oneself.
+dawn-439-1
+K1
+r|Tell me what is common to every feeling of happiness.
+dawn-440-1
+K2
+r|Tell me why the thinker's solitude is not a renunciation.
+dawn-441-1
+K1
+r|Tell me why the more we know about the past, the less we see what is near us.
+dawn-442-1
+K2
+r|Tell me what it means to be initiated in knowledge.
+dawn-443-1
+K1
+r|Tell me the biggest defect in our methods of education.
+dawn-444-1
+K1
+r|Explain why seeing through something isn't the same as breaking through it.
+dawn-445-1
+K1
+r|Tell me why a great gift often earns little gratitude.
+dawn-446-1
+K2
+r|Tell me how to rank thinkers by their depth.
+dawn-448-1
+K1
+r|Tell me how a sage can honour reality without being swallowed by it.
+dawn-449-1
+K2
+r|Tell me what pleasure the confessor takes in giving away his thoughts.
+dawn-450-1
+K1
+r|Tell me about the temptations that science offers passionate spirits.
+dawn-451-1
+K1
+r|Tell me why the powerful need a jester.
+dawn-452-1
+K2
+r|Tell me how impatience can become the school of genius.
+dawn-453-1
+K2
+r|Tell me what to do while we wait for a new morality.
+dawn-454-1
+K1
+r|Tell me how a book like this should be read.
+dawn-455-1
+K1
+r|Tell me what is meant by first and second nature.
+dawn-457-1
+K1
+r|Tell me why a historian who knows too much might fall silent.
+dawn-458-1
+K1
+r|Tell me about the rare man whose intellect, character and experiences all agree.
+dawn-459-1
+K2
+r|Tell me why Rousseau and Schopenhauer could not live what they taught.
+dawn-460-1
+K1
+r|Tell me why our safety makes us poor psychologists.

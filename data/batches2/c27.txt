@@ -1,0 +1,63 @@
+gs-280-1
+d|What is lacking in our great cities?
+m|Should cities have spaces for reflection that are not churches?
+gs-281-1
+d|How are masters of the first rank recognised?
+m|Why is it hard to end things well?
+gs-282-1
+d|How do minds betray a populace origin?
+k|Why couldn't Napoleon walk like a prince?
+gs-283-1
+d|What are the pioneers of the coming age like?
+m|Should we live in danger to be productive?
+c|A safe life is better than a dangerous one. Why live at the slope of Vesuvius?
+gs-284-1
+d|Why do few men believe in themselves?
+m|How can I convince the sceptic inside me?
+gs-285-1
+d|What is the renunciation of the man who no longer prays?
+m|Can man rise higher when he no longer flows out into a God?
+gs-286-1
+d|Why can you only suggest the new hopes?
+k|What do you do if your listeners are stones and animals?
+gs-287-1
+d|Why do you love ignorance of the future?
+k|What does the wanderer say to his shadow?
+gs-289-1
+d|What does a philosophical justification of one's life do for the individual?
+m|Should the evil and the unfortunate each have their own philosophy?
+gs-290-1
+d|What does it mean to give style to one's character?
+m|How can I shape my strengths and weaknesses into a coherent character?
+c|Isn't authenticity better than shaping yourself?
+gs-291-1
+d|What did you see in Genoa?
+m|How do cities reflect the character of their builders?
+gs-291-2
+d|What kind of man do you find at every corner of Genoa?
+k|What does the man in Genoa long to establish anew?
+gs-292-1
+d|What advice do you give to preachers of morality?
+m|Have moral preachers devalued virtue by speaking too much of it?
+gs-295-1
+d|Why do you love short-lived habits?
+m|Should I avoid permanent habits and routines?
+gs-296-1
+d|Why was a fixed reputation useful?
+m|Is consistency of opinion a virtue or a barrier to knowledge?
+gs-297-1
+d|What is the ability to contradict?
+m|Why is it valuable to disagree with what is hallowed?
+gs-298-1
+d|What happens to a notion when we put it into words?
+m|Why do ideas die when I try to write them down?
+gs-299-1
+d|What should we learn from artists?
+m|How can I make my life more beautiful?
+gs-300-1
+d|What is the prelude to science?
+m|Did science arise from magic, alchemy and religion?
+gs-301-1
+d|What is the illusion of the contemplative?
+m|Are thinkers spectators or creators of the world?
+c|Aren't contemplatives merely observers while doers change the world?

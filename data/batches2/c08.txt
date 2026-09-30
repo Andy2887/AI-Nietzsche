@@ -1,0 +1,75 @@
+dawn-146-1
+d|Should true morality consist of looking only at the immediate consequences of our actions for others?
+m|Is it acceptable to cause discomfort to others for the sake of a greater goal like free inquiry?
+dawn-146-2
+d|May we sacrifice a few individuals of this generation for future generations?
+c|That sounds like justification for cruelty. How is it different?
+dawn-147-1
+d|Why have people spoken of love with so much adoration?
+m|What would a world of universal benevolence be like?
+dawn-148-1
+d|Are there any truly moral actions?
+m|If no action is selfless or free, does morality disappear?
+k|What happens when men no longer believe themselves evil?
+dawn-151-1
+d|Should lovers be allowed to make vows for life?
+m|Why should marriage be taken more seriously than a whim of passion?
+dawn-152-1
+d|What oath would you recommend in place of the judicial oath?
+k|How can a person swear without invoking God?
+dawn-154-1
+d|How did the Greeks seek security, and how do we?
+m|Have we introduced danger into thinking because our lives are so secure?
+dawn-155-1
+d|Why are hazardous enterprises rarer in modern times?
+m|Do we take fewer risks because we no longer believe in a future reserved for us?
+dawn-156-1
+d|What did the Greeks fear about being too happy?
+k|Do we fear happiness as the Greeks did?
+dawn-157-1
+d|Why does our culture approve of tears and complaints when the ancients despised them?
+m|Is it healthy to show our grief openly?
+dawn-158-1
+d|Where does flattery flourish today?
+k|Who are the modern flatterers?
+dawn-159-1
+d|Why do vain men value the revival of the past?
+m|Is romanticism a kind of vanity about resurrecting the past?
+dawn-160-1
+d|What should the vain, greedy and unwise practice?
+k|What do you recommend to those whose desires outrun their understanding?
+dawn-161-1
+d|How should artists represent beauty in our age?
+m|Would a true portrait of our times show beauty as bloated and nervous?
+dawn-162-1
+d|Why do Europeans treat important things with irony?
+m|Are we too busy to take anything seriously?
+dawn-163-1
+d|What is your reply to Rousseau?
+c|Rousseau thought civilization corrupted natural goodness. Isn't he right?
+dawn-165-1
+d|Why does a nation not find its most emphasised moral commandments tiresome?
+k|Why did the Greeks love Socratic virtues?
+dawn-166-1
+d|What is shameful about being a wheel in a system of connections?
+m|I'm told networking is essential to success. What's wrong with that?
+dawn-167-1
+d|Why is unconditional homage to great men a difficulty?
+m|Must we agree with everything a hero believes?
+dawn-168-1
+d|Why do you esteem Thucydides more than Plato?
+k|What did the Greek Sophists' culture represent?
+dawn-169-1
+d|Why is the Greek genius foreign to us?
+m|Does music reveal our labyrinthine souls more than architecture does?
+dawn-172-1
+d|Why do warlike men enjoy tragedy?
+m|Why does tragedy suit hard souls but not soft ones?
+dawn-173-1
+d|What is the secret behind glorifying work?
+m|Does our culture praise hard work because it keeps people from thinking for themselves?
+c|Isn't hard work a virtue and a blessing?
+dawn-174-1
+d|What lies behind the modern morality of sympathy?
+m|Is our moral fashion driven by fear of danger and desire for security?
+c|Isn't making life safer and gentler a good goal?

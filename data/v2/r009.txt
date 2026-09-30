@@ -1,0 +1,96 @@
+dawn-035-1
+K1
+s|My friends tell me to trust my feelings and follow my heart. Where do my feelings actually come from?
+dawn-036-1
+K1
+s|Everyone praises the ancients as the true geniuses, and modern discoveries as mere technique. Is that fair?
+dawn-037-1
+K2
+r|Explain why showing that something is useful does not tell us why it exists.
+dawn-038-1
+K1
+K3
+dawn-039-1
+K2
+r|Tell me what happens to a people that teaches contempt for the body.
+dawn-040-1
+K1
+r|Explain how absurd rituals became the training ground of thought.
+dawn-041-1
+K2
+r|Tell me what harm contemplatives, artists and priests have done to those who act.
+dawn-043-1
+K2
+r|Tell me all the things a thinker must have and how each was once mistaken for the goal.
+dawn-044-1
+K1
+r|Tell me why the search for origins no longer promises salvation.
+dawn-045-1
+K1
+r|Describe what knowledge might one day demand of humanity.
+dawn-046-1
+K2
+r|Tell me why doubt's pillow made Pascal angry.
+dawn-047-1
+K1
+r|Explain how words have become fossils that block understanding.
+dawn-048-1
+K1
+r|Say what you mean when you say things are the boundaries of man.
+dawn-049-1
+K2
+K1
+dawn-051-1
+K1
+r|Comment on Mill's plea to be indulgent toward the great one-eyed.
+dawn-054-1
+K2
+r|Tell me why one should soothe a patient's imagination.
+dawn-055-1
+K2
+r|Warn me about short cuts.
+dawn-056-1
+K1
+s|A friend of mine used to be a free-thinker and has now become a believer. I find myself unreasonably repelled by this. Why?
+dawn-057-1
+K1
+r|Tell me what our age has kept from Christianity and what it has lost.
+dawn-058-1
+K1
+K2
+dawn-059-1
+K1
+r|Compare the promises of the shortest way to perfection in Christianity and in philosophy.
+dawn-060-1
+K3
+c|You attack Christianity, yet you praise the finest Catholic priests. Isn't that inconsistent?
+dawn-061-1
+K2
+r|Tell me what someone who believes in Christianity owes to himself before he can judge it.
+dawn-062-1
+K1
+r|Explain how a man comes to treat his own opinion as a revelation.
+dawn-063-1
+K2
+r|Tell me what Pascal thought about mankind and why he despised his neighbour.
+dawn-064-1
+K2
+r|Explain how Christianity looks for the ones who can be driven to despair.
+dawn-065-1
+K1
+r|Compare the paths Brahminism and Christianity offer to a feeling of power.
+dawn-066-1
+K2
+r|Tell me why the ages of visions valued madness.
+dawn-069-1
+K1
+r|Tell me how the Greek and the Christian differ in envy, friendship and pride.
+dawn-070-1
+K2
+r|Explain why the Christian Church proved so adaptable.
+dawn-073-1
+K3
+K2
+dawn-074-1
+K2
+r|Tell me what an early Christian might have thought about facing a powerful judge.

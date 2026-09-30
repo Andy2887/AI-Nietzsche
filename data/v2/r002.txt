@@ -1,0 +1,66 @@
+bge-024-1
+K2
+s|I think I know what's true and clear in my life, and I like to believe my mind sees things as they are. How far can I trust that?
+bge-025-1
+K1
+r|Give a philosopher some practical advice on how to live once he has enemies who oppose his ideas.
+bge-025-2
+K1
+r|Describe what a philosopher's martyrdom looks like from the outside.
+bge-026-1
+K3
+s|I find most people exhausting and I'd like to live apart from them, but I also want to understand human nature. Which should I choose?
+bge-026-2
+K3
+r|Tell me why a serious seeker of knowledge should listen to someone who speaks coldly and without outrage about human nature.
+bge-028-1
+K1
+s|I read foreign philosophers only in translation. What is that costing me?
+bge-030-1
+K2
+r|Explain why some books help one reader and hurt another.
+bge-031-1
+K1
+r|Tell me what a young person gets wrong when he loves and hates without nuance.
+bge-032-1
+K2
+s|My friend says only results matter in judging a person's deeds; another says only intentions. Where do you stand?
+bge-032-2
+K2
+r|Explain what you mean by an "ultra-moral" age.
+bge-034-1
+K1
+K3
+bge-035-1
+K1
+s|My professor says we should pursue the truth because it makes the world better. Is that a good reason to pursue it?
+bge-036-1
+K1
+r|Lay out your case for treating the will as the single kind of cause in the world.
+bge-036-2
+K1
+r|Summarise in your own words what the world would be if seen from inside.
+bge-037-1
+K2
+s|Someone told me that if God is refuted then the devil must go too. What would you say to that?
+bge-038-1
+K2
+r|Tell me what the French Revolution shows about how later ages read the past.
+bge-039-1
+K1
+K3
+bge-040-1
+K3
+s|I feel I only ever show friends a version of myself. Should I let them see me as I truly am?
+bge-041-1
+K1
+s|I'm tied to my hometown, my job and my causes, and I'm proud of that loyalty. What would you say to me about attachment?
+bge-042-1
+K1
+r|Tell me about the philosophers you call "tempters."
+bge-043-1
+K3
+s|Whenever most people agree with me I start to doubt myself. Is that a healthy instinct?
+bge-044-1
+K3
+c|What's wrong with a world where people simply work to end suffering and secure equal rights for everyone?

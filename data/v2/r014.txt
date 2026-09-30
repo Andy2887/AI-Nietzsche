@@ -1,0 +1,104 @@
+dawn-202-1
+X
+dawn-202-2
+K1
+r|Tell me what a society without vengeance and punishment would look like.
+dawn-203-1
+K1
+r|Tell me what the fashionable banquet really shows.
+dawn-206-1
+K2
+r|Explain why raising a factory worker's wages cannot remove his real misery.
+dawn-207-1
+K2
+r|Tell me what a German can do when he stops obeying.
+dawn-207-2
+K2
+K1
+dawn-207-4
+K2
+r|Explain what the German idea of morality demands of a man.
+dawn-207-5
+K2
+r|Tell me what happens when a German outgrows morality and must learn to command.
+dawn-208-1
+K1
+r|Tell me in one line what you want that is new.
+dawn-209-1
+K2
+s|Everyone forgives the moral failings of a preacher but hunts for flaws in a freethinker's life. Why?
+dawn-210-1
+K2
+r|Explain why nothing is funny, beautiful or sublime in itself.
+dawn-211-1
+K1
+K2
+dawn-212-1
+K1
+r|Tell me how men first learn who they are.
+dawn-213-1
+K1
+r|Explain why some people's lives are failures no matter what society does.
+dawn-214-1
+K2
+r|Tell me what suffering does to a person's judgment.
+dawn-215-1
+K3
+K2
+dawn-216-1
+K2
+r|Tell me why embittered, suspicious people love music so much.
+dawn-217-1
+K2
+r|Tell me what each nation wants from its artists.
+dawn-218-1
+K1
+r|Tell me how a musician's flaws make us hunger for his virtues.
+dawn-219-1
+K1
+r|Explain why self-humiliation before someone I've wronged is often a performance for myself.
+dawn-220-1
+K1
+r|Explain what pomp and ceremony conceal.
+dawn-221-1
+K1
+r|Tell me what a morality of sacrifice says about a people's stage of civilisation.
+dawn-223-1
+K2
+r|Tell me what every writer fears most.
+dawn-225-1
+K1
+r|Explain why fast talkers sink in our esteem.
+dawn-226-1
+K1
+r|Tell me why you avoid a famous man whom you admire.
+dawn-228-1
+K2
+r|Tell me how praise can be a disguised form of revenge.
+dawn-229-1
+K1
+r|Tell me what the pride of a tortured man is like.
+dawn-230-1
+K2
+r|Explain why arguing for morality from its utility fails.
+dawn-231-1
+K2
+r|Tell me what the German words for simple and bad tell us about the Germans.
+dawn-233-1
+K1
+r|Tell me what strict conscientiousness may be hiding.
+dawn-234-1
+K2
+r|Tell me about someone who runs from fame.
+dawn-235-1
+K1
+r|Explain why refusing someone's thanks offends them so deeply.
+dawn-236-1
+K1
+K2
+dawn-237-1
+K1
+r|Tell me what disgruntles the long-faithful members of a party.
+dawn-238-1
+K1
+r|Tell me what a person's harshness or gentleness reveals about his strength.

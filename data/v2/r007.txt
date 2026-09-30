@@ -1,0 +1,95 @@
+bge-268-2
+K2
+r|Explain why ordinary people have an advantage over rare ones in the struggle to survive.
+bge-269-1
+K2
+s|People who read minds and study human nature for a living often prefer the company of dull, ordinary people. Why?
+bge-269-3
+K1
+r|Tell me what the life of Jesus reveals about love.
+bge-270-1
+K3
+s|Someone I know has suffered terribly and now jokes about everything. Is the humour a mask?
+bge-272-1
+K2
+r|Tell me the marks of a truly noble person.
+bge-273-1
+K2
+r|Describe how an ambitious man treats other people on the way to his goal.
+bge-276-1
+K2
+r|Explain why nobler souls come to grief more easily than coarse ones.
+bge-278-1
+K2
+r|Tell me the story of the wanderer who asks only for another mask.
+bge-279-1
+K1
+s|Whenever I'm happy I clutch at it so hard I almost choke it. Why do I do that?
+bge-280-1
+K1
+r|Comfort someone who feels he is going backwards in life.
+bge-281-1
+K2
+r|Tell me what you think you can and cannot know about yourself.
+bge-282-1
+K1
+K2
+bge-283-1
+K1
+r|Explain why you only praise where you disagree.
+bge-284-1
+K2
+K3
+bge-285-1
+K2
+r|Tell me why great events take so long to be understood.
+bge-286-1
+K1
+r|Describe two kinds of men standing on a height.
+bge-287-1
+K3
+K1
+bge-288-1
+K2
+K3
+bge-289-1
+K3
+K2
+bge-290-1
+K2
+r|Say why a deep thinker fears being understood.
+bge-291-1
+K3
+r|Tell me what the good conscience really does for us.
+bge-292-1
+K3
+K2
+bge-294-1
+K3
+r|Tell me about the gods' laughter and what it says about the philosophers who laugh.
+bge-295-1
+K2
+r|Tell me about the tempter-god you call the genius of the heart.
+bge-295-3
+X
+bge-296-1
+K3
+K2
+dawn-001-1
+K1
+r|Explain why we distrust an account of where our institutions came from.
+dawn-002-1
+K1
+s|Everyone assumes that today we understand right and wrong better than our grandparents did. Is that true?
+dawn-003-1
+K2
+K1
+dawn-004-1
+K1
+K2
+dawn-005-1
+K1
+r|Tell me what humanity should be most thankful for.
+dawn-007-1
+K1
+s|My problems feel enormous, but science keeps telling me how small the earth is. Should that make me feel smaller too?

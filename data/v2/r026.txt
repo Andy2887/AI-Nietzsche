@@ -1,0 +1,177 @@
+gs-175-1
+K2
+r|Tell me what persuades a crowd more than an argument.
+gs-176-1
+K1
+r|Tell me what has happened to the rights of ruling princes.
+gs-177-1
+K2
+r|Tell me what is missing in the education of higher men in Germany.
+gs-178-1
+K1
+r|Tell me which two prejudices the Germans must be talked out of.
+gs-180-1
+K2
+r|Tell me why free spirits enjoy their liberty while the Church still stands.
+gs-181-1
+K1
+r|Tell me who is the higher, the one who follows or the one who leads.
+gs-182-1
+K2
+r|Tell me how a person's voice changes when he lives alone.
+gs-183-1
+K1
+r|Describe the musician of the best future.
+gs-184-1
+K2
+r|Tell me why you would rather be robbed than surrounded by scarecrows.
+gs-186-1
+K1
+r|Tell me why someone who does everything right may still have a bad conscience.
+gs-188-1
+K2
+r|Tell me what "we are all workers" would once have meant.
+gs-190-1
+K2
+r|Tell me what praise really says about the praiser.
+gs-192-1
+K2
+r|Tell me what distinguishes the good-natured.
+gs-193-1
+K2
+r|Tell me what Kant's secret joke was.
+gs-195-1
+K2
+r|Tell me why they follow the man who runs away from them.
+gs-197-1
+K1
+r|Tell me what we most love to pass on.
+gs-204-1
+K1
+r|Tell me what beggars think about courtesy.
+gs-205-1
+K2
+r|Tell me whether need causes things or results from them.
+gs-209-1
+K2
+r|Tell me about a way of asking for reasons that makes us hate reason.
+gs-211-1
+K1
+r|Tell me why a secret enemy is a luxury.
+gs-212-1
+K1
+r|Tell me about the spirit with bad manners that lives in a large-chested soul.
+gs-213-1
+K1
+r|Tell me how a fool and a sage discuss the way to happiness.
+gs-214-1
+K2
+r|Tell me what saves: virtue or faith in one's virtue.
+gs-215-1
+K1
+r|Tell me whether I am good enough material for my ideal.
+gs-218-1
+K1
+r|Tell me what sort of people you cannot stand.
+gs-220-1
+K1
+r|Tell me what the victim would say about sacrifice.
+gs-222-1
+K2
+r|Tell me how the poet and the liar are related.
+gs-223-1
+K1
+r|Tell me what the old deaf confessor said.
+gs-224-1
+K2
+r|Tell me what the animals think of man.
+gs-225-1
+K1
+r|Tell me how the seekers of effect reason about nature.
+gs-226-1
+K2
+r|Tell me why the distrustful speak emphatically and the trusted simply.
+gs-229-1
+K2
+r|Tell me what obstinacy calls itself.
+gs-230-1
+K2
+r|Tell me why someone who talks about his good deeds is not convincing.
+gs-232-1
+K1
+r|Tell me what dreaming teaches us about being awake.
+gs-233-1
+K1
+r|Tell me why each present action matters as much as the greatest past event.
+gs-234-1
+K1
+r|Comfort a person whose quiet life sounds like silence to others.
+gs-235-1
+K1
+r|Tell me why height of character and height of spirit don't always go together.
+gs-236-1
+K1
+r|Tell me what a person must do to move the multitude.
+gs-239-1
+K1
+r|Tell me why unhappiness spreads more easily than happiness.
+gs-240-1
+K1
+r|Tell me where you would build your house.
+gs-242-1
+K1
+r|Tell me whether a seeker of knowledge can be a thief.
+gs-246-1
+K1
+r|Tell me why science carries mathematics everywhere.
+gs-249-1
+K2
+r|Give voice to the seeker of knowledge's sigh.
+gs-250-1
+K1
+r|Tell me what the witch trials teach us about guilt.
+gs-251-1
+K2
+r|Tell me how great natures really suffer.
+gs-252-1
+K1
+r|Tell me why sovereignty prefers debt.
+gs-253-1
+K2
+r|Tell me about arriving at a goal without noticing the journey.
+gs-255-1
+K2
+r|Tell me what kind of followers you want.
+gs-256-1
+K2
+r|Tell me why the profound love the surface.
+gs-257-1
+K1
+r|Tell me how we find out how rich we are.
+gs-260-1
+K1
+r|Tell me why truth begins with two.
+gs-261-1
+K1
+r|Tell me what originality is.
+gs-262-1
+K1
+r|Tell me what privilege the dead have.
+gs-263-1
+K2
+r|Tell me why lovers want their defects hidden.
+gs-267-1
+K1
+r|Tell me what a high aim does to justice.
+gs-276-1
+K1
+K3
+gs-277-1
+K1
+r|Tell me why the belief in a personal providence becomes seductive.
+gs-279-1
+K1
+r|Tell me what a stellar friendship is.
+gs-280-1
+K1
+r|Design a building for thinkers.

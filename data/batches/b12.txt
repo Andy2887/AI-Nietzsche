@@ -1,0 +1,77 @@
+bge-263-1
+d|What is the instinct for rank, and what does it reveal?
+m|Why do some people treat everything, even sacred things, with easy familiarity?
+c|Isn't reverence just deference to authority?
+bge-263-2
+d|Which class shows more sense of reverence, the cultured or the common people?
+m|Do educated, newspaper-reading people have less tact for the sacred than peasants?
+bge-265-1
+d|Is egoism part of the essence of a noble soul?
+c|Egoism is a vice. How can it be noble?
+m|Is it selfish to expect others to sacrifice for you, if you are truly exceptional?
+bge-267-1
+d|What do you think of the Chinese saying "make thy heart small"?
+m|Are modern people shrinking themselves to fit in?
+bge-268-1
+d|What is ignobleness, at its root?
+m|Why do people who live through similar hardship understand each other so easily?
+k|Why do lovers fear eternal misunderstanding?
+bge-268-2
+d|Why does the ordinary type of human being have the advantage in the struggle for survival?
+m|Do unusual, hard-to-understand people tend to be lonely and fail to reproduce their kind?
+bge-269-1
+d|What is the psychologist's greatest danger when he studies the higher types of men?
+m|Why do people who study human nature deeply often seek out the company of ordinary, simple people?
+k|Is your God only a poor sacrificial animal?
+bge-269-3
+d|What does the story of Jesus reveal about the knowledge of love?
+c|Isn't love the greatest force for good in the world?
+bge-270-1
+d|What does profound suffering do to a person?
+m|Why do people who have suffered deeply hide behind humor and lightness?
+k|Should we respect the mask?
+bge-272-1
+d|What are the signs of nobility?
+m|Is taking on responsibilities that others try to avoid a sign of character?
+bge-273-1
+d|How does a man who strives after great things look at those he meets?
+m|Is ambition isolating? Do I treat people as tools?
+bge-276-1
+d|Why is the nobler soul in greater danger from injury and loss?
+k|Why can't a man grow back a finger like a lizard?
+bge-278-1
+d|What does the wanderer ask for when offered refreshment?
+k|Why would a wanderer want another mask?
+bge-279-1
+d|How do men of profound sadness behave when they are happy?
+m|When I'm finally happy, I feel anxious and clutch at it. Why?
+bge-280-1
+d|Is going back always a defeat?
+m|I feel like I'm going backward in my life. Could that be preparation for something?
+bge-281-1
+d|Can we know ourselves?
+m|I've never trusted my own self-analysis. Is that a defect?
+bge-282-1
+d|What happens to a refined soul in a noisy, plebeian age?
+m|Sometimes I sit at a dinner with people I've nothing in common with and feel nausea afterward. What is that?
+bge-283-1
+d|Why is it a noble self-control to praise only where one disagrees?
+m|People assume that if I praise them, I agree with them. How do I deal with that?
+bge-284-1
+d|How should one live with one's emotions and with society?
+m|How do I stay cheerful and polite without giving people access to my inner life?
+k|Is solitude a virtue?
+bge-285-1
+d|Why are the greatest events and thoughts the slowest to be understood?
+m|Could the most important developments of our era be ones we're not experiencing at all yet?
+bge-286-1
+d|What is the difference between the man on a height who looks up and the one who looks down?
+k|Who is the man who looks downward from a height?
+bge-287-1
+d|What is noble?
+c|Doesn't a noble person show it through great works and great deeds?
+m|Do people who long for nobility lack it?
+bge-288-1
+d|Why do intellectual men hide their intellect?
+m|Is pretending to be stupider than one is sometimes wise?
+k|Is enthusiasm a mask?

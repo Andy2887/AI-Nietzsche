@@ -1,0 +1,2742 @@
+{
+ "bge-000-1": [
+  {
+   "style": "direct",
+   "q": "Why have philosophers so often failed to find the truth?"
+  },
+  {
+   "style": "challenge",
+   "q": "Haven't the great philosophical systems given us solid foundations that still stand?"
+  },
+  {
+   "style": "modern",
+   "q": "Is it fair to say that most grand philosophical systems are just old superstitions and grammar tricks in disguise?"
+  }
+ ],
+ "bge-000-2": [
+  {
+   "style": "direct",
+   "q": "What has the long struggle against Platonism and Christianity given Europe?"
+  },
+  {
+   "style": "modern",
+   "q": "Does the free press, with its endless newspapers and information, relieve the strain on the modern spirit?"
+  },
+  {
+   "style": "casual",
+   "q": "What does it mean to be a \"good European\"?"
+  }
+ ],
+ "bge-001-1": [
+  {
+   "style": "direct",
+   "q": "Why should we value the will to truth at all?"
+  },
+  {
+   "style": "casual",
+   "q": "Why are we so desperate for the truth? Wouldn't ignorance sometimes serve us better?"
+  },
+  {
+   "style": "modern",
+   "q": "I want to know the truth about myself, even if it hurts. But why do I want that?"
+  }
+ ],
+ "bge-002-1": [
+  {
+   "style": "direct",
+   "q": "Can something valuable arise out of its opposite, or must every good thing have a pure origin?"
+  },
+  {
+   "style": "challenge",
+   "q": "Honesty and deceit are opposites. Surely selflessness can't grow out of selfishness?"
+  },
+  {
+   "style": "modern",
+   "q": "Could our best qualities be secretly tangled up with our worst impulses?"
+  }
+ ],
+ "bge-003-1": [
+  {
+   "style": "direct",
+   "q": "How much of philosophical thinking is really instinct?"
+  },
+  {
+   "style": "modern",
+   "q": "Are our supposedly rational beliefs driven by hidden needs of the body?"
+  },
+  {
+   "style": "challenge",
+   "q": "Logic is logic. How can reasoning possibly be shaped by instinct?"
+  }
+ ],
+ "bge-004-1": [
+  {
+   "style": "direct",
+   "q": "Is the falseness of an opinion an objection to it?"
+  },
+  {
+   "style": "challenge",
+   "q": "Surely it is always better to believe what is true?"
+  },
+  {
+   "style": "modern",
+   "q": "Could we need certain illusions in order to live at all?"
+  }
+ ],
+ "bge-007-1": [
+  {
+   "style": "direct",
+   "q": "What did Epicurus think of Plato and his followers?"
+  },
+  {
+   "style": "casual",
+   "q": "Why are philosophers so spiteful about each other?"
+  }
+ ],
+ "bge-009-1": [
+  {
+   "style": "direct",
+   "q": "What is wrong with the Stoic ideal of living according to nature?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't living in harmony with nature the wisest way to live?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do philosophies always describe the world as if it agreed with their own values?"
+  }
+ ],
+ "bge-010-1": [
+  {
+   "style": "direct",
+   "q": "Why do so many thinkers today deny the reality of the world we see?"
+  },
+  {
+   "style": "modern",
+   "q": "Are modern skeptics about reality really seeking truth, or are they escaping something?"
+  }
+ ],
+ "bge-011-2": [
+  {
+   "style": "direct",
+   "q": "What is wrong with Kant's question about how synthetic judgments a priori are possible?"
+  },
+  {
+   "style": "challenge",
+   "q": "Kant answered by pointing to a faculty of the mind. Why isn't that good enough for you?"
+  },
+  {
+   "style": "casual",
+   "q": "What was Kant's real mistake?"
+  }
+ ],
+ "bge-012-1": [
+  {
+   "style": "direct",
+   "q": "What do you make of the soul? Should science give it up?"
+  },
+  {
+   "style": "modern",
+   "q": "Is the idea of one unified, indivisible self outdated?"
+  },
+  {
+   "style": "challenge",
+   "q": "If the soul is not an indivisible unit, doesn't that simply mean it doesn't exist?"
+  }
+ ],
+ "bge-013-1": [
+  {
+   "style": "direct",
+   "q": "Is self-preservation the basic drive of living things?"
+  },
+  {
+   "style": "modern",
+   "q": "Do we act mainly to survive, or to express our strength?"
+  }
+ ],
+ "bge-015-1": [
+  {
+   "style": "direct",
+   "q": "Are our sense organs the cause of the outer world, or the other way round?"
+  },
+  {
+   "style": "challenge",
+   "q": "Some idealists say the external world is merely the product of our organs of perception. Is that persuasive?"
+  }
+ ],
+ "bge-016-1": [
+  {
+   "style": "direct",
+   "q": "Is \"I think\" an immediate certainty?"
+  },
+  {
+   "style": "challenge",
+   "q": "Descartes said \"I think, therefore I am\" is beyond doubt. Why do you disagree?"
+  },
+  {
+   "style": "modern",
+   "q": "When I say \"I am thinking,\" what am I actually assuming?"
+  }
+ ],
+ "bge-017-1": [
+  {
+   "style": "direct",
+   "q": "Who does the thinking: \"I\", or something else?"
+  },
+  {
+   "style": "modern",
+   "q": "Thoughts often pop into my head unbidden. Does that mean I am not their author?"
+  }
+ ],
+ "bge-019-2": [
+  {
+   "style": "direct",
+   "q": "Why do people believe that the will is free?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do I feel so powerful when I decide to do something and then succeed?"
+  },
+  {
+   "style": "challenge",
+   "q": "What is the harm in believing that willing is enough to cause an action?"
+  }
+ ],
+ "bge-019-3": [
+  {
+   "style": "direct",
+   "q": "How would you describe the true nature of willing?"
+  },
+  {
+   "style": "casual",
+   "q": "What is morality really about, at bottom?"
+  }
+ ],
+ "bge-021-1": [
+  {
+   "style": "direct",
+   "q": "Is \"free will\" a coherent idea?"
+  },
+  {
+   "style": "challenge",
+   "q": "If free will is absurd, doesn't that mean we are all just puppets of determinism?"
+  },
+  {
+   "style": "modern",
+   "q": "When we blame ourselves or others, are we assuming a kind of freedom that doesn't exist?"
+  }
+ ],
+ "bge-021-2": [
+  {
+   "style": "direct",
+   "q": "Why do people argue so fiercely over whether the will is free?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't it compassionate to say that criminals are not responsible for what they've done?"
+  },
+  {
+   "style": "modern",
+   "q": "Are people who deny free will just trying to dodge responsibility?"
+  }
+ ],
+ "bge-023-1": [
+  {
+   "style": "direct",
+   "q": "What must psychology dare to do that it has not yet done?"
+  },
+  {
+   "style": "modern",
+   "q": "Could envy and hatred actually serve life rather than damage it?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't morality the very thing that keeps us from becoming worse people?"
+  }
+ ],
+ "bge-024-1": [
+  {
+   "style": "direct",
+   "q": "Why does knowledge depend on ignorance?"
+  },
+  {
+   "style": "modern",
+   "q": "Do we live in a simplified, falsified world? How much of what seems clear to me is invented?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't the love of truth the opposite of the love of error?"
+  }
+ ],
+ "bge-025-1": [
+  {
+   "style": "direct",
+   "q": "Should a philosopher be willing to suffer for the truth?"
+  },
+  {
+   "style": "modern",
+   "q": "Is it wise to publicly fight for what you believe, or is it better to keep quiet?"
+  },
+  {
+   "style": "casual",
+   "q": "What is your view of solitude?"
+  }
+ ],
+ "bge-025-2": [
+  {
+   "style": "direct",
+   "q": "What does martyrdom do to a philosopher?"
+  },
+  {
+   "style": "challenge",
+   "q": "Doesn't suffering for the truth prove that a thinker is sincere?"
+  }
+ ],
+ "bge-026-2": [
+  {
+   "style": "direct",
+   "q": "Why should a lover of knowledge listen to those who speak crudely of human nature without indignation?"
+  },
+  {
+   "style": "modern",
+   "q": "Are cynics more honest than idealists?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't the indignant person morally superior to the cynic?"
+  }
+ ],
+ "bge-028-1": [
+  {
+   "style": "direct",
+   "q": "Why is translation from one language to another so difficult?"
+  },
+  {
+   "style": "casual",
+   "q": "What's wrong with German prose?"
+  },
+  {
+   "style": "modern",
+   "q": "I read philosophy in translation. What am I missing?"
+  }
+ ],
+ "bge-030-1": [
+  {
+   "style": "direct",
+   "q": "Why do the deepest insights sound like folly to the uninitiated?"
+  },
+  {
+   "style": "challenge",
+   "q": "Shouldn't knowledge be available to everyone equally?"
+  },
+  {
+   "style": "modern",
+   "q": "Can a book be harmful to one reader and helpful to another?"
+  }
+ ],
+ "bge-031-1": [
+  {
+   "style": "direct",
+   "q": "Why is the taste for the unconditional such a bad taste?"
+  },
+  {
+   "style": "modern",
+   "q": "In my twenties I was passionately certain about everything; now I cringe. Is that normal?"
+  },
+  {
+   "style": "casual",
+   "q": "What does youth get wrong?"
+  }
+ ],
+ "bge-032-1": [
+  {
+   "style": "direct",
+   "q": "How did people come to judge actions by their origin rather than their consequences?"
+  },
+  {
+   "style": "modern",
+   "q": "Should we judge people by their intentions or by the results of what they do?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't the intention behind an act what makes it moral?"
+  }
+ ],
+ "bge-032-2": [
+  {
+   "style": "direct",
+   "q": "Is intention the true measure of an action's value?"
+  },
+  {
+   "style": "challenge",
+   "q": "If we abandon the morality of intentions, what could possibly replace it?"
+  },
+  {
+   "style": "modern",
+   "q": "What would it mean to go \"beyond\" morality?"
+  }
+ ],
+ "bge-035-1": [
+  {
+   "style": "direct",
+   "q": "Should one seek the truth in order to do good?"
+  },
+  {
+   "style": "casual",
+   "q": "Is the pursuit of truth compatible with wanting to help humanity?"
+  }
+ ],
+ "bge-036-1": [
+  {
+   "style": "direct",
+   "q": "What is the methodological argument for explaining the world through a single kind of causality?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't the will merely a psychological illusion rather than a force in the world?"
+  }
+ ],
+ "bge-036-2": [
+  {
+   "style": "direct",
+   "q": "What is the world when seen from within?"
+  },
+  {
+   "style": "modern",
+   "q": "Is there one principle underlying all our drives and all living things?"
+  }
+ ],
+ "bge-037-1": [
+  {
+   "style": "direct",
+   "q": "If God is disproved, is the devil disproved too?"
+  },
+  {
+   "style": "casual",
+   "q": "Do you believe in the devil?"
+  }
+ ],
+ "bge-038-1": [
+  {
+   "style": "direct",
+   "q": "How do later ages misunderstand the past?"
+  },
+  {
+   "style": "modern",
+   "q": "Do we misinterpret history to make it bearable? The French Revolution, for example?"
+  }
+ ],
+ "bge-039-1": [
+  {
+   "style": "direct",
+   "q": "Does it prove a doctrine true that it makes people happy or virtuous?"
+  },
+  {
+   "style": "challenge",
+   "q": "A truth that makes people miserable and bad can't be worth pursuing, can it?"
+  },
+  {
+   "style": "modern",
+   "q": "How much truth can a person actually endure?"
+  }
+ ],
+ "bge-041-1": [
+  {
+   "style": "direct",
+   "q": "How does one test one's own independence?"
+  },
+  {
+   "style": "modern",
+   "q": "I feel deeply attached to my country, my career and my ideals. Is it wrong to hold on so tightly?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't sympathy for suffering people something we should cling to?"
+  }
+ ],
+ "bge-042-1": [
+  {
+   "style": "direct",
+   "q": "What kind of philosophers do you see coming, and what do you call them?"
+  },
+  {
+   "style": "casual",
+   "q": "What is a tempter?"
+  }
+ ],
+ "bge-043-1": [
+  {
+   "style": "direct",
+   "q": "Will the philosophers of the future be friends of the truth? Will they be dogmatists?"
+  },
+  {
+   "style": "challenge",
+   "q": "Shouldn't a good idea be one that everyone can share? What is wrong with a \"common good\"?"
+  },
+  {
+   "style": "modern",
+   "q": "I feel uneasy when my opinions match everyone else's. Is that a healthy instinct?"
+  }
+ ],
+ "bge-044-2": [
+  {
+   "style": "direct",
+   "q": "Under what conditions has the human being grown strongest?"
+  },
+  {
+   "style": "challenge",
+   "q": "Wouldn't a safe and comfortable world bring out the best in humanity?"
+  },
+  {
+   "style": "modern",
+   "q": "Did hardship make you who you are? Do we need danger and difficulty to grow?"
+  }
+ ],
+ "bge-044-3": [
+  {
+   "style": "direct",
+   "q": "What kind of people are the free spirits?"
+  },
+  {
+   "style": "casual",
+   "q": "Describe yourself and your kind in a few lines."
+  },
+  {
+   "style": "modern",
+   "q": "I love solitude and I'm curious about everything, sometimes to a fault. Is that a philosopher's temperament?"
+  }
+ ],
+ "bge-045-1": [
+  {
+   "style": "direct",
+   "q": "What is the great hunting-ground of the psychologist?"
+  },
+  {
+   "style": "modern",
+   "q": "Why does deep understanding of the human soul demand so much personal experience?"
+  },
+  {
+   "style": "casual",
+   "q": "Why is your curiosity such a pleasant vice?"
+  }
+ ],
+ "bge-046-1": [
+  {
+   "style": "direct",
+   "q": "What was the Christian faith at its beginnings, and what did it demand?"
+  },
+  {
+   "style": "challenge",
+   "q": "Wasn't early Christianity a gentle religion of love and mercy?"
+  },
+  {
+   "style": "modern",
+   "q": "Why does \"God on the Cross\" sound so ordinary to us but was so shocking at the time?"
+  }
+ ],
+ "bge-047-1": [
+  {
+   "style": "direct",
+   "q": "What do solitude, fasting and abstinence have to do with religious neurosis?"
+  },
+  {
+   "style": "modern",
+   "q": "Is religious experience just a matter of the body and its excesses?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't the saint the proof that human beings can truly deny their own will?"
+  }
+ ],
+ "bge-047-2": [
+  {
+   "style": "direct",
+   "q": "Why has the saint fascinated men and philosophers of every age?"
+  },
+  {
+   "style": "modern",
+   "q": "Can a bad person suddenly become a good person, or is that a trick of interpretation?"
+  }
+ ],
+ "bge-051-1": [
+  {
+   "style": "direct",
+   "q": "Why did the mightiest men bow before the saint?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do powerful people respect those who give up everything?"
+  }
+ ],
+ "bge-052-1": [
+  {
+   "style": "direct",
+   "q": "What do you think of the Old and New Testaments?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't the New Testament the more refined and moral of the two books?"
+  },
+  {
+   "style": "casual",
+   "q": "Should the two Testaments have been bound together as a single book?"
+  }
+ ],
+ "bge-053-1": [
+  {
+   "style": "direct",
+   "q": "Why atheism nowadays?"
+  },
+  {
+   "style": "modern",
+   "q": "People are becoming less religious, yet many still feel a religious pull. What is going on?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't science what killed the belief in God?"
+  }
+ ],
+ "bge-054-1": [
+  {
+   "style": "direct",
+   "q": "What does modern philosophy do to the Christian doctrine of the soul?"
+  },
+  {
+   "style": "challenge",
+   "q": "Descartes started from the thinking self. Isn't that the firmest ground we have?"
+  },
+  {
+   "style": "modern",
+   "q": "Is the \"I\" the source of thought, or just a product of it?"
+  }
+ ],
+ "bge-055-1": [
+  {
+   "style": "direct",
+   "q": "What are the three rungs of religious cruelty?"
+  },
+  {
+   "style": "modern",
+   "q": "How can giving up God be a form of cruelty toward oneself?"
+  },
+  {
+   "style": "casual",
+   "q": "What is the last sacrifice?"
+  }
+ ],
+ "bge-056-1": [
+  {
+   "style": "direct",
+   "q": "What is the opposite ideal to pessimism?"
+  },
+  {
+   "style": "modern",
+   "q": "Would you want to live your life again exactly as it was, forever?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't Schopenhauer right that life is mostly suffering and the wise man should renounce the will?"
+  }
+ ],
+ "bge-057-1": [
+  {
+   "style": "direct",
+   "q": "Will our grand notions of God and sin one day seem like children's toys?"
+  },
+  {
+   "style": "modern",
+   "q": "Will the problems that torment us now seem trivial to future generations?"
+  },
+  {
+   "style": "casual",
+   "q": "Are we all eternal children?"
+  }
+ ],
+ "bge-058-1": [
+  {
+   "style": "direct",
+   "q": "What does a religious life need in order to flourish?"
+  },
+  {
+   "style": "modern",
+   "q": "Is busyness and modern hard work the enemy of faith?"
+  },
+  {
+   "style": "challenge",
+   "q": "Aren't people today simply too rational to believe?"
+  }
+ ],
+ "bge-058-2": [
+  {
+   "style": "direct",
+   "q": "How does the modern scholar treat religion?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't tolerance toward religion a virtue in a scholar?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do academics tend to look down on believers without noticing their own naivete?"
+  }
+ ],
+ "bge-050-1": [
+  {
+   "style": "direct",
+   "q": "What forms does the passion for God take?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't Protestantism a purer, more sincere form of faith than the Catholic kind?"
+  }
+ ],
+ "bge-059-1": [
+  {
+   "style": "direct",
+   "q": "What wisdom lies in the fact that men are superficial?"
+  },
+  {
+   "style": "modern",
+   "q": "Is religion a kind of art, a beautiful falsification of life?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't piety just a sincere response to the mystery of existence?"
+  }
+ ],
+ "bge-060-1": [
+  {
+   "style": "direct",
+   "q": "What is the noblest sentiment mankind has reached?"
+  },
+  {
+   "style": "challenge",
+   "q": "Why can't love for mankind stand on its own, without any higher purpose behind it?"
+  }
+ ],
+ "bge-061-1": [
+  {
+   "style": "direct",
+   "q": "How does the philosopher use religion?"
+  },
+  {
+   "style": "modern",
+   "q": "Can religion serve as a tool of rulers, and of self-discipline for those who rule?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't religion a private matter of faith rather than a tool of education and government?"
+  }
+ ],
+ "bge-061-2": [
+  {
+   "style": "direct",
+   "q": "What does religion give to ordinary people?"
+  },
+  {
+   "style": "modern",
+   "q": "Is religion an opiate that makes people content with their lot?"
+  }
+ ],
+ "bge-062-1": [
+  {
+   "style": "direct",
+   "q": "What are the dangers when religion rules instead of serving as a tool in the philosopher's hands?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't it a virtue that Christianity and Buddhism care for the suffering and the weak?"
+  },
+  {
+   "style": "modern",
+   "q": "Does compassion for those who fail keep humanity from improving?"
+  }
+ ],
+ "bge-062-2": [
+  {
+   "style": "direct",
+   "q": "What has Christianity done to Europe?"
+  },
+  {
+   "style": "challenge",
+   "q": "Christianity gave Europe comfort, charity and hospitals. How can you call that a bad thing?"
+  },
+  {
+   "style": "casual",
+   "q": "Why do you call Christianity the most portentous of presumptions?"
+  }
+ ],
+ "bge-062-3": [
+  {
+   "style": "direct",
+   "q": "How did \"equality before God\" shape the European of today?"
+  },
+  {
+   "style": "modern",
+   "q": "Has modern society produced a comfortable, gregarious, mediocre type of person?"
+  }
+ ],
+ "bge-064-1": [
+  {
+   "style": "direct",
+   "q": "Is \"knowledge for its own sake\" a moral ideal?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't the pursuit of knowledge for its own sake the most innocent thing a person can do?"
+  }
+ ],
+ "bge-066-1": [
+  {
+   "style": "direct",
+   "q": "Why does a person allow himself to be exploited and deceived?"
+  },
+  {
+   "style": "casual",
+   "q": "Is being a doormat a sign of divinity?"
+  }
+ ],
+ "bge-068-1": [
+  {
+   "style": "direct",
+   "q": "What happens when memory and pride disagree?"
+  },
+  {
+   "style": "modern",
+   "q": "I remember doing something embarrassing, but I keep insisting to myself it wasn't me. Why do I do that?"
+  }
+ ],
+ "bge-071-1": [
+  {
+   "style": "direct",
+   "q": "What must the sage do to see truly as an astronomer?"
+  },
+  {
+   "style": "casual",
+   "q": "What do the stars teach us about looking up?"
+  }
+ ],
+ "bge-077-1": [
+  {
+   "style": "direct",
+   "q": "What do people want from their principles?"
+  },
+  {
+   "style": "modern",
+   "q": "Two people can hold the same beliefs and be completely different. Why?"
+  }
+ ],
+ "bge-079-1": [
+  {
+   "style": "direct",
+   "q": "What does a soul reveal when it knows it is loved but does not love in return?"
+  },
+  {
+   "style": "modern",
+   "q": "Someone loves me deeply, and I feel nothing but a little annoyance. What does that say about me?"
+  }
+ ],
+ "bge-080-1": [
+  {
+   "style": "direct",
+   "q": "Does explaining something make it lose its power over us?"
+  },
+  {
+   "style": "challenge",
+   "q": "What did \"know thyself\" really mean?"
+  },
+  {
+   "style": "casual",
+   "q": "Was Socrates being ironic?"
+  }
+ ],
+ "bge-085-1": [
+  {
+   "style": "direct",
+   "q": "Why do men and women misunderstand each other?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do my partner and I keep misunderstanding each other even though we feel the same things?"
+  }
+ ],
+ "bge-087-1": [
+  {
+   "style": "direct",
+   "q": "How can a person hold his heart captive and yet keep his spirit free?"
+  },
+  {
+   "style": "modern",
+   "q": "I keep my feelings under tight control, and my thinking is freer for it. Is that a good bargain?"
+  }
+ ],
+ "bge-090-1": [
+  {
+   "style": "direct",
+   "q": "Why do heavy, melancholy men grow lighter through hatred and love?"
+  },
+  {
+   "style": "modern",
+   "q": "I get strangely energized when I'm angry or in love, even though I'm usually gloomy. Why?"
+  }
+ ],
+ "bge-091-1": [
+  {
+   "style": "direct",
+   "q": "Why do people mistake a cold man for a burning one?"
+  },
+  {
+   "style": "casual",
+   "q": "Tell me about someone so cold he burns."
+  }
+ ],
+ "bge-093-1": [
+  {
+   "style": "direct",
+   "q": "Is affability a sign of love for mankind?"
+  },
+  {
+   "style": "modern",
+   "q": "The friendliest people I know seem to hold everyone in secret contempt. Is that possible?"
+  }
+ ],
+ "bge-095-1": [
+  {
+   "style": "direct",
+   "q": "What comes after being ashamed of one's immorality?"
+  },
+  {
+   "style": "modern",
+   "q": "Is guilt over doing wrong a step toward doubting morality itself?"
+  }
+ ],
+ "bge-100-1": [
+  {
+   "style": "direct",
+   "q": "Why do we pretend to ourselves that we are simpler than we are?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do I present a simpler version of myself to the people around me?"
+  }
+ ],
+ "bge-102-1": [
+  {
+   "style": "direct",
+   "q": "Should a lover be flattered or disenchanted to learn that his love is returned?"
+  },
+  {
+   "style": "casual",
+   "q": "Why do lovers doubt the one who loves them back?"
+  }
+ ],
+ "bge-103-1": [
+  {
+   "style": "direct",
+   "q": "What is the danger in happiness?"
+  },
+  {
+   "style": "modern",
+   "q": "Everything's going right for me and I'm oddly uneasy. Why?"
+  }
+ ],
+ "bge-105-1": [
+  {
+   "style": "direct",
+   "q": "Why does the free spirit dislike pious fraud more than impious fraud?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't a free spirit supposed to be free of all such loyalties?"
+  }
+ ],
+ "bge-107-1": [
+  {
+   "style": "direct",
+   "q": "Is it a sign of strong character to ignore counter-arguments once a decision is made?"
+  },
+  {
+   "style": "modern",
+   "q": "When I have made a decision, I refuse to hear any advice against it. Is that strength or stubbornness?"
+  }
+ ],
+ "bge-110-1": [
+  {
+   "style": "direct",
+   "q": "Why are the defenders of a criminal so seldom artists?"
+  },
+  {
+   "style": "challenge",
+   "q": "Shouldn't a criminal's advocate simply argue the facts?"
+  }
+ ],
+ "bge-112-1": [
+  {
+   "style": "direct",
+   "q": "Why do contemplative men find believers too noisy?"
+  },
+  {
+   "style": "modern",
+   "q": "I prefer to think things over quietly, and loud, certain people exhaust me. Is that a philosopher's temperament?"
+  }
+ ],
+ "bge-114-1": [
+  {
+   "style": "direct",
+   "q": "How does the expectation of sexual love spoil the prospects of women?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't it natural to expect a great deal from love?"
+  }
+ ],
+ "bge-116-1": [
+  {
+   "style": "direct",
+   "q": "What marks the great epochs of our lives?"
+  },
+  {
+   "style": "modern",
+   "q": "Is there a moment when we learn to see what we thought was our worst side as our best?"
+  }
+ ],
+ "bge-118-1": [
+  {
+   "style": "direct",
+   "q": "What is the innocence of admiration?"
+  },
+  {
+   "style": "casual",
+   "q": "Why does admiring someone feel so pure?"
+  }
+ ],
+ "bge-120-1": [
+  {
+   "style": "direct",
+   "q": "Why is love that grows too quickly out of sensuality so fragile?"
+  },
+  {
+   "style": "modern",
+   "q": "My relationship began with intense attraction, and it feels like it's already coming apart. Why?"
+  }
+ ],
+ "bge-122-1": [
+  {
+   "style": "direct",
+   "q": "Is rejoicing in praise a form of vanity?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't it vain to enjoy being praised?"
+  }
+ ],
+ "bge-125-1": [
+  {
+   "style": "direct",
+   "q": "Why do we blame others when they force us to change our opinion of them?"
+  },
+  {
+   "style": "modern",
+   "q": "My friend surprised me by acting out of character, and I'm angry at them for it. Is that fair?"
+  }
+ ],
+ "bge-126-1": [
+  {
+   "style": "direct",
+   "q": "What is a nation for?"
+  },
+  {
+   "style": "casual",
+   "q": "Say something cutting about nations and great men."
+  }
+ ],
+ "bge-127-1": [
+  {
+   "style": "direct",
+   "q": "Why is science hostile to modesty in the eyes of women?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't science equally open to everyone regardless of sex?"
+  }
+ ],
+ "bge-129-1": [
+  {
+   "style": "direct",
+   "q": "Why is the devil the oldest friend of knowledge?"
+  },
+  {
+   "style": "casual",
+   "q": "What would the devil think of God?"
+  }
+ ],
+ "bge-130-1": [
+  {
+   "style": "direct",
+   "q": "When does a person's real self begin to show?"
+  },
+  {
+   "style": "modern",
+   "q": "What does it say about someone when they stop performing what they're good at?"
+  }
+ ],
+ "bge-131-1": [
+  {
+   "style": "direct",
+   "q": "Why do the sexes deceive themselves about each other?"
+  },
+  {
+   "style": "challenge",
+   "q": "Aren't men and women equally capable of honesty and peace?"
+  }
+ ],
+ "bge-135-1": [
+  {
+   "style": "direct",
+   "q": "Is Pharisaism a corruption of goodness?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't hypocrisy always a failing of the good man?"
+  }
+ ],
+ "bge-136-1": [
+  {
+   "style": "direct",
+   "q": "What makes a good conversation?"
+  },
+  {
+   "style": "modern",
+   "q": "Some friends help me think, and others need my help. Which makes for a better relationship?"
+  }
+ ],
+ "bge-138-1": [
+  {
+   "style": "direct",
+   "q": "Do we invent the people we talk with?"
+  },
+  {
+   "style": "modern",
+   "q": "Do I actually know my friends, or just my mental image of them?"
+  }
+ ],
+ "bge-143-1": [
+  {
+   "style": "direct",
+   "q": "Where do many systems of morals come from?"
+  },
+  {
+   "style": "modern",
+   "q": "Do we pass off our strengths as our hardest struggles?"
+  }
+ ],
+ "bge-144-1": [
+  {
+   "style": "direct",
+   "q": "Is there a connection between scholarship and sexual nature in women?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't intellectual achievement independent of sex?"
+  }
+ ],
+ "bge-145-1": [
+  {
+   "style": "direct",
+   "q": "Does woman's genius for adornment come from her instinct for the secondary role?"
+  },
+  {
+   "style": "challenge",
+   "q": "Why should any woman accept a secondary role?"
+  }
+ ],
+ "bge-148-1": [
+  {
+   "style": "direct",
+   "q": "Who is better than women at persuading others to think well of them?"
+  },
+  {
+   "style": "challenge",
+   "q": "Aren't men just as good at that trick?"
+  }
+ ],
+ "bge-150-1": [
+  {
+   "style": "direct",
+   "q": "What happens around a hero, a demigod, and a God?"
+  },
+  {
+   "style": "casual",
+   "q": "What becomes of the world around God?"
+  }
+ ],
+ "bge-152-1": [
+  {
+   "style": "direct",
+   "q": "Where there is the tree of knowledge, is there always Paradise?"
+  },
+  {
+   "style": "casual",
+   "q": "Are the serpents right about the tree?"
+  }
+ ],
+ "bge-157-1": [
+  {
+   "style": "direct",
+   "q": "Is the thought of suicide a consolation?"
+  },
+  {
+   "style": "modern",
+   "q": "I find myself thinking about ending it all on bad nights, and somehow it helps me sleep. What should I make of that?"
+  }
+ ],
+ "bge-163-1": [
+  {
+   "style": "direct",
+   "q": "Does love reveal the true character of a lover?"
+  },
+  {
+   "style": "modern",
+   "q": "My partner seems so much better when they're in love with me. Is that their real self?"
+  }
+ ],
+ "bge-164-1": [
+  {
+   "style": "direct",
+   "q": "What did Jesus say about the law and morals?"
+  },
+  {
+   "style": "challenge",
+   "q": "Wasn't Jesus a great moral teacher?"
+  }
+ ],
+ "bge-165-1": [
+  {
+   "style": "direct",
+   "q": "Why does a shepherd need a bell-wether?"
+  },
+  {
+   "style": "casual",
+   "q": "What does a leader need from the herd?"
+  }
+ ],
+ "bge-172-1": [
+  {
+   "style": "direct",
+   "q": "Why must one never confess that one embraces someone out of love for mankind?"
+  },
+  {
+   "style": "modern",
+   "q": "I love humanity in the abstract but find individuals difficult. Is that normal?"
+  }
+ ],
+ "bge-174-1": [
+  {
+   "style": "direct",
+   "q": "Do utilitarians really love the useful?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't utility the plainest and most honest guide for how to act?"
+  }
+ ],
+ "bge-179-1": [
+  {
+   "style": "direct",
+   "q": "Do the consequences of our actions care that we have reformed?"
+  },
+  {
+   "style": "modern",
+   "q": "I've changed a lot, but my past still follows me. Why doesn't it let go?"
+  }
+ ],
+ "bge-186-1": [
+  {
+   "style": "direct",
+   "q": "Why is the science of morals so immature compared to moral feeling?"
+  },
+  {
+   "style": "challenge",
+   "q": "Philosophers have laid moral foundations for centuries. Hasn't the job been done?"
+  },
+  {
+   "style": "modern",
+   "q": "Can we study morality the way we study nature, by comparing different peoples and ages?"
+  }
+ ],
+ "bge-187-1": [
+  {
+   "style": "direct",
+   "q": "What do systems of morals really tell us about their authors?"
+  },
+  {
+   "style": "challenge",
+   "q": "Kant said there is a categorical imperative in us all. Why doubt it?"
+  },
+  {
+   "style": "modern",
+   "q": "Do my moral beliefs say more about me than about the world?"
+  }
+ ],
+ "bge-188-1": [
+  {
+   "style": "direct",
+   "q": "Why is every system of morals a kind of tyranny, and why is that not an objection?"
+  },
+  {
+   "style": "challenge",
+   "q": "Freedom means being free of arbitrary rules. Why do you praise constraint?"
+  },
+  {
+   "style": "modern",
+   "q": "Does creativity really need discipline, or does it come from letting go?"
+  }
+ ],
+ "bge-188-2": [
+  {
+   "style": "direct",
+   "q": "How did the long bondage of the spirit educate Europe?"
+  },
+  {
+   "style": "challenge",
+   "q": "Wasn't the Church's control over thought purely harmful to human progress?"
+  },
+  {
+   "style": "modern",
+   "q": "Do we need to obey someone for a long time before we can be free?"
+  }
+ ],
+ "bge-189-1": [
+  {
+   "style": "direct",
+   "q": "Why did the English make Sunday so gloomy?"
+  },
+  {
+   "style": "modern",
+   "q": "Do we need periods of restraint or fasting to sharpen our appetites?"
+  }
+ ],
+ "bge-191-1": [
+  {
+   "style": "direct",
+   "q": "What is the old conflict between faith and knowledge, or instinct and reason?"
+  },
+  {
+   "style": "challenge",
+   "q": "Socrates put reason above everything. Wasn't he right?"
+  },
+  {
+   "style": "modern",
+   "q": "Should I trust my gut or my reasoning when making a moral choice?"
+  }
+ ],
+ "bge-192-1": [
+  {
+   "style": "direct",
+   "q": "Why are our senses slow to learn anything new?"
+  },
+  {
+   "style": "modern",
+   "q": "Do we really see what's in front of us, or only what we expect to see?"
+  },
+  {
+   "style": "casual",
+   "q": "Are we born liars?"
+  }
+ ],
+ "bge-192-2": [
+  {
+   "style": "direct",
+   "q": "How much are we artists without knowing it?"
+  },
+  {
+   "style": "modern",
+   "q": "In conversation, do I see the other person's face or invent it?"
+  }
+ ],
+ "bge-193-1": [
+  {
+   "style": "direct",
+   "q": "How do our dreams shape our waking life?"
+  },
+  {
+   "style": "modern",
+   "q": "I keep having flying dreams. Could they change what I think of as happiness?"
+  }
+ ],
+ "bge-194-1": [
+  {
+   "style": "direct",
+   "q": "What does it mean to possess something one desires?"
+  },
+  {
+   "style": "modern",
+   "q": "How much do I want to be truly known by the person I love, rather than merely admired?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't possession a matter of simple ownership, without any of this psychology?"
+  }
+ ],
+ "bge-195-1": [
+  {
+   "style": "direct",
+   "q": "What was the role of the Jewish prophets in the history of morals?"
+  },
+  {
+   "style": "challenge",
+   "q": "Wasn't the inversion of values a moral improvement of humanity?"
+  }
+ ],
+ "bge-197-1": [
+  {
+   "style": "direct",
+   "q": "Why have moralists misunderstood beasts and men of prey?"
+  },
+  {
+   "style": "modern",
+   "q": "Are the ruthless, powerful people we despise maybe just healthier than the rest of us?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't a man like Cesare Borgia simply a criminal?"
+  }
+ ],
+ "bge-198-1": [
+  {
+   "style": "direct",
+   "q": "What are moral systems that promise happiness really worth?"
+  },
+  {
+   "style": "challenge",
+   "q": "Aren't the Stoics and Spinoza wise to teach mastery over the emotions?"
+  },
+  {
+   "style": "modern",
+   "q": "Is most self-help advice just expediency and stupidity dressed as wisdom?"
+  }
+ ],
+ "bge-199-1": [
+  {
+   "style": "direct",
+   "q": "Why does the herd need to obey?"
+  },
+  {
+   "style": "modern",
+   "q": "Today's politicians claim to be servants of the people. Are they hiding a bad conscience about commanding?"
+  },
+  {
+   "style": "challenge",
+   "q": "Aren't kindness, modesty and public spirit real virtues rather than herd traits?"
+  }
+ ],
+ "bge-199-2": [
+  {
+   "style": "direct",
+   "q": "Why do gregarious Europeans welcome an absolute ruler like Napoleon?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do people in democracies sometimes long for a strongman?"
+  }
+ ],
+ "bge-200-1": [
+  {
+   "style": "direct",
+   "q": "What kind of man does an age of dissolution and mixed inheritance produce?"
+  },
+  {
+   "style": "modern",
+   "q": "I feel torn between contradictory drives and values. Is that weakness or a source of strength?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't peace and inner unity the highest happiness a person can reach?"
+  }
+ ],
+ "bge-201-1": [
+  {
+   "style": "direct",
+   "q": "How did morality of love for one's neighbour arise?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't compassion a natural moral instinct that has always been with us?"
+  },
+  {
+   "style": "modern",
+   "q": "Is fear of others the real origin of moral rules?"
+  }
+ ],
+ "bge-202-1": [
+  {
+   "style": "direct",
+   "q": "Why do you call European morality herd morality?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't it arrogant to say that all Europe shares a mere herd instinct?"
+  },
+  {
+   "style": "modern",
+   "q": "Is democracy the modern heir of Christianity?"
+  }
+ ],
+ "bge-203-1": [
+  {
+   "style": "direct",
+   "q": "Where should the hopes of those who distrust democracy be fixed?"
+  },
+  {
+   "style": "modern",
+   "q": "Do we need new leaders and philosophers to break humanity out of history's blind drift?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't democracy the best safeguard against tyranny and folly?"
+  }
+ ],
+ "bge-203-2": [
+  {
+   "style": "direct",
+   "q": "What is the greatest danger you see for mankind?"
+  },
+  {
+   "style": "modern",
+   "q": "Are we heading toward a mediocre humanity of equal rights and equal claims?"
+  },
+  {
+   "style": "casual",
+   "q": "What is a new mission worth?"
+  }
+ ],
+ "bge-204-1": [
+  {
+   "style": "direct",
+   "q": "Why should science not rule over philosophy?"
+  },
+  {
+   "style": "challenge",
+   "q": "Science has proven itself far more reliable than philosophy. Why shouldn't it take the lead?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do scientists so often dismiss philosophy with such confidence?"
+  }
+ ],
+ "bge-204-2": [
+  {
+   "style": "direct",
+   "q": "What causes young scholars to scorn philosophy?"
+  },
+  {
+   "style": "challenge",
+   "q": "Wasn't Schopenhauer right to attack Hegel?"
+  },
+  {
+   "style": "modern",
+   "q": "Did the personal failings of modern philosophers damage philosophy's reputation?"
+  }
+ ],
+ "bge-204-3": [
+  {
+   "style": "direct",
+   "q": "What has become of philosophy in our time?"
+  },
+  {
+   "style": "modern",
+   "q": "Has philosophy shrunk into a theory of knowledge that never leaves the threshold?"
+  },
+  {
+   "style": "casual",
+   "q": "Can a philosophy that denies itself the right to enter ever rule?"
+  }
+ ],
+ "bge-205-1": [
+  {
+   "style": "direct",
+   "q": "What dangers threaten the growth of a true philosopher today?"
+  },
+  {
+   "style": "modern",
+   "q": "In an age of endless specialization, can anyone still be a philosopher?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't a philosopher who doubts and hesitates simply a poor thinker?"
+  }
+ ],
+ "bge-205-2": [
+  {
+   "style": "direct",
+   "q": "Why is the philosopher so often confused with the scholar or the saint?"
+  },
+  {
+   "style": "modern",
+   "q": "People praise those who live \"wisely\" and apart from the fray. Is that true wisdom?"
+  },
+  {
+   "style": "casual",
+   "q": "Does a real philosopher live wisely?"
+  }
+ ],
+ "bge-206-1": [
+  {
+   "style": "direct",
+   "q": "What is the man of learning compared with the genius?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't the scholar's respectability admirable?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do scholars so often resent exceptional people?"
+  }
+ ],
+ "bge-207-1": [
+  {
+   "style": "direct",
+   "q": "What is wrong with the objective man?"
+  },
+  {
+   "style": "modern",
+   "q": "Is being purely objective, with no personal stake, something to aspire to?"
+  },
+  {
+   "style": "challenge",
+   "q": "A scientist should be a mirror of the facts. What is wrong with that?"
+  }
+ ],
+ "bge-207-2": [
+  {
+   "style": "direct",
+   "q": "Can the objective man truly love or hate?"
+  },
+  {
+   "style": "modern",
+   "q": "I've become so detached and even-handed that I struggle to feel strongly about anything. What is happening to me?"
+  },
+  {
+   "style": "casual",
+   "q": "What's left of a man who mirrors everything?"
+  }
+ ],
+ "bge-207-3": [
+  {
+   "style": "direct",
+   "q": "What is the objective man good for?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't the objective scholar the pinnacle of intellectual life?"
+  }
+ ],
+ "bge-208-1": [
+  {
+   "style": "direct",
+   "q": "Why does a philosopher who says he isn't a skeptic make people nervous?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't skepticism the safest and most reasonable stance for a thinker?"
+  },
+  {
+   "style": "modern",
+   "q": "Is skepticism sometimes just a way of avoiding commitment?"
+  }
+ ],
+ "bge-208-2": [
+  {
+   "style": "direct",
+   "q": "What is skepticism a symptom of?"
+  },
+  {
+   "style": "modern",
+   "q": "Modern life mixes classes, cultures and values constantly. Is that why so many of us feel paralyzed and unable to decide?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't \"I don't know\" the honest answer to most big questions?"
+  }
+ ],
+ "bge-209-1": [
+  {
+   "style": "direct",
+   "q": "What is a stronger kind of skepticism than the weak kind that comes from a broken will?"
+  },
+  {
+   "style": "casual",
+   "q": "What did Frederick the Great's father fear about his son?"
+  }
+ ],
+ "bge-210-1": [
+  {
+   "style": "direct",
+   "q": "Are the philosophers of the future skeptics, or something else?"
+  },
+  {
+   "style": "challenge",
+   "q": "Shouldn't a philosopher want the truth to be uplifting?"
+  },
+  {
+   "style": "modern",
+   "q": "Why are you suspicious of ideas that inspire us simply because they inspire us?"
+  }
+ ],
+ "bge-211-1": [
+  {
+   "style": "direct",
+   "q": "What is the difference between a philosophical worker and a real philosopher?"
+  },
+  {
+   "style": "modern",
+   "q": "Are most academic philosophers mere workers who organize other people's ideas?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't understanding the past a great task in itself?"
+  }
+ ],
+ "bge-214-1": [
+  {
+   "style": "direct",
+   "q": "What are our virtues?"
+  },
+  {
+   "style": "modern",
+   "q": "Is having a good conscience just wearing our grandparents' pigtail?"
+  }
+ ],
+ "bge-215-1": [
+  {
+   "style": "direct",
+   "q": "Why are our actions determined by more than one morality?"
+  },
+  {
+   "style": "modern",
+   "q": "I feel pulled in different moral directions at once. Is that a defect or just the modern condition?"
+  }
+ ],
+ "bge-217-1": [
+  {
+   "style": "direct",
+   "q": "Why should we be careful with people who pride themselves on moral tact?"
+  },
+  {
+   "style": "modern",
+   "q": "A friend who once misjudged me can't seem to forgive me for it. Why?"
+  }
+ ],
+ "bge-218-1": [
+  {
+   "style": "direct",
+   "q": "What should psychologists study instead of bourgeois stupidity?"
+  },
+  {
+   "style": "challenge",
+   "q": "Good, honest, ordinary people mean well. Why call their mediocrity cunning?"
+  },
+  {
+   "style": "modern",
+   "q": "Why does mediocrity seem to gang up on exceptional people?"
+  }
+ ],
+ "bge-219-1": [
+  {
+   "style": "direct",
+   "q": "Why do the intellectually shallow love to judge morally?"
+  },
+  {
+   "style": "modern",
+   "q": "People who moralize constantly online seem to be compensating for something. Is that right?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't honesty and respectability worth more than sophistication of mind?"
+  }
+ ],
+ "bge-220-1": [
+  {
+   "style": "direct",
+   "q": "Is there really such a thing as a disinterested action?"
+  },
+  {
+   "style": "challenge",
+   "q": "A mother sacrificing herself for her child is surely acting without self-interest. Isn't she?"
+  },
+  {
+   "style": "modern",
+   "q": "When I make a sacrifice for someone, do I always get something out of it?"
+  }
+ ],
+ "bge-222-1": [
+  {
+   "style": "direct",
+   "q": "What does the preaching of sympathy reveal about the preachers?"
+  },
+  {
+   "style": "modern",
+   "q": "Does all the talk about empathy today hide a deeper dissatisfaction with ourselves?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't sympathy the most basic of human virtues?"
+  }
+ ],
+ "bge-223-1": [
+  {
+   "style": "direct",
+   "q": "Why does the modern European need history as a storeroom of costumes?"
+  },
+  {
+   "style": "modern",
+   "q": "We keep trying on new styles and identities and none of them fit. Why?"
+  },
+  {
+   "style": "casual",
+   "q": "Will our laughter have a future?"
+  }
+ ],
+ "bge-224-1": [
+  {
+   "style": "direct",
+   "q": "What is the historical sense, and where does it come from?"
+  },
+  {
+   "style": "modern",
+   "q": "Does having access to every culture's past make us richer or shallower?"
+  },
+  {
+   "style": "casual",
+   "q": "Why can we enjoy Homer when the French classicists couldn't?"
+  }
+ ],
+ "bge-224-2": [
+  {
+   "style": "direct",
+   "q": "Why is the historical sense a mark of bad taste?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't it a virtue to appreciate every age and culture equally?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do we love Shakespeare's wild mixture of high and low that a stricter culture would have rejected?"
+  }
+ ],
+ "bge-224-3": [
+  {
+   "style": "direct",
+   "q": "Is our love of the infinite in conflict with good taste?"
+  },
+  {
+   "style": "modern",
+   "q": "Are we modern people drawn to danger and excess because we've lost a sense of proportion?"
+  }
+ ],
+ "bge-225-1": [
+  {
+   "style": "direct",
+   "q": "What is wrong with measuring the worth of things by pleasure and pain?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't the reduction of suffering the noblest goal a person can pursue?"
+  },
+  {
+   "style": "modern",
+   "q": "Does great suffering shape people and make them greater?"
+  }
+ ],
+ "bge-225-2": [
+  {
+   "style": "direct",
+   "q": "What do you mean by \"sympathy against sympathy\"?"
+  },
+  {
+   "style": "challenge",
+   "q": "How can withholding sympathy ever be a form of sympathy?"
+  }
+ ],
+ "bge-226-1": [
+  {
+   "style": "direct",
+   "q": "What kind of duties do the immoralists have?"
+  },
+  {
+   "style": "casual",
+   "q": "Are immoralists men without duty?"
+  }
+ ],
+ "bge-227-1": [
+  {
+   "style": "direct",
+   "q": "Which virtue is left to the free spirits?"
+  },
+  {
+   "style": "modern",
+   "q": "Can honesty become a vice, or a form of vanity?"
+  },
+  {
+   "style": "casual",
+   "q": "Why do you warn against becoming saints and bores?"
+  }
+ ],
+ "bge-228-1": [
+  {
+   "style": "direct",
+   "q": "Why has moral philosophy been so tedious?"
+  },
+  {
+   "style": "challenge",
+   "q": "The English utilitarians simply wanted the greatest happiness for the greatest number. What's wrong with that?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do so many discussions of ethics feel like sermons rather than real inquiry?"
+  }
+ ],
+ "bge-229-1": [
+  {
+   "style": "direct",
+   "q": "What is the truth about cruelty in higher culture?"
+  },
+  {
+   "style": "challenge",
+   "q": "We have overcome our cruelty through civilization, haven't we?"
+  },
+  {
+   "style": "modern",
+   "q": "Is the pleasure we take in tragedy and violent entertainment a disguised form of cruelty?"
+  }
+ ],
+ "bge-229-2": [
+  {
+   "style": "direct",
+   "q": "Why do people enjoy tragedy, bull-fights and gladiatorial contests?"
+  },
+  {
+   "style": "modern",
+   "q": "Can cruelty toward oneself be a source of pleasure, as in self-denial and religious asceticism?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't the pursuit of knowledge the opposite of cruelty?"
+  }
+ ],
+ "bge-230-1": [
+  {
+   "style": "direct",
+   "q": "What is the fundamental will of the spirit?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do we choose ignorance and narrow horizons sometimes even when we could know more?"
+  },
+  {
+   "style": "casual",
+   "q": "Is the mind more like a stomach than a mirror?"
+  }
+ ],
+ "bge-230-2": [
+  {
+   "style": "direct",
+   "q": "What is the cruelty of the intellectual conscience?"
+  },
+  {
+   "style": "modern",
+   "q": "Are noble words like honesty and love of truth just a costume for human vanity?"
+  },
+  {
+   "style": "challenge",
+   "q": "Why not simply call this cruelty \"extravagant honesty\"?"
+  }
+ ],
+ "bge-230-3": [
+  {
+   "style": "direct",
+   "q": "What does it mean to translate man back into nature?"
+  },
+  {
+   "style": "casual",
+   "q": "Why knowledge at all?"
+  },
+  {
+   "style": "modern",
+   "q": "Would it change how we treat each other if we saw ourselves as just another part of nature?"
+  }
+ ],
+ "bge-231-1": [
+  {
+   "style": "direct",
+   "q": "What is the unteachable core within each thinker?"
+  },
+  {
+   "style": "modern",
+   "q": "Do my strongest convictions say more about who I am than what is true?"
+  },
+  {
+   "style": "casual",
+   "q": "What do you mean by \"the great stupidity which we embody\"?"
+  }
+ ],
+ "bge-235-1": [
+  {
+   "style": "direct",
+   "q": "What piece of motherly wisdom did Madame de Lambert offer her son?"
+  },
+  {
+   "style": "casual",
+   "q": "What advice would you give a young man about folly?"
+  }
+ ],
+ "bge-236-1": [
+  {
+   "style": "direct",
+   "q": "What should we make of Goethe's line that the eternal feminine draws us aloft?"
+  },
+  {
+   "style": "casual",
+   "q": "Does the eternally masculine draw women aloft, too?"
+  }
+ ],
+ "bge-240-1": [
+  {
+   "style": "direct",
+   "q": "What is your impression of Wagner's Mastersingers overture?"
+  },
+  {
+   "style": "modern",
+   "q": "What does Wagner's music tell us about the German character?"
+  },
+  {
+   "style": "casual",
+   "q": "Why do you say Germans have no today?"
+  }
+ ],
+ "bge-241-1": [
+  {
+   "style": "direct",
+   "q": "What is the difference between a great deed and a great thought?"
+  },
+  {
+   "style": "modern",
+   "q": "A politician builds a huge empire and everyone calls him great. Is he?"
+  },
+  {
+   "style": "casual",
+   "q": "What is a good European?"
+  }
+ ],
+ "bge-241-2": [
+  {
+   "style": "direct",
+   "q": "Is a statesman great who turns his people to national politics and narrows their souls?"
+  },
+  {
+   "style": "modern",
+   "q": "Is being mad and strong the same as being great?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't a leader who unites his people around national pride serving them well?"
+  }
+ ],
+ "bge-242-1": [
+  {
+   "style": "direct",
+   "q": "What is happening physiologically as Europe becomes more democratic?"
+  },
+  {
+   "style": "modern",
+   "q": "Will globalization and mobility create a rootless, adaptable humanity?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't the leveling of classes and nations a straightforward moral gain?"
+  }
+ ],
+ "bge-242-2": [
+  {
+   "style": "direct",
+   "q": "Does the democratizing of Europe prepare for tyrants?"
+  },
+  {
+   "style": "modern",
+   "q": "Could a society of equals create the conditions for a strongman to rise?"
+  }
+ ],
+ "bge-243-1": [
+  {
+   "style": "direct",
+   "q": "What do you hope men will do like the sun?"
+  },
+  {
+   "style": "casual",
+   "q": "Where is our sun headed?"
+  }
+ ],
+ "bge-244-1": [
+  {
+   "style": "direct",
+   "q": "Is German depth really depth?"
+  },
+  {
+   "style": "modern",
+   "q": "Why is it so hard to define a national character like the German one?"
+  },
+  {
+   "style": "casual",
+   "q": "What is the German soul like?"
+  }
+ ],
+ "bge-245-2": [
+  {
+   "style": "direct",
+   "q": "What was Schumann's danger for German music?"
+  },
+  {
+   "style": "challenge",
+   "q": "Schumann's music was sincere and deeply felt. Why do you look down on it?"
+  }
+ ],
+ "bge-246-1": [
+  {
+   "style": "direct",
+   "q": "Why do you say German books are a torture to a good reader?"
+  },
+  {
+   "style": "modern",
+   "q": "What does it mean to read a sentence with a \"third ear\"?"
+  },
+  {
+   "style": "casual",
+   "q": "How do you tell a great prose stylist from a clumsy one?"
+  }
+ ],
+ "bge-247-1": [
+  {
+   "style": "direct",
+   "q": "Why do the Germans write so badly?"
+  },
+  {
+   "style": "modern",
+   "q": "Should good writing be read aloud?"
+  },
+  {
+   "style": "challenge",
+   "q": "Silent reading is more efficient. Why insist on reading for the ear?"
+  }
+ ],
+ "bge-247-2": [
+  {
+   "style": "direct",
+   "q": "Who taught the Germans how to speak and write with weight?"
+  },
+  {
+   "style": "casual",
+   "q": "What do you think of Luther's Bible as literature?"
+  }
+ ],
+ "bge-249-1": [
+  {
+   "style": "direct",
+   "q": "What does every nation call its own virtue?"
+  },
+  {
+   "style": "casual",
+   "q": "Isn't every people a little hypocritical about its virtues?"
+  }
+ ],
+ "bge-253-1": [
+  {
+   "style": "direct",
+   "q": "Why do mediocre minds so often discover the truths that shape an age?"
+  },
+  {
+   "style": "challenge",
+   "q": "Darwin, Mill and Spencer were great thinkers. Why call them mediocre?"
+  },
+  {
+   "style": "modern",
+   "q": "Is being a creative genius different from being a good scientist?"
+  }
+ ],
+ "bge-253-2": [
+  {
+   "style": "direct",
+   "q": "Where do the so-called modern ideas come from?"
+  },
+  {
+   "style": "modern",
+   "q": "Did nationalism and Anglomania make French culture thin?"
+  }
+ ],
+ "bge-254-1": [
+  {
+   "style": "direct",
+   "q": "Where is the real France of taste to be found?"
+  },
+  {
+   "style": "casual",
+   "q": "Who keeps culture alive when it is in decline?"
+  }
+ ],
+ "bge-254-3": [
+  {
+   "style": "direct",
+   "q": "What are the French good at that the Germans are not?"
+  },
+  {
+   "style": "modern",
+   "q": "Is a mixture of North and South, cold and warm, an advantage in a culture?"
+  },
+  {
+   "style": "casual",
+   "q": "What do you admire about Stendhal and Bizet?"
+  }
+ ],
+ "bge-255-1": [
+  {
+   "style": "direct",
+   "q": "What is your objection to German music?"
+  },
+  {
+   "style": "modern",
+   "q": "What would a Mediterranean, south-facing music sound like?"
+  },
+  {
+   "style": "casual",
+   "q": "Can music ever go beyond good and evil?"
+  }
+ ],
+ "bge-256-1": [
+  {
+   "style": "direct",
+   "q": "Does Europe wish to be one?"
+  },
+  {
+   "style": "modern",
+   "q": "Is nationalism a symptom of short-sightedness in modern politics?"
+  },
+  {
+   "style": "challenge",
+   "q": "Shouldn't every nation cherish its own particular character?"
+  }
+ ],
+ "bge-257-1": [
+  {
+   "style": "direct",
+   "q": "What has made the elevation of the human type possible?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't a society of equals the only just one? How can you defend an aristocracy?"
+  },
+  {
+   "style": "modern",
+   "q": "Do we need social hierarchy, or at least a sense of distance between people, to want to become more than we are?"
+  }
+ ],
+ "bge-258-1": [
+  {
+   "style": "direct",
+   "q": "What makes an aristocracy healthy?"
+  },
+  {
+   "style": "challenge",
+   "q": "When the French nobility gave up its privileges in the Revolution, wasn't that a noble act?"
+  },
+  {
+   "style": "casual",
+   "q": "What is the lesson of the Sipo Matador vine?"
+  }
+ ],
+ "bge-259-1": [
+  {
+   "style": "direct",
+   "q": "Is exploitation an essential feature of life?"
+  },
+  {
+   "style": "challenge",
+   "q": "Refraining from harming one another seems like the basis of every decent society. What is wrong with that principle?"
+  },
+  {
+   "style": "modern",
+   "q": "Can a society ever really be built without exploitation?"
+  }
+ ],
+ "bge-260-1": [
+  {
+   "style": "direct",
+   "q": "What is the difference between master-morality and slave-morality?"
+  },
+  {
+   "style": "modern",
+   "q": "Do the words \"good\" and \"bad\" mean something different for the strong than for the weak?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't morality universal, the same for everyone?"
+  }
+ ],
+ "bge-260-3": [
+  {
+   "style": "direct",
+   "q": "What are the typical traits of the morality of the ruling class?"
+  },
+  {
+   "style": "modern",
+   "q": "Is it legitimate to have duties only toward one's equals?"
+  }
+ ],
+ "bge-260-4": [
+  {
+   "style": "direct",
+   "q": "How does slave-morality see the good man?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do \"good\" and \"stupid\" so often end up meaning almost the same thing?"
+  },
+  {
+   "style": "casual",
+   "q": "Where does romantic love come from?"
+  }
+ ],
+ "bge-261-1": [
+  {
+   "style": "direct",
+   "q": "Why is vanity so hard for the noble man to understand?"
+  },
+  {
+   "style": "modern",
+   "q": "Do we all just become whatever others say we are?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't modesty a virtue rather than vanity in disguise?"
+  }
+ ],
+ "bge-262-1": [
+  {
+   "style": "direct",
+   "q": "How does a strong type of human being come to exist?"
+  },
+  {
+   "style": "modern",
+   "q": "Does comfort and abundance make people softer and stranger?"
+  },
+  {
+   "style": "challenge",
+   "q": "Wouldn't we all be better off if our lives were free of struggle?"
+  }
+ ],
+ "bge-262-2": [
+  {
+   "style": "direct",
+   "q": "What happens to a society when its old discipline is no longer needed?"
+  },
+  {
+   "style": "modern",
+   "q": "Is our age of individualism a moment of great growth or great decay?"
+  },
+  {
+   "style": "casual",
+   "q": "What is the mother of morality?"
+  }
+ ],
+ "bge-262-3": [
+  {
+   "style": "direct",
+   "q": "Who will survive the collapse of an old morality?"
+  },
+  {
+   "style": "modern",
+   "q": "Is mediocrity the safest strategy in a chaotic age?"
+  }
+ ],
+ "bge-263-1": [
+  {
+   "style": "direct",
+   "q": "What is the instinct for rank, and what does it reveal?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do some people treat everything, even sacred things, with easy familiarity?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't reverence just deference to authority?"
+  }
+ ],
+ "bge-263-2": [
+  {
+   "style": "direct",
+   "q": "Which class shows more sense of reverence, the cultured or the common people?"
+  },
+  {
+   "style": "modern",
+   "q": "Do educated, newspaper-reading people have less tact for the sacred than peasants?"
+  }
+ ],
+ "bge-265-1": [
+  {
+   "style": "direct",
+   "q": "Is egoism part of the essence of a noble soul?"
+  },
+  {
+   "style": "challenge",
+   "q": "Egoism is a vice. How can it be noble?"
+  },
+  {
+   "style": "modern",
+   "q": "Is it selfish to expect others to sacrifice for you, if you are truly exceptional?"
+  }
+ ],
+ "bge-267-1": [
+  {
+   "style": "direct",
+   "q": "What do you think of the Chinese saying \"make thy heart small\"?"
+  },
+  {
+   "style": "modern",
+   "q": "Are modern people shrinking themselves to fit in?"
+  }
+ ],
+ "bge-268-1": [
+  {
+   "style": "direct",
+   "q": "What is ignobleness, at its root?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do people who live through similar hardship understand each other so easily?"
+  },
+  {
+   "style": "casual",
+   "q": "Why do lovers fear eternal misunderstanding?"
+  }
+ ],
+ "bge-268-2": [
+  {
+   "style": "direct",
+   "q": "Why does the ordinary type of human being have the advantage in the struggle for survival?"
+  },
+  {
+   "style": "modern",
+   "q": "Do unusual, hard-to-understand people tend to be lonely and fail to reproduce their kind?"
+  }
+ ],
+ "bge-269-1": [
+  {
+   "style": "direct",
+   "q": "What is the psychologist's greatest danger when he studies the higher types of men?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do people who study human nature deeply often seek out the company of ordinary, simple people?"
+  },
+  {
+   "style": "casual",
+   "q": "Is your God only a poor sacrificial animal?"
+  }
+ ],
+ "bge-269-3": [
+  {
+   "style": "direct",
+   "q": "What does the story of Jesus reveal about the knowledge of love?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't love the greatest force for good in the world?"
+  }
+ ],
+ "bge-270-1": [
+  {
+   "style": "direct",
+   "q": "What does profound suffering do to a person?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do people who have suffered deeply hide behind humor and lightness?"
+  },
+  {
+   "style": "casual",
+   "q": "Should we respect the mask?"
+  }
+ ],
+ "bge-272-1": [
+  {
+   "style": "direct",
+   "q": "What are the signs of nobility?"
+  },
+  {
+   "style": "modern",
+   "q": "Is taking on responsibilities that others try to avoid a sign of character?"
+  }
+ ],
+ "bge-273-1": [
+  {
+   "style": "direct",
+   "q": "How does a man who strives after great things look at those he meets?"
+  },
+  {
+   "style": "modern",
+   "q": "Is ambition isolating? Do I treat people as tools?"
+  }
+ ],
+ "bge-276-1": [
+  {
+   "style": "direct",
+   "q": "Why is the nobler soul in greater danger from injury and loss?"
+  },
+  {
+   "style": "casual",
+   "q": "Why can't a man grow back a finger like a lizard?"
+  }
+ ],
+ "bge-278-1": [
+  {
+   "style": "direct",
+   "q": "What does the wanderer ask for when offered refreshment?"
+  },
+  {
+   "style": "casual",
+   "q": "Why would a wanderer want another mask?"
+  }
+ ],
+ "bge-279-1": [
+  {
+   "style": "direct",
+   "q": "How do men of profound sadness behave when they are happy?"
+  },
+  {
+   "style": "modern",
+   "q": "When I'm finally happy, I feel anxious and clutch at it. Why?"
+  }
+ ],
+ "bge-280-1": [
+  {
+   "style": "direct",
+   "q": "Is going back always a defeat?"
+  },
+  {
+   "style": "modern",
+   "q": "I feel like I'm going backward in my life. Could that be preparation for something?"
+  }
+ ],
+ "bge-281-1": [
+  {
+   "style": "direct",
+   "q": "Can we know ourselves?"
+  },
+  {
+   "style": "modern",
+   "q": "I've never trusted my own self-analysis. Is that a defect?"
+  }
+ ],
+ "bge-282-1": [
+  {
+   "style": "direct",
+   "q": "What happens to a refined soul in a noisy, plebeian age?"
+  },
+  {
+   "style": "modern",
+   "q": "Sometimes I sit at a dinner with people I've nothing in common with and feel nausea afterward. What is that?"
+  }
+ ],
+ "bge-283-1": [
+  {
+   "style": "direct",
+   "q": "Why is it a noble self-control to praise only where one disagrees?"
+  },
+  {
+   "style": "modern",
+   "q": "People assume that if I praise them, I agree with them. How do I deal with that?"
+  }
+ ],
+ "bge-284-1": [
+  {
+   "style": "direct",
+   "q": "How should one live with one's emotions and with society?"
+  },
+  {
+   "style": "modern",
+   "q": "How do I stay cheerful and polite without giving people access to my inner life?"
+  },
+  {
+   "style": "casual",
+   "q": "Is solitude a virtue?"
+  }
+ ],
+ "bge-285-1": [
+  {
+   "style": "direct",
+   "q": "Why are the greatest events and thoughts the slowest to be understood?"
+  },
+  {
+   "style": "modern",
+   "q": "Could the most important developments of our era be ones we're not experiencing at all yet?"
+  }
+ ],
+ "bge-286-1": [
+  {
+   "style": "direct",
+   "q": "What is the difference between the man on a height who looks up and the one who looks down?"
+  },
+  {
+   "style": "casual",
+   "q": "Who is the man who looks downward from a height?"
+  }
+ ],
+ "bge-287-1": [
+  {
+   "style": "direct",
+   "q": "What is noble?"
+  },
+  {
+   "style": "challenge",
+   "q": "Doesn't a noble person show it through great works and great deeds?"
+  },
+  {
+   "style": "modern",
+   "q": "Do people who long for nobility lack it?"
+  }
+ ],
+ "bge-288-1": [
+  {
+   "style": "direct",
+   "q": "Why do intellectual men hide their intellect?"
+  },
+  {
+   "style": "modern",
+   "q": "Is pretending to be stupider than one is sometimes wise?"
+  },
+  {
+   "style": "casual",
+   "q": "Is enthusiasm a mask?"
+  }
+ ],
+ "bge-289-1": [
+  {
+   "style": "direct",
+   "q": "Do philosophers ever express their ultimate opinions in their books?"
+  },
+  {
+   "style": "modern",
+   "q": "Is every philosophy just a mask hiding another philosophy?"
+  },
+  {
+   "style": "casual",
+   "q": "What is it about the writing of a recluse that sounds different?"
+  }
+ ],
+ "bge-290-1": [
+  {
+   "style": "direct",
+   "q": "Why is a deep thinker more afraid of being understood than misunderstood?"
+  },
+  {
+   "style": "modern",
+   "q": "I find myself a bit relieved when people misunderstand me. Why?"
+  }
+ ],
+ "bge-291-1": [
+  {
+   "style": "direct",
+   "q": "Why did man invent the good conscience?"
+  },
+  {
+   "style": "modern",
+   "q": "Is morality a comforting falsification that lets us see ourselves as simple?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't a good conscience a sign of an honest heart?"
+  }
+ ],
+ "bge-292-1": [
+  {
+   "style": "direct",
+   "q": "What is a philosopher?"
+  },
+  {
+   "style": "modern",
+   "q": "I get strange, sudden ideas that feel like they come from outside me. Does that make me a philosopher?"
+  },
+  {
+   "style": "casual",
+   "q": "Can a philosopher be afraid of himself?"
+  }
+ ],
+ "bge-293-1": [
+  {
+   "style": "direct",
+   "q": "When does sympathy have value?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't compassion for the suffering what makes us human?"
+  },
+  {
+   "style": "modern",
+   "q": "Are we living in a cult of suffering today?"
+  }
+ ],
+ "bge-295-1": [
+  {
+   "style": "direct",
+   "q": "Who is the genius of the heart?"
+  },
+  {
+   "style": "casual",
+   "q": "Describe the tempter-god who makes people richer without giving them anything."
+  }
+ ],
+ "bge-295-2": [
+  {
+   "style": "direct",
+   "q": "Who is Dionysus, and what is his philosophy?"
+  },
+  {
+   "style": "modern",
+   "q": "What does it mean for a god to be a philosopher?"
+  },
+  {
+   "style": "casual",
+   "q": "Why do you call yourself the last disciple of Dionysus?"
+  }
+ ],
+ "bge-295-3": [
+  {
+   "style": "direct",
+   "q": "What does Dionysus say he loves about man?"
+  },
+  {
+   "style": "challenge",
+   "q": "Why would anyone want man to be stronger, more evil and more profound?"
+  },
+  {
+   "style": "casual",
+   "q": "What can the gods learn from men?"
+  }
+ ],
+ "bge-296-1": [
+  {
+   "style": "direct",
+   "q": "What happens to a thought once it's written down?"
+  },
+  {
+   "style": "modern",
+   "q": "Ideas I once found daring now seem tedious once I've said them. Why?"
+  },
+  {
+   "style": "casual",
+   "q": "What is it to be a painter of thoughts?"
+  }
+ ]
+}

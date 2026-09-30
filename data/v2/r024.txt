@@ -1,0 +1,90 @@
+gs-088-1
+K2
+r|Tell me why different people mean different things by earnestness for the truth.
+gs-089-1
+K2
+r|Tell me what we lost when art stopped being part of the festival.
+gs-090-1
+K2
+r|Tell me how a thinker's books differ in their light and shadow.
+gs-091-1
+K1
+r|Explain why we shouldn't trust a man's own account of his life.
+gs-092-1
+K2
+r|Tell me why the best prose writers are also poets.
+gs-093-1
+K1
+K2
+gs-094-1
+K1
+r|Tell me what happens when a playful paradox becomes a scientific truth.
+gs-096-1
+K1
+r|Compare two orators by how emotion helps or spoils their case.
+gs-097-1
+K2
+r|Tell me the kinds of loquacity you find in famous writers.
+gs-098-1
+K1
+r|Tell me what Shakespeare's Julius Caesar shows about him.
+gs-099-1
+K2
+r|Tell me what admirers of a great thinker first imitate.
+gs-100-1
+K1
+r|Explain why gratitude toward a thinker is so awkward.
+gs-101-1
+K2
+r|Tell me how court taste shaped style and why it has faded.
+gs-103-1
+K2
+r|Tell me why German music became European music.
+gs-105-1
+K1
+r|Tell me what German artists want to dance out of.
+gs-106-1
+K1
+r|Tell me why an innovator wants a musician to carry his ideas.
+gs-107-1
+K1
+K3
+gs-108-1
+K2
+r|Tell me what we must still overcome after God's death.
+gs-109-1
+K2
+r|Warn me about the ways we anthropomorphise the universe.
+gs-109-2
+K3
+r|Tell me why there is neither design nor chance in the world.
+gs-110-1
+K3
+r|Tell me how our oldest errors became conditions of life.
+gs-110-2
+K1
+r|Explain how the search for truth became one of our needs.
+gs-110-3
+K2
+r|Tell me what the great experiment of knowledge is.
+gs-111-1
+K1
+r|Tell me how logic grew out of illogic.
+gs-112-1
+K1
+r|Explain why cause and effect describe but do not explain.
+gs-113-1
+K1
+r|Tell me how the impulses that once poisoned now serve science.
+gs-114-1
+K1
+r|Tell me what you mean by moral experiences even in the senses.
+gs-115-1
+K1
+r|Tell me what would be left of "humanity" without our errors.
+gs-116-1
+K1
+r|Explain why morality is the herd instinct in the individual.
+gs-117-1
+K1
+r|Tell me how the sting of conscience worked in the earliest ages.

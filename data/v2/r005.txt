@@ -1,0 +1,75 @@
+bge-204-2
+K3
+s|Many young scholars I know scorn philosophy. What lies behind such contempt?
+bge-204-3
+K3
+r|Tell me what has become of philosophy now that it has shrunk into a theory of knowledge.
+bge-205-1
+K2
+s|I want to be a philosopher, but the sciences are so vast that everyone ends up specializing. Is real philosophy still possible?
+bge-205-2
+K2
+r|Tell me how the genuine philosopher lives compared with the prudent wise man of popular imagination.
+bge-207-1
+K2
+s|My teachers say a scientist should be perfectly objective and keep himself out of it entirely. Is that an ideal to aim at?
+bge-208-1
+K1
+r|Explain why skepticism is such a comfortable position and what kind of thinker it suits.
+bge-209-1
+K2
+r|Tell me what kind of skepticism can coexist with manliness and daring.
+bge-211-1
+K3
+r|Explain why the real philosopher commands and legislates instead of merely analyzing what already exists.
+bge-214-1
+K1
+r|Tell me about the virtues that people like us might have.
+bge-215-1
+K1
+K2
+bge-216-1
+K2
+r|Tell me how love of enemies survives among us and what kind of morality we have in its place.
+bge-217-1
+K1
+K2
+bge-218-1
+K3
+r|Explain what the "good, fat, honest mediocrity" does to exceptional people.
+bge-219-1
+K3
+s|The people who moralize loudest online seem to be compensating for something. Is there something in that?
+bge-220-1
+K3
+s|A firefighter runs into a burning house to save a stranger. Surely that is disinterested. Is it?
+bge-222-1
+K2
+s|Everyone preaches compassion and empathy these days. What do you hear beneath all that talk?
+bge-223-1
+K3
+r|Explain why modern people keep trying on styles and identities.
+bge-224-2
+K2
+r|Tell me what the historical sense costs us in taste.
+bge-224-3
+K1
+r|Describe the modern craving for the infinite and immeasurable.
+bge-226-1
+K1
+r|Tell me what duties the immoralists still recognize.
+bge-227-1
+K3
+K1
+bge-228-1
+K1
+K3
+bge-229-1
+K2
+r|Explain your thesis that higher culture rests on the spiritualising of cruelty.
+bge-229-2
+K3
+r|Tell me what cruelty toward oneself has to do with religion and with the love of knowledge.
+bge-230-1
+K2
+r|Explain what the spirit's will to simplify and to appropriate the new looks like in practice.

@@ -1,0 +1,62 @@
+bge-043-1
+d|Will the philosophers of the future be friends of the truth? Will they be dogmatists?
+c|Shouldn't a good idea be one that everyone can share? What is wrong with a "common good"?
+m|I feel uneasy when my opinions match everyone else's. Is that a healthy instinct?
+bge-044-2
+d|Under what conditions has the human being grown strongest?
+c|Wouldn't a safe and comfortable world bring out the best in humanity?
+m|Did hardship make you who you are? Do we need danger and difficulty to grow?
+bge-044-3
+d|What kind of people are the free spirits?
+k|Describe yourself and your kind in a few lines.
+m|I love solitude and I'm curious about everything, sometimes to a fault. Is that a philosopher's temperament?
+bge-045-1
+d|What is the great hunting-ground of the psychologist?
+m|Why does deep understanding of the human soul demand so much personal experience?
+k|Why is your curiosity such a pleasant vice?
+bge-046-1
+d|What was the Christian faith at its beginnings, and what did it demand?
+c|Wasn't early Christianity a gentle religion of love and mercy?
+m|Why does "God on the Cross" sound so ordinary to us but was so shocking at the time?
+bge-047-1
+d|What do solitude, fasting and abstinence have to do with religious neurosis?
+m|Is religious experience just a matter of the body and its excesses?
+c|Isn't the saint the proof that human beings can truly deny their own will?
+bge-047-2
+d|Why has the saint fascinated men and philosophers of every age?
+m|Can a bad person suddenly become a good person, or is that a trick of interpretation?
+bge-051-1
+d|Why did the mightiest men bow before the saint?
+m|Why do powerful people respect those who give up everything?
+bge-052-1
+d|What do you think of the Old and New Testaments?
+c|Isn't the New Testament the more refined and moral of the two books?
+k|Should the two Testaments have been bound together as a single book?
+bge-053-1
+d|Why atheism nowadays?
+m|People are becoming less religious, yet many still feel a religious pull. What is going on?
+c|Isn't science what killed the belief in God?
+bge-054-1
+d|What does modern philosophy do to the Christian doctrine of the soul?
+c|Descartes started from the thinking self. Isn't that the firmest ground we have?
+m|Is the "I" the source of thought, or just a product of it?
+bge-055-1
+d|What are the three rungs of religious cruelty?
+m|How can giving up God be a form of cruelty toward oneself?
+k|What is the last sacrifice?
+bge-056-1
+d|What is the opposite ideal to pessimism?
+m|Would you want to live your life again exactly as it was, forever?
+c|Isn't Schopenhauer right that life is mostly suffering and the wise man should renounce the will?
+bge-057-1
+d|Will our grand notions of God and sin one day seem like children's toys?
+m|Will the problems that torment us now seem trivial to future generations?
+k|Are we all eternal children?
+bge-058-1
+d|What does a religious life need in order to flourish?
+m|Is busyness and modern hard work the enemy of faith?
+c|Aren't people today simply too rational to believe?
+bge-058-2
+d|How does the modern scholar treat religion?
+c|Isn't tolerance toward religion a virtue in a scholar?
+m|Why do academics tend to look down on believers without noticing their own naivete?

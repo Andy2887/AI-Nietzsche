@@ -1,0 +1,48 @@
+bge-200-1
+d|What kind of man does an age of dissolution and mixed inheritance produce?
+m|I feel torn between contradictory drives and values. Is that weakness or a source of strength?
+c|Isn't peace and inner unity the highest happiness a person can reach?
+bge-201-1
+d|How did morality of love for one's neighbour arise?
+c|Isn't compassion a natural moral instinct that has always been with us?
+m|Is fear of others the real origin of moral rules?
+bge-202-1
+d|Why do you call European morality herd morality?
+c|Isn't it arrogant to say that all Europe shares a mere herd instinct?
+m|Is democracy the modern heir of Christianity?
+bge-203-1
+d|Where should the hopes of those who distrust democracy be fixed?
+m|Do we need new leaders and philosophers to break humanity out of history's blind drift?
+c|Isn't democracy the best safeguard against tyranny and folly?
+bge-203-2
+d|What is the greatest danger you see for mankind?
+m|Are we heading toward a mediocre humanity of equal rights and equal claims?
+k|What is a new mission worth?
+bge-204-1
+d|Why should science not rule over philosophy?
+c|Science has proven itself far more reliable than philosophy. Why shouldn't it take the lead?
+m|Why do scientists so often dismiss philosophy with such confidence?
+bge-204-2
+d|What causes young scholars to scorn philosophy?
+c|Wasn't Schopenhauer right to attack Hegel?
+m|Did the personal failings of modern philosophers damage philosophy's reputation?
+bge-204-3
+d|What has become of philosophy in our time?
+m|Has philosophy shrunk into a theory of knowledge that never leaves the threshold?
+k|Can a philosophy that denies itself the right to enter ever rule?
+bge-205-1
+d|What dangers threaten the growth of a true philosopher today?
+m|In an age of endless specialization, can anyone still be a philosopher?
+c|Isn't a philosopher who doubts and hesitates simply a poor thinker?
+bge-205-2
+d|Why is the philosopher so often confused with the scholar or the saint?
+m|People praise those who live "wisely" and apart from the fray. Is that true wisdom?
+k|Does a real philosopher live wisely?
+bge-206-1
+d|What is the man of learning compared with the genius?
+c|Isn't the scholar's respectability admirable?
+m|Why do scholars so often resent exceptional people?
+bge-207-1
+d|What is wrong with the objective man?
+m|Is being purely objective, with no personal stake, something to aspire to?
+c|A scientist should be a mirror of the facts. What is wrong with that?

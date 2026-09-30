@@ -1,0 +1,66 @@
+gs-109-1
+d|Is the world a living being or a machine?
+m|Does the universe have any laws, order or purpose, or is it chaos?
+c|The stars move in perfect order. Isn't that evidence of design?
+gs-109-2
+d|Is there any chance or design in the world?
+m|Is death the opposite of life?
+k|When will nature be entirely undeified?
+gs-110-1
+d|What is the origin of knowledge?
+m|Are our most basic beliefs, like enduring things and free will, useful errors?
+c|Doesn't truth have to be the foundation of knowledge?
+gs-110-2
+d|Why did the Eleatics deceive themselves about the sage?
+m|How did the struggle for truth become a business, calling and duty?
+gs-110-3
+d|How did knowledge become a force?
+m|How far can truth be embodied in a person?
+k|Is the pursuit of truth an experiment on life itself?
+gs-111-1
+d|Where did logic originate?
+m|Is logic the result of an illogical inclination to treat similar things as equal?
+gs-112-1
+d|Do we explain things, or only describe them?
+m|Has science really explained cause and effect?
+gs-113-1
+d|What is the theory of poisons?
+m|How did doubting, denying and collecting impulses become useful in science?
+gs-114-1
+d|What is the extent of the moral?
+k|Are all experiences moral experiences?
+gs-115-1
+d|What are the four errors that reared man?
+m|What would remain of human dignity without these errors?
+gs-116-1
+d|What is herd-instinct?
+m|Is my morality just my community's needs internalised?
+gs-117-1
+d|How did the sting of conscience differ in early times?
+m|Why was being independent once felt as punishment?
+gs-118-1
+d|What is benevolence between the strong and the weak?
+m|Is pity a pleasant excitation of the instinct of appropriation?
+gs-120-1
+d|What does health of the soul mean?
+c|Virtue is the health of the soul, isn't it?
+m|Is there such a thing as normal health, or does it differ for everyone?
+gs-121-1
+d|Is life an argument for our beliefs?
+m|Could error be a condition of life?
+gs-123-1
+d|Why must knowledge become more than a means?
+m|Is scientific curiosity a passion, or mostly boredom and vanity?
+gs-124-1
+d|What does it mean to have left the land?
+k|What is the infinite like on a ship?
+gs-125-1
+d|What does the madman say about God?
+m|What does "God is dead" mean, and what are its consequences?
+c|Isn't it arrogant to say we have killed God?
+gs-125-2
+d|Why does the madman say he has come too early?
+k|Why does the madman call churches tombs of God?
+gs-126-1
+d|Why are mystical explanations regarded as profound?
+k|Are mystical explanations even superficial?

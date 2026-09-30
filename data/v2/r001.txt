@@ -1,0 +1,57 @@
+bge-000-1
+K2
+s|I've been reading Plato and Aquinas and they sound completely certain of their foundations. Should I trust philosophies that claim absolute foundations?
+bge-001-1
+r|Explain why the will to truth is itself a problem we should question.
+K2
+bge-002-1
+K1
+r|Describe the belief that runs through every metaphysician's reasoning, and tell me what you make of it.
+bge-003-1
+K1
+s|I always thought my beliefs came from logic and evidence. Is it possible that my body's needs are steering my reasoning more than I realize?
+bge-004-1
+K2
+c|A belief that is false is a bad belief, full stop. Why would you ever call false opinions indispensable?
+bge-007-1
+r|Tell me the story of Epicurus's jibe at Plato and what it reveals about philosophers.
+K1
+bge-009-1
+K1
+s|My friend says the wise life means living in harmony with nature. How would you answer her?
+bge-010-1
+K1
+r|Diagnose the modern skeptics who deny the reality of the world. What are they really after?
+bge-011-2
+K3
+r|Explain the joke about opium and the "dormitive virtue," and say what it has to do with Kant.
+bge-012-1
+K3
+s|My biology professor says the soul is just an outdated fiction that science has replaced. Must a serious thinker simply discard the idea of the soul?
+bge-013-1
+K2
+r|Give me your argument against treating self-preservation as the master instinct of life.
+bge-015-1
+K1
+r|Walk me through why the claim that our sense organs create the outside world refutes itself.
+bge-016-1
+K1
+K3
+bge-017-1
+K1
+s|Ideas often show up in my head when I'm not trying to think at all. Who is doing the thinking then?
+bge-019-1
+K1
+r|Break down what actually happens inside us when we will something.
+bge-019-3
+d|What kind of thing is willing, and what does that say about morality?
+K2
+bge-021-1
+K2
+c|If free will is a fiction, why not also say we are helpless puppets? Why deny that too?
+bge-022-1
+K1
+r|Explain how "the laws of nature" can be an interpretation and not a fact, and what your own alternative reading is.
+bge-023-1
+K2
+s|People tell me hatred and envy are just bad and should be rooted out. Could that be a moralistic prejudice?

@@ -1,0 +1,66 @@
+dawn-021-1
+d|What do conscientious people say when following a moral rule leads to misfortune?
+m|I did everything right and it still turned out badly. Was I wrong to follow the rules?
+dawn-022-1
+d|Does faith come before works, or works before faith?
+c|Isn't faith the essential thing, with good actions following naturally from it?
+m|Should I wait to feel motivated before I act, or act and let the motivation follow?
+dawn-023-1
+d|How did superstition make man feel more powerless than necessary?
+m|How did fear and helplessness make us so sensitive to our own power?
+dawn-024-1
+d|Why is it so hard to test a moral precept the way we test a recipe?
+m|Why do superstitious rules survive even when they clearly don't work?
+dawn-026-1
+d|What do the rules of polite society share with the animal kingdom?
+k|Is politeness just camouflage?
+dawn-027-1
+d|How has marriage elevated love?
+c|Isn't it dishonest to promise a passion will last forever?
+m|Do vows and institutions make our feelings deeper, or just more hypocritical?
+dawn-028-1
+d|Why did people take a cheerful state of mind as an argument?
+m|Can we trust a good feeling about a decision as a sign that it's right?
+c|Isn't confidence and a hopeful outlook a good reason to go ahead with something?
+dawn-029-1
+d|How did the Greeks act out their virtues?
+m|Is it wrong to perform a virtue you don't fully feel?
+k|How did Christianity change the show of virtue into a show of sin?
+dawn-031-1
+d|Where does man's pride in spirit come from?
+c|Isn't the human mind what separates us from animals?
+m|Why are people so touchy about being descended from animals?
+dawn-032-1
+d|Why do we resist the discovery that our moral suffering rests on an error?
+m|Do we find a strange comfort in our own suffering?
+dawn-033-1
+d|How did people come to despise real causes and consequences?
+m|Why do so many of our higher feelings depend on an imaginary world?
+c|Aren't our highest feelings of love and reverence the most real thing we have?
+dawn-035-1
+d|Should we trust our feelings?
+m|"Follow your heart" is popular advice. What is wrong with it?
+dawn-036-1
+d|Were the first inventors greater than the inventors of today?
+m|Is the modern mind superior to the ancients in some ways?
+dawn-037-1
+d|Does showing that something is useful explain why it exists?
+m|Is it a mistake to explain things by their purpose?
+dawn-038-1
+d|How do moral judgments change our impulses?
+m|Why did the Greeks think of hope and envy so differently from us?
+k|Is hope really a virtue?
+dawn-039-1
+d|What are the consequences of the doctrine of pure spirit?
+m|Does despising the body harm mental health?
+dawn-040-1
+d|How do meaningless rituals become sacred, and what good comes of them?
+m|Do we sometimes invent meaning where we can't find it?
+dawn-041-1
+d|What has the contemplative life cost the active life?
+c|Aren't religious and artistic people a blessing to the practical world?
+m|Do dreamers and idealists make life harder for those who actually do things?
+dawn-043-1
+d|What must a thinker have to think well?
+m|What are the different faculties of a good thinker?
+k|Why did the ancients think abstract thought was elevated?

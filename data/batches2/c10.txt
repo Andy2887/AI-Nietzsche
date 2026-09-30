@@ -1,0 +1,46 @@
+dawn-197-1
+d|Why were the Germans hostile to the Enlightenment?
+m|Did romanticism and the cult of feeling put belief above knowledge?
+dawn-197-2
+d|What was the danger of setting knowledge below feeling?
+m|How did history and romantic sympathy for the past end up serving the Enlightenment?
+dawn-199-1
+d|In what respect do we excel the Greeks in nobility?
+m|How do we judge the Greeks' attitude to insult and disgrace?
+dawn-199-2
+d|What is the ignoble secret of the good Greek aristocrat?
+m|Why was the idea of a just man as rare among the Greeks as a saint among Christians?
+dawn-202-1
+d|How should society treat criminals?
+c|Criminals should be punished, not treated like patients.
+m|Is there any essential difference between a criminal and a madman?
+dawn-202-2
+d|Could we free ourselves from the ideas of sin and punishment?
+m|Would a society without vengeance and punishment be better?
+dawn-202-3
+d|How is the harm done by the criminal like the harm done by the sick?
+m|Why do we treat some burdens on society with vengeance and others with care?
+dawn-202-4
+d|Are the guilty the sick?
+m|What would a healthy society do about parasites?
+dawn-203-1
+d|What is wrong with the meals that the well-off classes eat?
+m|What are banquets and lavish dinners really displaying?
+dawn-206-1
+d|Why is the workman's position an impossible one?
+m|Would higher wages for factory workers remove their real misery?
+dawn-206-2
+d|What should workers do about their condition?
+m|Instead of waiting for socialist promises, what should someone in a dead-end position do?
+dawn-207-1
+d|What is the German's strength and weakness?
+k|Why do Germans obey?
+dawn-207-2
+d|Why is a German frivolous in politics?
+m|Why do people who are serious in their work show caprice in politics?
+dawn-207-3
+d|What are the vices and dangers of the Germans?
+k|Is German enthusiasm barren?
+dawn-207-4
+d|What is the German idea of morality?
+m|Is obedience a German virtue and personal distinction a Greek one?

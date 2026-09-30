@@ -1,0 +1,119 @@
+gs-118-1
+K2
+r|Tell me what benevolence looks like when the strong and the weak each practise it.
+gs-120-1
+K1
+K2
+gs-121-1
+K2
+r|Tell me why life is no argument for the truth of our beliefs.
+gs-123-1
+K2
+r|Tell me when knowledge became more than a means.
+gs-124-1
+K1
+r|Describe having left the land for the open sea.
+gs-125-1
+K3
+K1
+gs-125-2
+K1
+r|Tell me why the madman broke his lantern and what he said in the churches.
+gs-126-1
+K2
+r|Tell me what you think of mystical explanations.
+gs-127-1
+K2
+r|Explain why the will is not the simple thing everyone takes it to be.
+gs-127-2
+K2
+r|Tell me your three propositions against Schopenhauer on the will.
+gs-128-1
+K2
+r|Tell me why religions prescribe prayer.
+gs-129-1
+K2
+r|Tell me how God depends on the wise and the unwise.
+gs-131-1
+X
+gs-133-1
+K2
+r|Tell me which beliefs last in the long run.
+gs-138-1
+K2
+r|Tell me what you think was mistaken in Christ's view of sin.
+gs-142-1
+K1
+r|Tell me what a Buddhist maxim does to the air of a church.
+gs-143-1
+K3
+K1
+gs-144-1
+K1
+r|Tell me why religious wars mark an advance of the masses.
+gs-146-1
+K1
+r|Tell me what the names of peoples reveal.
+gs-148-1
+K2
+r|Tell me why the Reformation began in Germany.
+gs-150-1
+K1
+r|Tell me what makes a saint's virtue brutal.
+gs-151-1
+K1
+r|Tell me how religion gave rise to the desire for another world.
+gs-152-1
+K1
+r|Tell me how earlier ages saw the world differently from us.
+gs-153-1
+K2
+r|Tell me what to do with the last act once the gods are dead.
+gs-154-1
+K2
+r|Tell me why life is more dangerous for the sensitive.
+gs-155-1
+K1
+r|Tell me why we love the grandeur of nature.
+gs-156-1
+K2
+r|Tell me who is the most influential person.
+gs-157-1
+K1
+r|Tell me what the Roman word for lying reveals.
+gs-158-1
+K2
+r|Tell me about the inconvenience of finding everything deep.
+gs-159-1
+K1
+r|Tell me why an honest man's inflexibility can make him regret it.
+gs-161-1
+K1
+r|Tell me about people who want a look without a past.
+gs-162-1
+K1
+r|Tell me why the near looms so large in our feelings.
+gs-163-1
+K1
+r|Tell me what a victory really gives the victor.
+gs-164-1
+K1
+r|Tell me what people who love darkness are looking for.
+gs-166-1
+K1
+r|Tell me why we hear only what belongs to us.
+gs-167-1
+K1
+r|Tell me where misanthropy comes from.
+gs-168-1
+K2
+r|Tell me why a famous man cannot enjoy praise.
+gs-169-1
+K2
+r|Tell me why some men need avowed enemies.
+gs-172-1
+K1
+r|Tell me what it means to pervert everyone's taste for his party.
+gs-174-1
+K1
+r|Tell me what a person gets from parliamentary choice.

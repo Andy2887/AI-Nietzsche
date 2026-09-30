@@ -1,0 +1,84 @@
+gs-351-1
+K2
+r|Explain why philosophers and the people disagree about what wisdom is.
+gs-351-2
+K1
+r|Tell me why the priest is not a sage to philosophers.
+gs-353-1
+K1
+r|Explain what founders of religions really invent.
+gs-354-1
+K2
+r|Tell me what consciousness is for, given that most of life goes on without it.
+gs-354-2
+K2
+r|Explain how consciousness grew out of the need to communicate.
+gs-354-3
+K1
+r|Explain why becoming conscious falsifies and generalises our experience.
+gs-355-1
+K2
+r|Tell me what people mean when they say they "know" something.
+gs-355-2
+K1
+r|Tell me why natural science is surer than psychology.
+gs-356-1
+K3
+K1
+gs-356-2
+K3
+K1
+gs-357-1
+K1
+r|Tell me what German thinkers contributed and whether it reflects a German soul.
+gs-357-2
+K2
+r|Tell me what is peculiarly German in the ideas of Leibniz, Kant and Hegel.
+gs-357-3
+K2
+r|Tell me how truthfulness undid belief in the Christian God.
+gs-357-5
+K1
+r|Tell me whether Schopenhauer's pessimism was a German phenomenon.
+gs-358-1
+K2
+r|Tell me how Luther unwittingly undermined the Church he wanted to restore.
+gs-358-3
+K3
+r|Explain what the Reformation did to the European spirit, for good and ill.
+gs-359-1
+K2
+r|Tell me where the bitterest moralists come from.
+gs-359-2
+K1
+r|Tell me why some philosophers hide behind wisdom.
+gs-361-1
+K2
+r|Tell me what the artist and the actor have in common.
+gs-364-1
+K2
+r|Give me the anchorite's rules for putting up with other people.
+gs-365-1
+K2
+r|Tell me how the recluse gets along among men.
+gs-366-1
+K2
+K3
+gs-367-1
+K2
+r|Tell me the difference between art made alone and art made for an audience.
+gs-368-1
+K2
+K3
+gs-369-1
+K1
+r|Tell me why an artist's taste and his creative power grow apart.
+gs-371-1
+K2
+r|Tell me why the free spirits are misunderstood.
+gs-373-2
+K3
+r|Tell me what is wrong with a purely mechanical interpretation of the world.
+gs-374-1
+K1
+r|Tell me what the world has become for us now that it may hold infinite interpretations.

@@ -1,0 +1,84 @@
+dawn-008-1
+K2
+r|Tell me what Raphael's classification of mankind says about us.
+dawn-009-1
+K1
+s|Everyone says morality is about being good, not about following tradition. Why do you say it is really obedience to custom?
+dawn-009-2
+K1
+r|Explain what makes a person the most moral in a society ruled by custom.
+dawn-010-1
+K2
+r|Explain why more knowledge of cause and effect shrinks the domain of morality.
+dawn-011-1
+K2
+r|Compare popular morals with popular medicine.
+dawn-012-1
+K2
+r|Tell me how older ages confused consequences with divine additions.
+dawn-013-1
+K3
+s|I've always believed bad things happen because we deserve them. Why do you fight this idea of punishment?
+dawn-014-1
+K1
+r|Tell me how madness helped new ideas break the grip of custom.
+dawn-014-2
+K1
+r|Describe how men made themselves mad to escape custom.
+dawn-014-3
+K2
+r|Give voice to the lonely innovators who begged for madness.
+dawn-015-1
+K1
+r|Tell me the two stages by which people have consoled themselves in misfortune.
+dawn-017-1
+K1
+K2
+dawn-018-1
+K2
+r|Explain why cruelty and suffering came to be seen as virtues.
+dawn-018-2
+K1
+r|Tell me what happened to the innovators who broke with custom.
+dawn-018-3
+K3
+K1
+dawn-019-1
+K1
+r|Explain how the feeling of custom keeps us from improving our morals.
+dawn-020-1
+K1
+K2
+dawn-021-1
+K2
+K1
+dawn-022-1
+K3
+s|I've been waiting until I feel confident before I start acting on my ideals. Is that the right order?
+dawn-023-1
+K2
+r|Describe how fear of a world of living things shaped the history of culture.
+dawn-024-1
+K2
+r|Compare testing a recipe with testing a moral rule.
+dawn-026-1
+K1
+r|Explain the resemblance between polite social rules and the camouflage of animals.
+dawn-027-1
+K3
+K1
+dawn-028-1
+K1
+s|I have a good feeling about a big decision. Should I take that feeling as a reason?
+dawn-029-1
+K1
+K3
+dawn-031-1
+K3
+K1
+dawn-032-1
+K1
+r|Explain why moral suffering feels consoling.
+dawn-033-1
+K2
+r|Tell me how fear of demons made us despise real causes.

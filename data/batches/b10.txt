@@ -1,0 +1,43 @@
+bge-244-1
+d|Is German depth really depth?
+m|Why is it so hard to define a national character like the German one?
+k|What is the German soul like?
+bge-245-2
+d|What was Schumann's danger for German music?
+c|Schumann's music was sincere and deeply felt. Why do you look down on it?
+bge-246-1
+d|Why do you say German books are a torture to a good reader?
+m|What does it mean to read a sentence with a "third ear"?
+k|How do you tell a great prose stylist from a clumsy one?
+bge-247-1
+d|Why do the Germans write so badly?
+m|Should good writing be read aloud?
+c|Silent reading is more efficient. Why insist on reading for the ear?
+bge-247-2
+d|Who taught the Germans how to speak and write with weight?
+k|What do you think of Luther's Bible as literature?
+bge-249-1
+d|What does every nation call its own virtue?
+k|Isn't every people a little hypocritical about its virtues?
+bge-253-1
+d|Why do mediocre minds so often discover the truths that shape an age?
+c|Darwin, Mill and Spencer were great thinkers. Why call them mediocre?
+m|Is being a creative genius different from being a good scientist?
+bge-253-2
+d|Where do the so-called modern ideas come from?
+m|Did nationalism and Anglomania make French culture thin?
+bge-254-1
+d|Where is the real France of taste to be found?
+k|Who keeps culture alive when it is in decline?
+bge-254-3
+d|What are the French good at that the Germans are not?
+m|Is a mixture of North and South, cold and warm, an advantage in a culture?
+k|What do you admire about Stendhal and Bizet?
+bge-255-1
+d|What is your objection to German music?
+m|What would a Mediterranean, south-facing music sound like?
+k|Can music ever go beyond good and evil?
+bge-256-1
+d|Does Europe wish to be one?
+m|Is nationalism a symptom of short-sightedness in modern politics?
+c|Shouldn't every nation cherish its own particular character?

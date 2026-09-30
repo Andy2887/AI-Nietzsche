@@ -1,0 +1,89 @@
+gs-034-1
+K2
+r|Tell me how a great man changes what history means.
+gs-035-1
+K3
+K1
+gs-037-1
+K2
+r|Tell me what errors science has grown out of.
+gs-038-1
+K1
+r|Tell me why young men rush into causes.
+gs-039-1
+K2
+r|Tell me what really changes a culture's taste.
+gs-041-1
+K1
+r|Tell me how a thinker should regard his failures.
+gs-044-1
+K2
+r|Tell me why what we believe drives us more than what really does.
+gs-045-1
+K2
+r|Tell me how you see Epicurus.
+gs-046-1
+K2
+r|Tell me why the endurance of scientific results astonishes us.
+gs-047-1
+K1
+r|Tell me what happens to a court that suppresses the language of passion.
+gs-048-1
+K2
+r|Tell me how our experience of distress has changed.
+gs-048-2
+K3
+K2
+gs-049-1
+K1
+r|Tell me what magnanimity really is.
+gs-050-1
+K1
+r|Tell me what we truly fear when we go against our society's morals.
+gs-051-1
+K1
+r|Tell me where your sense for truth stops.
+gs-053-1
+K2
+r|Explain why goodness begins where eyesight for evil fails.
+gs-054-1
+K1
+K2
+gs-055-1
+K2
+r|Tell me what makes a person noble.
+gs-056-1
+K1
+r|Tell me why the young crave distress.
+gs-057-1
+K3
+r|Tell me what is drunk in the sobriety of the realists.
+gs-073-1
+X
+gs-076-1
+K3
+K1
+gs-079-1
+K2
+r|Tell me why an artist's failure to reach his vision can be his greatest charm.
+gs-080-1
+K2
+r|Tell me why we like to hear passion speak well.
+gs-081-1
+K1
+r|Tell me what the Greeks would have said to the geometrician who found nothing proved in Iphigenia.
+gs-082-1
+K2
+r|Compare Greek and French logic.
+gs-083-1
+K1
+r|Tell me how the Romans translated Greek literature.
+gs-084-1
+K3
+K1
+gs-085-1
+K2
+r|Tell me why artists only glorify what has already been valued.
+gs-087-1
+K2
+r|Tell me what artists misunderstand about their best work.

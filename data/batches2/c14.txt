@@ -1,0 +1,137 @@
+dawn-361-1
+d|Why does moderation appear ugly to the immoderate?
+k|Is moderation beautiful?
+dawn-362-1
+d|What are the different ways men hate?
+m|Some people hate only when they're tired; others only when they can take revenge. Which is worse?
+dawn-364-1
+d|How should we choose our environment?
+m|Am I in a place where I only complain?
+dawn-365-1
+d|What is vanity?
+m|Are vain people really lacking originality or pride?
+dawn-366-1
+d|Why does the criminal suffer when caught?
+m|Is remorse in criminals genuine or just embarrassment at being caught?
+dawn-367-1
+d|Why did the Cynics always appear happy?
+m|If I pretend to be happy long enough, will I become so?
+dawn-368-1
+d|What causes much misunderstanding between different moralities?
+m|Why do energetic people misunderstand calm, patient ones and vice versa?
+dawn-370-1
+d|How should a thinker treat his own opposing thoughts?
+m|How do I avoid confirmation bias in my thinking?
+dawn-371-1
+d|What is the evil of strength?
+m|Is anger just an attempt to relieve a physical build-up?
+dawn-374-1
+d|How does the questioning of the state's right to sacrifice individuals affect self-sacrifice?
+k|Why does self-sacrifice rise in value as the state's rights fall?
+dawn-375-1
+d|Why do we articulate our words too distinctly?
+m|When should I simplify my communications?
+dawn-376-1
+d|What is the best remedy for weariness of the self?
+m|I'm sick of myself. What should I do?
+dawn-378-1
+d|Why not paint God or the devil on your walls?
+k|How do you keep the walls clean?
+dawn-380-1
+d|What is the most effective consolation?
+m|What do I say to someone who is inconsolable?
+dawn-381-1
+d|How do strangers see us?
+m|Am I misjudged by first impressions?
+dawn-382-1
+d|Should the thinker be a gardener or the soil?
+m|Do my dark moods produce thoughts I mistake for truth?
+dawn-383-1
+d|Why do we act insincerely when we pity a friend?
+m|How do I talk to a sick friend without lying?
+dawn-384-1
+d|Why do some pusillanimous artists disbelieve in sympathy?
+k|Why do melancholy artists enjoy appearing ridiculous?
+dawn-385-1
+d|Why are vain people like shop-windows?
+m|Do I arrange my qualities to deceive myself?
+dawn-387-1
+d|What is the reflection before marriage?
+k|Should we choose the burden we prefer?
+dawn-389-1
+d|How do awkward, good people respond to politeness?
+k|Why do some people return a courtesy with an enormous favour?
+dawn-390-1
+d|Why do we call someone evil for hiding his intelligence?
+m|Someone pretends to be less smart around me. Why does that feel insulting?
+dawn-392-1
+d|What is the condition of politeness?
+k|Why must one be more or less polite than the other?
+dawn-395-1
+d|Why does the thinker contemplate?
+m|Do thinkers think from fear or from desire?
+dawn-396-1
+d|What are the thinkers hunting for?
+k|Do we love the hunt more than the prize?
+dawn-398-1
+d|How can we recognise the choleric in a struggle?
+k|Does the angrier person always lose?
+dawn-399-1
+d|Why does self-excuse make us disbelieve someone?
+m|The more someone justifies themselves, the guiltier they seem. Why?
+dawn-402-1
+d|What is another form of toleration?
+k|Why do some praise suffering as sweetening?
+dawn-404-1
+d|Why do we so seldom do justice?
+m|Why do people fighting for a good cause commit injustices elsewhere?
+dawn-405-1
+d|What does the love of luxury reveal?
+k|Why does the soul prefer the superfluous?
+dawn-406-1
+d|Why must you consider before killing your opponent?
+k|Can you immortalise your enemy in yourself?
+dawn-407-1
+d|Why do we arouse suspicion when we tell the truth against our character?
+m|Why don't people believe me when I say something out of character?
+dawn-409-1
+d|What are the illnesses that go together?
+k|What links premature old age, ugliness and pessimism?
+dawn-411-1
+d|How should we bid farewell to a passion?
+m|Can hatred of a vice become a vice itself?
+dawn-413-1
+d|What does the accuser reveal?
+m|Why do those who accuse the loudest often turn out worse?
+dawn-414-1
+d|What does extreme devotion to a person or party reveal?
+m|Do we blind ourselves to punish our eyes for seeing too much?
+dawn-417-1
+d|What is the limit of humility?
+k|Can anyone say "I believe because I am absurd"?
+dawn-418-1
+d|Why are some men truthful?
+m|Am I honest because I'm a poor actor?
+dawn-419-1
+d|What do the sheep and the bell-wether think?
+k|Who is following whom, the flock or the leader?
+dawn-420-1
+d|What is the cunning of the victim?
+m|Why do we set up situations where the person we've sacrificed for looks as we want them to?
+dawn-421-1
+d|Why do some want to be seen only through others' eyes?
+k|Is it wise to only be seen through others' eyes?
+dawn-422-1
+d|Why is making others happy so gratifying?
+m|Why does helping others feel better than my own pleasures?
+dawn-423-1
+d|What does the silence of the sea and evening teach?
+m|Why does nature's silence make me want to stop speaking and thinking?
+k|Are the sea and evening bad teachers?
+dawn-424-1
+d|For whom does the truth exist?
+c|If a truth doesn't console or help us, why pursue it?
+m|Does science fail because it's cold and doesn't comfort us?
+dawn-425-1
+d|Why do you call us gods in exile?
+m|Has our morality made us suffering creatures?

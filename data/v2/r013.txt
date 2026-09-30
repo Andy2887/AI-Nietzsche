@@ -1,0 +1,87 @@
+dawn-165-1
+K1
+r|Explain why a people finds tiresome only the virtues it does not need.
+dawn-166-1
+K2
+s|At my company, advancement depends on who you know and on being a useful wheel. Why does that seem shameful to you?
+dawn-167-1
+K1
+r|Tell me how Germany's great men made life hard for their admirers.
+dawn-167-2
+K2
+r|Tell me what can be done about admiring only part of a great man.
+dawn-168-1
+K2
+r|Tell me what you admire in Thucydides and how he differs from Plato.
+dawn-169-1
+K2
+r|Tell me how the Greeks and we differ in what we find sublime.
+dawn-172-1
+K2
+r|Explain why tragedy suited the Athenians of Aeschylus's time and not us.
+dawn-173-1
+K2
+K3
+dawn-174-1
+K3
+K1
+dawn-175-1
+K1
+r|Describe the culture of a society in which commerce is the soul.
+dawn-176-1
+K2
+r|Tell me why each generation likes criticising its ancestors.
+dawn-177-1
+K2
+r|Advise ambitious young people caught up in the daily news.
+dawn-179-1
+K1
+r|Tell me why the state should take as little of our best minds as possible.
+dawn-181-1
+K2
+r|Tell me why people want to govern.
+dawn-182-1
+K1
+r|Tell me why crude consistency is taken for character.
+dawn-183-1
+K1
+r|Compare the old moral obedience to the crown with the new obedience to the party.
+dawn-184-1
+K1
+r|Explain how the state's own discipline breeds those who rebel.
+dawn-186-1
+K1
+s|I'm proud of my business and my family expects to carry it on for generations. Is there a downside?
+dawn-187-1
+K1
+r|Describe a future society in which criminals set their own punishment.
+dawn-188-1
+K2
+r|Tell me why crowds prefer intoxication to food.
+dawn-189-1
+K2
+r|Explain what really drives high politics.
+dawn-190-1
+K2
+r|Tell me what happened to German culture and why it fooled Europe.
+dawn-190-2
+K2
+r|Explain the "starlight halo" around German culture.
+dawn-194-1
+K2
+r|Explain why moral teachers have failed and what might work.
+dawn-195-1
+K1
+r|Describe what you think was wasted in your classical education.
+dawn-197-1
+K2
+r|Tell me what the Germans did to the Enlightenment in the first half of the century.
+dawn-197-2
+K1
+r|Explain how the tools of romanticism turned against it.
+dawn-199-1
+K1
+r|Tell me why the ancient Greeks' idea of honour seems ignoble to us.
+dawn-199-2
+K2
+r|Tell me how the Greek aristocrat differed from a chivalric one.

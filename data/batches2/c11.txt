@@ -1,0 +1,113 @@
+dawn-207-5
+d|How did the ancients differ from the German attitude toward belief and authority?
+m|What happens when a German rises above morality and has to command?
+dawn-208-1
+d|What is the new thing you want?
+k|Why should we stop making causes sinners and effects executioners?
+dawn-209-1
+d|Why are people indulgent to those with strict moral theories?
+m|Why are free-thinking moralists scrutinized more harshly than pious ones?
+dawn-210-1
+d|Is there anything ridiculous or sublime in itself?
+m|Do we lend qualities like beauty and goodness to things?
+dawn-211-1
+d|Should we wish for immortality?
+m|Would you want to live forever?
+dawn-212-1
+d|What do we know of ourselves according to our comparisons with animals?
+k|How do we first learn about ourselves?
+dawn-213-1
+d|Why do some men's lives seem failures?
+m|If my life feels wasted, is society or I to blame?
+dawn-214-1
+d|Why should we not be indulgent towards the unjust sufferer?
+m|When I'm suffering, I lash out. Does that hurt me more than others?
+dawn-215-1
+d|What is the morality of victims?
+c|Isn't self-sacrifice the noblest thing a person can do?
+m|Do people who sacrifice themselves enjoy it because it makes them feel powerful?
+dawn-216-1
+d|Why do evil people love music?
+m|Why does music feel like it speaks for us when we are in love?
+dawn-217-1
+d|What do Germans, Italians and French want from the artist?
+k|How do different nations use art?
+dawn-218-1
+d|How can we deal with our weaknesses like an artist?
+m|Can a flaw make someone's virtues more attractive?
+dawn-219-1
+d|Why is self-humiliation before one we have wronged often deceit?
+m|When I apologise, am I doing it for the other person or for myself?
+dawn-220-1
+d|What is dignity really?
+m|Do pomp and ceremony conceal timidity?
+dawn-221-1
+d|Why is the morality of sacrifice semi-civilised?
+k|What kind of gods want sacrifices?
+dawn-223-1
+d|What do artists dread most?
+m|Do creators secretly fear being seen through by a keen critic?
+dawn-225-1
+d|Why do we quickly despise a man who talks a great deal?
+m|Why do people who speak quickly and constantly lose our respect?
+dawn-226-1
+d|Why avoid a great man?
+k|Why might you shun a celebrity you admire?
+dawn-228-1
+d|Can revenge hide in praise?
+m|I've received praise that felt like a dig. Was it?
+dawn-229-1
+d|What do we know of the exultation of human pride?
+k|What is the pride of the tortured man?
+dawn-230-1
+d|Can utilitarianism be used to both support and refute morality?
+m|How does utility argue for and against morality?
+dawn-231-1
+d|What does the German word for "bad" reveal about German morality?
+k|Why did the Germans equate the simple with the bad?
+dawn-233-1
+d|Who values conscientiousness the most?
+m|Are strict people really trying to hide their petty feelings?
+dawn-234-1
+d|Is there such a thing as fear of fame?
+k|Can someone shun their own renown?
+dawn-235-1
+d|Why is it wrong to refuse thanks?
+m|Why does it hurt when someone coldly dismisses our gratitude?
+dawn-236-1
+d|Does punishment purify the criminal?
+c|Punishment is a form of expiation. Isn't it?
+dawn-237-1
+d|What is the grievance in a political party?
+k|What happens to the faithful when a stronger figure gets the public's ear?
+dawn-238-1
+d|Why do vigorous natures strive for gentleness?
+m|Are harsh critics often weak people compensating?
+dawn-239-1
+d|What discovery have musicians made about ugliness?
+m|Is contrast and ugliness now used as a cheap effect in music?
+dawn-240-1
+d|Is Shakespeare's tragedy a moral warning?
+c|Macbeth shows us the destruction that ambition causes. Isn't that a moral lesson?
+m|Why do we enjoy watching characters destroyed by their passions?
+dawn-240-2
+d|What does the tragic poet say about life?
+k|Why do we need to misunderstand Shakespeare?
+dawn-242-1
+d|What is independence?
+k|What does a tyrant who finds only himself to govern turn into?
+dawn-243-1
+d|What is the general history of knowledge?
+m|Can we ever look at the world without looking at our own mind?
+dawn-244-1
+d|Why do we take delight in reality now?
+k|Is there danger in our love of reality?
+dawn-245-1
+d|What was Napoleon's subtle feeling of power?
+m|Did Napoleon deliberately speak badly?
+dawn-246-1
+d|What did Aristotle say about great men's children?
+k|Should exceptional men marry?
+dawn-247-1
+d|What is the origin of a bad temperament?
+m|Are our tempers inherited from our ancestors' thinking habits?

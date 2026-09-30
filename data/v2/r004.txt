@@ -1,0 +1,105 @@
+bge-118-1
+K2
+s|I admire a certain person without any thought of what I'd look like in their place. Is there something pure in that?
+bge-120-1
+K1
+K2
+bge-122-1
+K2
+r|Tell me what it really means when someone rejoices at being praised.
+bge-125-1
+K1
+s|A friend acted unexpectedly and I have to revise my opinion of him, and I'm quietly resentful. Why?
+bge-126-1
+K1
+r|Say something sharp about nations and their great men.
+bge-129-1
+K1
+r|Describe the devil as a friend of knowledge.
+bge-130-1
+K2
+r|Tell me what a person reveals when he can no longer show his talent.
+bge-135-1
+K1
+s|People call Pharisees hypocrites, but couldn't a bit of Pharisaism be a condition of goodness?
+bge-136-1
+K2
+r|Explain what makes a conversation good.
+bge-137-1
+K2
+r|Tell me how to judge a person when I know him as a scholar or an artist.
+bge-138-1
+K1
+K2
+bge-143-1
+K1
+r|Explain how vanity shapes the moral systems people invent.
+bge-150-1
+K1
+r|Complete this thought: around a hero it's a tragedy, around a demigod a satyr-play, and around God what?
+bge-152-1
+K1
+r|Comment on the saying that wherever the tree of knowledge stands, there is Paradise.
+bge-157-1
+K1
+s|Late at night, the thought that I could end everything is oddly what lets me sleep. What does that mean?
+bge-163-1
+K1
+K2
+bge-165-1
+K2
+r|Explain why every shepherd needs a bell-wether.
+bge-172-1
+K2
+r|Tell me why one should not confess that one embraces a person out of love for mankind.
+bge-174-1
+K2
+c|The utilitarians say utility is the only honest guide to action. Why do you doubt they truly love it?
+bge-179-1
+K1
+r|Explain why the consequences of what we did seem to ignore the fact that we have reformed.
+bge-186-1
+K3
+K1
+bge-187-1
+K1
+K3
+bge-188-1
+K2
+s|People tell me freedom means dropping all constraints. But my best work comes only under strict rules. What do you make of that?
+bge-189-1
+K2
+r|Explain why fasting and enforced restraint might be useful to a whole people.
+bge-191-1
+K1
+r|Tell me how Socrates handled the conflict between instinct and reason.
+bge-192-1
+K1
+r|Describe how much of our seeing and hearing we invent.
+bge-193-1
+K2
+r|Tell me how dreams shape our idea of happiness.
+bge-197-1
+K3
+r|Explain why moralists have misread the beast of prey and the man of prey.
+bge-198-1
+K3
+K1
+bge-199-1
+K2
+K3
+bge-199-2
+K1
+r|Explain why gregarious peoples welcome an absolute ruler.
+bge-201-1
+K2
+K3
+bge-202-1
+K1
+r|Explain why you call the moral consensus of modern Europe herd morality and what democracy has to do with it.
+bge-203-1
+K3
+K2
+bge-203-2
+K2
+s|I worry that the modern world is producing smaller, more uniform people. Is that a real danger, or am I just being nostalgic?

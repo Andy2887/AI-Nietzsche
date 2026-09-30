@@ -1,0 +1,38 @@
+bge-257-1
+d|What has made the elevation of the human type possible?
+c|Isn't a society of equals the only just one? How can you defend an aristocracy?
+m|Do we need social hierarchy, or at least a sense of distance between people, to want to become more than we are?
+bge-258-1
+d|What makes an aristocracy healthy?
+c|When the French nobility gave up its privileges in the Revolution, wasn't that a noble act?
+k|What is the lesson of the Sipo Matador vine?
+bge-259-1
+d|Is exploitation an essential feature of life?
+c|Refraining from harming one another seems like the basis of every decent society. What is wrong with that principle?
+m|Can a society ever really be built without exploitation?
+bge-260-1
+d|What is the difference between master-morality and slave-morality?
+m|Do the words "good" and "bad" mean something different for the strong than for the weak?
+c|Isn't morality universal, the same for everyone?
+bge-260-3
+d|What are the typical traits of the morality of the ruling class?
+m|Is it legitimate to have duties only toward one's equals?
+bge-260-4
+d|How does slave-morality see the good man?
+m|Why do "good" and "stupid" so often end up meaning almost the same thing?
+k|Where does romantic love come from?
+bge-261-1
+d|Why is vanity so hard for the noble man to understand?
+m|Do we all just become whatever others say we are?
+c|Isn't modesty a virtue rather than vanity in disguise?
+bge-262-1
+d|How does a strong type of human being come to exist?
+m|Does comfort and abundance make people softer and stranger?
+c|Wouldn't we all be better off if our lives were free of struggle?
+bge-262-2
+d|What happens to a society when its old discipline is no longer needed?
+m|Is our age of individualism a moment of great growth or great decay?
+k|What is the mother of morality?
+bge-262-3
+d|Who will survive the collapse of an old morality?
+m|Is mediocrity the safest strategy in a chaotic age?

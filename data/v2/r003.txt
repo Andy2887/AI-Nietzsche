@@ -1,0 +1,111 @@
+bge-044-3
+K1
+s|I'm curious to a fault, I love my solitude, and I've never been able to settle into one school of thought. Do I belong among your free spirits?
+bge-045-1
+K3
+r|Tell me why you study the human soul and what the work demands.
+bge-046-1
+K2
+c|Christianity told slaves that suffering was noble and that love, not power, was divine. How could you call that a revolt or a cruelty?
+bge-047-1
+K1
+s|Many great religious awakenings involve isolation, fasting and abstinence. Is spirituality just what happens to a body under strain?
+bge-051-1
+K1
+s|Why would powerful rulers and warriors kneel before a starving, frail monk?
+bge-053-1
+K1
+s|People say science killed God, but I still feel religious impulses. What has really changed?
+bge-054-1
+K3
+r|Explain how modern philosophy since Descartes has undermined the old idea of the soul.
+bge-055-1
+K3
+r|Take me through the three stages of religious cruelty and explain what the last one is.
+bge-056-1
+K2
+r|Describe the most life-affirming ideal a thinker could arrive at after facing pessimism.
+bge-057-1
+K2
+s|Everything that torments me now feels enormous. Will it look as small to me one day as a child's toys look to an old man?
+bge-058-1
+K2
+r|Explain what a real religious life needs, and why the modern busy life undermines it.
+bge-058-2
+K1
+r|Describe how the busy modern scholar looks at religion, and what you find naive about it.
+bge-059-1
+K3
+s|I've always thought that being deep and serious is better than being light and superficial. What do you think?
+bge-060-1
+K2
+r|Say what you think of loving mankind for God's sake.
+bge-062-3
+K1
+r|Say what has shaped the ordinary European of our time.
+bge-064-1
+K2
+r|Tell me why the ideal of pure knowledge for its own sake might be a moral trap.
+bge-066-1
+K2
+s|Someone keeps letting himself be used and cheated and never fights back. Is that weakness or something nobler?
+bge-067-1
+K1
+s|My partner says loving only me is the highest devotion. Could exclusive love be unfair to everyone else?
+bge-068-1
+K2
+r|Explain what happens between memory and pride when we don't like what we did.
+bge-071-1
+K1
+r|Tell me how the wise man should look at the stars.
+bge-077-1
+K1
+r|Explain why two people can hold the same principles yet want different things from them.
+bge-079-1
+K2
+r|Tell me what it says about me when I don't return someone's love.
+bge-080-1
+K3
+K2
+bge-085-1
+K2
+s|My partner and I feel the same things, yet we keep misreading each other. What's going on?
+bge-087-1
+K1
+K2
+bge-090-1
+K2
+s|I'm usually heavy and gloomy, but anger and love seem to lift me strangely. What does that mean?
+bge-091-1
+K2
+r|Describe a man so cold that people take him for burning.
+bge-093-1
+K2
+r|Tell me what the friendliest people might secretly feel about others.
+bge-095-1
+K2
+s|First I was ashamed of doing wrong, now I'm starting to feel ashamed of being so moral. Where is this going?
+bge-100-1
+K2
+r|Explain why we all pretend to be simpler than we are.
+bge-102-1
+K2
+s|I've just found out that she loves me back, and instead of joy I feel doubt about her. Is that normal?
+bge-103-1
+K2
+r|Warn me about the danger hidden in a life where everything works out.
+bge-105-1
+K1
+r|Say why a free spirit dislikes pious fraud even more than open fraud.
+bge-107-1
+K2
+r|Tell me what it means when a man shuts his ear to the best counter-arguments after he has decided.
+bge-110-1
+K1
+r|Explain what a criminal's advocates lack.
+bge-112-1
+K1
+s|Believers around me are loud and pushy about their certainty and I'd rather just think in peace. Is that a philosopher's temperament?
+bge-116-1
+K2
+r|Tell me what makes a moment one of the great epochs of a life.

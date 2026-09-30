@@ -1,0 +1,135 @@
+dawn-306-1
+d|What did the Greeks admire in Ulysses?
+m|Is a person who lies and seems noble when needed a hero or a fraud?
+dawn-307-1
+d|What is history really about?
+m|Is history just opinions about imaginary actions and their motives?
+dawn-308-1
+d|Why is not understanding trade noble?
+m|Is it wrong to charge the highest price for one's talent or wisdom?
+dawn-309-1
+d|Has fear or love done more to further the knowledge of mankind?
+k|Why does love prefer to be deceived?
+dawn-310-1
+d|Where does good nature come from?
+m|Are kind, agreeable people just the descendants of frightened ancestors?
+dawn-311-1
+d|What is the so-called soul?
+m|Do we call people soulless when their inner life seems difficult?
+dawn-312-1
+d|How do passion and dreams reveal humanity's past?
+m|Does forgetting our animal past make civilization possible?
+dawn-314-1
+d|What is it like to live in the society of thinkers?
+k|What is the island of thinkers?
+dawn-315-1
+d|Why does giving up property sometimes give pleasure?
+k|Is generosity a sign of wealth?
+dawn-316-1
+d|Why do weak sects go after intelligent adherents?
+m|Is it dangerous for an intelligent person to join a small group that wants brains?
+dawn-317-1
+d|Why does the evening judgment of life tend to be melancholy?
+m|I feel life was pointless when I'm exhausted. Is that fair?
+dawn-318-1
+d|What is comical about systemisers?
+m|Why do systematic thinkers pretend to be uniformly strong?
+dawn-319-1
+d|What is the purpose of hospitality?
+k|Why did hospitality flourish in ancient times?
+dawn-320-1
+d|How does the weather affect people's suspicion and love of novelty?
+k|Why do despots like countries where the weather is moral?
+dawn-323-1
+d|What is the revenge of the timid?
+m|Do small vengeful people darken our own sky?
+dawn-325-1
+d|How does one become a prophet of one's age?
+m|Do we start believing in ourselves as indispensable by living apart?
+dawn-326-1
+d|Can we know our own power?
+m|Are our capabilities dependent on circumstances?
+dawn-327-1
+d|What is the Don Juan of knowledge?
+k|What does the seeker of knowledge end up longing for?
+dawn-328-1
+d|Where do we find idealistic theories?
+m|Do practical, unscrupulous people adopt idealism for their reputation?
+dawn-329-1
+d|Why do the deeply wounded suspect cheerfulness?
+m|Why do some people distrust joy?
+dawn-331-1
+d|For whom is asceticism the proper mode of thinking?
+k|Is asceticism for everyone?
+dawn-332-1
+d|What is the bombastic style?
+m|Why do artists who want to elevate others become pompous?
+dawn-333-1
+d|Do animals consider us moral?
+k|What would an animal say about humanity?
+dawn-335-1
+d|What does it take to practise the humane dissimulation known as love and kindness?
+m|Is kindness a kind of honest pretense?
+dawn-336-1
+d|What are we capable of?
+m|Could the right circumstances drive anyone to do terrible things?
+dawn-337-1
+d|What is the last praise for an artificial artist?
+k|Is it better for an artist to be natural in his defects?
+dawn-339-1
+d|How do our duties change over time?
+c|Kant demanded that duty always be burdensome. Isn't that the mark of true morality?
+dawn-341-1
+d|What is the advantage of ignorance?
+m|Could I be ignorant of my own temperament, as the man in the story?
+dawn-342-1
+d|Why should we not be deceived by someone who examines everything?
+k|Is a careful critic really an expert or a buyer?
+dawn-343-1
+d|What is a moral pretence?
+m|Is refusing to be dissatisfied with oneself a cowardice?
+dawn-344-1
+d|Why must we allow admirers to find fault?
+m|Why do we resent people who are relentlessly excellent?
+dawn-345-1
+d|Is our happiness an argument for or against wisdom?
+m|Does a philosophy have to make me happy to be valid?
+dawn-347-1
+d|What does silence teach the orator?
+k|Why were the Pythagoreans the best statesmen?
+dawn-348-1
+d|What is the difference between one seeking power and one who possesses it?
+m|Why do the powerful become fastidious?
+dawn-349-1
+d|Is the act of dying less important than we say?
+m|Why do we treat death with such veneration?
+dawn-350-1
+d|What is the best way to promise?
+k|Why should we put a finger to our lips when we make a promise?
+dawn-351-1
+d|Why do people set traps in conversation?
+m|Why do some people prepare a joke for someone else to utter?
+dawn-352-1
+d|Why do we feel we are the centre of the world when disgraced?
+m|When I'm embarrassed, I feel everyone is watching me. Why?
+dawn-353-1
+d|Must the truth be told even if the world shatters?
+c|Fichte said the truth must be told no matter what. Is he right?
+dawn-355-1
+d|What should we make of an admirer who would crucify non-admirers?
+m|Beware the fan who demands everyone else admire too. Why?
+dawn-356-1
+d|What is the effect of happiness?
+m|Why do happy people give gifts, mock, or destroy things?
+dawn-357-1
+d|What are moral mosquitoes?
+m|Why do some moralists enjoy pricking their neighbours?
+dawn-358-1
+d|Why do we give reasons for our dislikes?
+m|I dislike someone and list good reasons. Are they my real reasons?
+dawn-359-1
+d|Why do we approve of marriage?
+c|Doesn't the widespread approval of marriage prove its value?
+dawn-360-1
+d|What was the Greek view of power and utility?
+m|Is power that has suffered better than powerlessness that is treated kindly?

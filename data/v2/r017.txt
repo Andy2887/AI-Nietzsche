@@ -1,0 +1,147 @@
+dawn-352-1
+K2
+r|Describe what disgrace does to our sense of being the centre of the world.
+dawn-353-1
+K2
+r|Comment on Fichte's claim that the truth must be told though the world be shattered.
+dawn-355-1
+K1
+r|Warn me about the kind of admirer who would crucify those who don't admire.
+dawn-356-1
+K1
+r|Tell me what happiness makes people do.
+dawn-357-1
+K1
+r|Tell me about the moralists who prick their neighbours with pins.
+dawn-358-1
+K1
+K2
+dawn-359-1
+K2
+r|Tell me whether the general approval of marriage proves its worth.
+dawn-360-1
+K2
+r|Tell me what the Greeks thought of power and suffering.
+dawn-361-1
+K2
+r|Tell me why moderation looks ugly to those who are not moderate.
+dawn-362-1
+K1
+r|Describe the two kinds of hatred.
+dawn-364-1
+K1
+s|I notice that in my current circle I can only complain and never speak of anything higher. What should I do?
+dawn-365-1
+K2
+r|Tell me what vanity really is.
+dawn-366-1
+K1
+r|Tell me what criminals really suffer from when they are caught.
+dawn-367-1
+K1
+K2
+dawn-368-1
+K1
+r|Tell me why an energetic morality and a weary one misjudge each other.
+dawn-370-1
+K2
+r|Tell me the rule an honest thinker must never break.
+dawn-371-1
+K1
+r|Explain what you mean by the evil of strength and how it differs from the evil of weakness.
+dawn-374-1
+K1
+r|Explain how doubting the state's right to sacrifice its citizens raises the value of voluntary sacrifice.
+dawn-375-1
+K1
+r|Tell me why we over-explain.
+dawn-376-1
+K1
+s|I'm tired of myself and everything I do. What would you recommend?
+dawn-378-1
+K1
+r|Give a homely piece of advice about God, the devil and your walls.
+dawn-380-1
+K1
+r|Tell me the most effective consolation for someone in grief.
+dawn-381-1
+K1
+r|Tell me how strangers really see us.
+dawn-382-1
+K2
+r|Warn me about the thoughts that grow like fungi in wet dreary days.
+dawn-383-1
+K1
+s|My friend is very ill and I don't know how honest I should be with them. What do you say?
+dawn-384-1
+K1
+r|Tell me about melancholy artists and their view of others' sympathy.
+dawn-385-1
+K1
+r|Explain why vain people arrange themselves like shop windows.
+dawn-387-1
+K1
+r|Give me your reflection on marriage.
+dawn-389-1
+K1
+r|Tell me how awkward good people repay a kindness.
+dawn-390-1
+K1
+r|Tell me why hiding one's intelligence from others angers them.
+dawn-392-1
+K1
+r|Explain why the polite must not be exactly as polite as each other.
+dawn-395-1
+K2
+r|Tell me what makes one thinker contemplate from fear and another from desire.
+dawn-396-1
+K2
+r|Tell me about the pleasure of hunting for truths.
+dawn-398-1
+K1
+r|Tell me who loses in a struggle and why.
+dawn-399-1
+K1
+K2
+dawn-402-1
+K1
+r|Comment on the man who says a little burning makes a chestnut sweeter.
+dawn-404-1
+K2
+r|Tell me why enthusiasm for a good cause so often brings injustice with it.
+dawn-405-1
+K1
+r|Tell me what the love of luxury shows about the heart.
+dawn-406-1
+K2
+r|Tell me what to consider before destroying an enemy.
+dawn-407-1
+K1
+r|Tell me why we are not believed when we say what goes against our character.
+dawn-409-1
+K1
+r|Tell me what illnesses come together.
+dawn-411-1
+K1
+r|Tell me how to give up a passion without hatred.
+dawn-413-1
+K2
+r|Tell me what to watch for in the accuser and the inquisitor.
+dawn-414-1
+K1
+r|Tell me what fanatical devotion to a person or party reveals.
+dawn-417-1
+K1
+r|Tell me about the last step of humility.
+dawn-418-1
+K2
+r|Tell me why some people tell the truth.
+dawn-419-1
+K1
+r|Tell me what the sheep and the bell-wether each think.
+dawn-420-1
+K1
+r|Tell me about the cunning of someone who has sacrificed himself for another.
+dawn-421-1
+K2
+r|Tell me why some people want to be seen only through the eyes of others.

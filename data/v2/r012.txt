@@ -1,0 +1,94 @@
+dawn-130-3
+K1
+r|Explain why even our aims and reason are giants that rule us.
+dawn-131-1
+K3
+r|Tell me how the ancients differed from us on living for others.
+dawn-132-1
+K2
+r|Explain why you call the morality of pity the last echo of Christianity.
+dawn-133-1
+K2
+K3
+dawn-133-3
+K1
+r|Tell me what separates the compassionate from those who feel no pity.
+dawn-134-1
+K3
+K2
+dawn-136-1
+K1
+r|Tell me how pity helps those who see life as misery.
+dawn-137-1
+K2
+r|Explain why treating another's suffering as one's own is a double folly.
+dawn-138-1
+K1
+r|Tell me why seeing someone we admire suffer makes us tender.
+dawn-139-1
+K2
+K1
+dawn-140-1
+K2
+r|Explain what really happens when a group looks for someone to blame or praise after a war.
+dawn-141-1
+K1
+r|Tell me why dramatic moral outbursts are only a semi-savage stage of morality.
+dawn-142-3
+K2
+r|Explain how fear taught mankind to understand the feelings of others and of nature.
+dawn-142-4
+K1
+r|Tell me what you make of the mystic theory that pity fuses two persons into one.
+dawn-143-1
+K1
+r|Imagine what life would be like if the impulse to devote ourselves to others were twice as strong.
+dawn-144-1
+K1
+r|Tell me why we should sometimes turn a deaf ear to other people's complaints.
+dawn-146-1
+X
+dawn-146-2
+X
+dawn-147-1
+K1
+r|Explain why people praise love so extravagantly.
+dawn-148-1
+K1
+K2
+dawn-151-1
+K2
+r|Tell me why marriage ought to be a much more serious matter than it is.
+dawn-152-1
+K1
+r|Tell me what a better judicial oath would be.
+dawn-154-1
+K1
+r|Compare how the Greeks and we look for security in thought.
+dawn-155-1
+K1
+r|Explain why daring enterprises have become rarer in modern times.
+dawn-156-1
+K2
+r|Tell me what the Greeks feared about happiness.
+dawn-157-1
+K2
+r|Explain why ancient philosophers despised tears and complaints that our culture honours.
+dawn-158-1
+K2
+r|Tell me where the modern flatterers are found.
+dawn-159-1
+K2
+r|Explain how vanity feeds the fashion for reviving the past.
+dawn-160-1
+K1
+r|Give a prescription for someone whose desires outrun his understanding and whose vanity outruns his desires.
+dawn-161-1
+K1
+r|Tell me how art should portray the beauty of our age.
+dawn-162-1
+K2
+r|Tell me why irony is our habitual response to serious matters.
+dawn-163-1
+K1
+K2

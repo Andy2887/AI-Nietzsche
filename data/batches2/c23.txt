@@ -1,0 +1,43 @@
+gs-092-1
+d|What is the relationship between prose and poetry?
+m|Why do the best prose writers also have a poet in them?
+gs-093-1
+d|Why do you write?
+m|I write to get rid of my thoughts. Is that a good reason?
+gs-094-1
+d|What happened to Fontenelle's paradoxes?
+m|Do amusing ideas become truths with time?
+gs-096-1
+d|What are the two types of orators?
+m|Does emotion help or hurt a speaker's argument?
+gs-097-1
+d|What are the kinds of loquacity among authors?
+k|Why do writers talk too much?
+gs-098-1
+d|What is your best tribute to Shakespeare?
+m|What does Brutus stand for in Shakespeare's tragedy?
+gs-099-1
+d|What do the followers of Schopenhauer take from their master?
+m|Why do lesser thinkers first copy a great thinker's faults?
+gs-100-1
+d|Why is it hard for people to express gratitude to a thinker?
+m|Why do people react badly to a thinker who has changed them?
+gs-101-1
+d|How did the court set the standard of style?
+m|Is technical language a blemish of style?
+gs-103-1
+d|How is German music European music?
+m|Does German music express the crowd rather than the aristocracy?
+gs-105-1
+d|How do Germans behave in passion?
+k|What is the secret longing of German artists?
+gs-106-1
+d|Why does the innovator want a musician?
+m|Why is music so persuasive?
+gs-107-1
+d|What is our ultimate gratitude to art?
+m|Without art, could we bear knowing that everything is untrue?
+c|Isn't art just a way of escaping reality?
+gs-108-1
+d|What are the new struggles after God is dead?
+k|What is the shadow of God?

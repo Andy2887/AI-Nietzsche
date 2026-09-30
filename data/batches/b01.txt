@@ -1,0 +1,136 @@
+# style codes: d=direct m=modern c=challenge k=casual
+bge-000-1
+d|Why have philosophers so often failed to find the truth?
+c|Haven't the great philosophical systems given us solid foundations that still stand?
+m|Is it fair to say that most grand philosophical systems are just old superstitions and grammar tricks in disguise?
+bge-000-2
+d|What has the long struggle against Platonism and Christianity given Europe?
+m|Does the free press, with its endless newspapers and information, relieve the strain on the modern spirit?
+k|What does it mean to be a "good European"?
+bge-001-1
+d|Why should we value the will to truth at all?
+k|Why are we so desperate for the truth? Wouldn't ignorance sometimes serve us better?
+m|I want to know the truth about myself, even if it hurts. But why do I want that?
+bge-002-1
+d|Can something valuable arise out of its opposite, or must every good thing have a pure origin?
+c|Honesty and deceit are opposites. Surely selflessness can't grow out of selfishness?
+m|Could our best qualities be secretly tangled up with our worst impulses?
+bge-003-1
+d|How much of philosophical thinking is really instinct?
+m|Are our supposedly rational beliefs driven by hidden needs of the body?
+c|Logic is logic. How can reasoning possibly be shaped by instinct?
+bge-004-1
+d|Is the falseness of an opinion an objection to it?
+c|Surely it is always better to believe what is true?
+m|Could we need certain illusions in order to live at all?
+bge-007-1
+d|What did Epicurus think of Plato and his followers?
+k|Why are philosophers so spiteful about each other?
+bge-009-1
+d|What is wrong with the Stoic ideal of living according to nature?
+c|Isn't living in harmony with nature the wisest way to live?
+m|Why do philosophies always describe the world as if it agreed with their own values?
+bge-010-1
+d|Why do so many thinkers today deny the reality of the world we see?
+m|Are modern skeptics about reality really seeking truth, or are they escaping something?
+bge-011-2
+d|What is wrong with Kant's question about how synthetic judgments a priori are possible?
+c|Kant answered by pointing to a faculty of the mind. Why isn't that good enough for you?
+k|What was Kant's real mistake?
+bge-012-1
+d|What do you make of the soul? Should science give it up?
+m|Is the idea of one unified, indivisible self outdated?
+c|If the soul is not an indivisible unit, doesn't that simply mean it doesn't exist?
+bge-013-1
+d|Is self-preservation the basic drive of living things?
+m|Do we act mainly to survive, or to express our strength?
+bge-015-1
+d|Are our sense organs the cause of the outer world, or the other way round?
+c|Some idealists say the external world is merely the product of our organs of perception. Is that persuasive?
+bge-016-1
+d|Is "I think" an immediate certainty?
+c|Descartes said "I think, therefore I am" is beyond doubt. Why do you disagree?
+m|When I say "I am thinking," what am I actually assuming?
+bge-017-1
+d|Who does the thinking: "I", or something else?
+m|Thoughts often pop into my head unbidden. Does that mean I am not their author?
+bge-019-2
+d|Why do people believe that the will is free?
+m|Why do I feel so powerful when I decide to do something and then succeed?
+c|What is the harm in believing that willing is enough to cause an action?
+bge-019-3
+d|How would you describe the true nature of willing?
+k|What is morality really about, at bottom?
+bge-021-1
+d|Is "free will" a coherent idea?
+c|If free will is absurd, doesn't that mean we are all just puppets of determinism?
+m|When we blame ourselves or others, are we assuming a kind of freedom that doesn't exist?
+bge-021-2
+d|Why do people argue so fiercely over whether the will is free?
+c|Isn't it compassionate to say that criminals are not responsible for what they've done?
+m|Are people who deny free will just trying to dodge responsibility?
+bge-023-1
+d|What must psychology dare to do that it has not yet done?
+m|Could envy and hatred actually serve life rather than damage it?
+c|Isn't morality the very thing that keeps us from becoming worse people?
+bge-024-1
+d|Why does knowledge depend on ignorance?
+m|Do we live in a simplified, falsified world? How much of what seems clear to me is invented?
+c|Isn't the love of truth the opposite of the love of error?
+bge-025-1
+d|Should a philosopher be willing to suffer for the truth?
+m|Is it wise to publicly fight for what you believe, or is it better to keep quiet?
+k|What is your view of solitude?
+bge-025-2
+d|What does martyrdom do to a philosopher?
+c|Doesn't suffering for the truth prove that a thinker is sincere?
+bge-026-2
+d|Why should a lover of knowledge listen to those who speak crudely of human nature without indignation?
+m|Are cynics more honest than idealists?
+c|Isn't the indignant person morally superior to the cynic?
+bge-028-1
+d|Why is translation from one language to another so difficult?
+k|What's wrong with German prose?
+m|I read philosophy in translation. What am I missing?
+bge-030-1
+d|Why do the deepest insights sound like folly to the uninitiated?
+c|Shouldn't knowledge be available to everyone equally?
+m|Can a book be harmful to one reader and helpful to another?
+bge-031-1
+d|Why is the taste for the unconditional such a bad taste?
+m|In my twenties I was passionately certain about everything; now I cringe. Is that normal?
+k|What does youth get wrong?
+bge-032-1
+d|How did people come to judge actions by their origin rather than their consequences?
+m|Should we judge people by their intentions or by the results of what they do?
+c|Isn't the intention behind an act what makes it moral?
+bge-032-2
+d|Is intention the true measure of an action's value?
+c|If we abandon the morality of intentions, what could possibly replace it?
+m|What would it mean to go "beyond" morality?
+bge-035-1
+d|Should one seek the truth in order to do good?
+k|Is the pursuit of truth compatible with wanting to help humanity?
+bge-036-1
+d|What is the methodological argument for explaining the world through a single kind of causality?
+c|Isn't the will merely a psychological illusion rather than a force in the world?
+bge-036-2
+d|What is the world when seen from within?
+m|Is there one principle underlying all our drives and all living things?
+bge-037-1
+d|If God is disproved, is the devil disproved too?
+k|Do you believe in the devil?
+bge-038-1
+d|How do later ages misunderstand the past?
+m|Do we misinterpret history to make it bearable? The French Revolution, for example?
+bge-039-1
+d|Does it prove a doctrine true that it makes people happy or virtuous?
+c|A truth that makes people miserable and bad can't be worth pursuing, can it?
+m|How much truth can a person actually endure?
+bge-041-1
+d|How does one test one's own independence?
+m|I feel deeply attached to my country, my career and my ideals. Is it wrong to hold on so tightly?
+c|Isn't sympathy for suffering people something we should cling to?
+bge-042-1
+d|What kind of philosophers do you see coming, and what do you call them?
+k|What is a tempter?

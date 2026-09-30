@@ -1,0 +1,67 @@
+dawn-566-1
+d|Why is the thinker's life the cheapest and yet the most expensive?
+m|What do I really need to live well, and what is just expense?
+dawn-567-1
+d|How should the soldiers of knowledge take things?
+k|Why should we take things more cheerfully than they deserve?
+dawn-568-1
+d|What did the Phoenix tell the poet?
+k|Why must the poet's work be burnt?
+dawn-569-1
+d|Do we owe respect to others' honour in our soliloquies?
+k|What makes someone a gentleman when alone?
+dawn-570-1
+d|What can loss do to the soul?
+m|After a great loss, why do we become silent rather than wail?
+dawn-572-1
+d|What do thinkers expect from life?
+m|Why do some people want to rest from life and others from thought?
+dawn-573-1
+d|Why must minds cast their skin like snakes?
+m|Are people who can't change their views still thinking?
+dawn-575-1
+d|What are we aeronauts of the intellect?
+m|What happens when a great thinker reaches the limit of their flight?
+k|Where are we aiming at across the sea?
+gs-001-1
+d|What are the teachers of the object of existence trying to do?
+c|Aren't evil people harmful to the human species?
+m|Are hatred and ambition part of the economy that has kept humanity alive?
+gs-001-2
+d|What is the meaning of the tragedians of morals and religion?
+m|Why do we believe that life has a meaning behind it?
+k|Will laughter ever unite with wisdom?
+gs-001-3
+d|Why does the ethical teacher devise a second existence?
+m|Why do we need teachers who tell us why we exist?
+gs-004-1
+d|Which spirits have advanced mankind the most?
+c|Aren't good, orderly men the true friends of the species?
+m|Is the new always seen as evil and the old as good?
+gs-005-1
+d|Who speaks of unconditional duties?
+m|Why do revolutionaries and preachers insist their duties are absolute?
+c|Isn't a categorical imperative the best foundation for morality?
+gs-006-1
+d|Why has meditation lost its dignity?
+m|We think while hurrying and multitasking. Can we still think seriously?
+gs-007-2
+d|Can science furnish goals for human action?
+m|Can science tell us what to do, or only what not to believe?
+gs-008-1
+d|What are unconscious virtues?
+m|Do we have moral qualities that no one, not even ourselves, can see?
+gs-009-1
+d|What are our eruptions?
+m|Do we carry hidden talents that will only appear in later generations?
+gs-010-1
+d|What is a species of atavism?
+m|Are rare, extraordinary people echoes of past cultures?
+gs-011-1
+d|What is consciousness?
+c|Isn't consciousness the essence of man?
+m|Is consciousness overrated?
+gs-012-1
+d|What is the goal of science?
+c|Shouldn't science aim to reduce human suffering?
+m|Is it possible to have great joy without great pain?

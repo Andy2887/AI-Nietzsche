@@ -1,0 +1,114 @@
+dawn-464-1
+d|What is the donor's modesty?
+m|Is it more generous to give anonymously?
+c|Doesn't the belief in a God who watches over us bring comfort?
+dawn-465-1
+d|What do you feel after examining something to its depths?
+k|Why does examining a thing deeply bring sorrow?
+dawn-466-1
+d|What is the loss in becoming famous?
+m|Does fame cost us half our virtue?
+dawn-467-1
+d|What does it mean to suffer doubly for hurting others?
+m|I know my decision will hurt people and they will resent me. Should I still do it?
+dawn-468-1
+d|Why is the kingdom of beauty greater than that of morality?
+m|Can we find beauty in evil men, as in a savage landscape?
+c|Beauty and goodness go together, don't they?
+dawn-469-1
+d|What is the inhumanity of the sage?
+m|Why does a wise teacher need to show his weaknesses?
+dawn-470-1
+d|Why does one like to be fed by the many without being examined?
+k|Why not carry your name on your beak?
+dawn-471-1
+d|What is another form of love for one's neighbour?
+m|Do people with a quiet, intense passion seem cold?
+dawn-472-1
+d|Why do you refuse to justify yourself?
+m|Should I defend myself when I'm falsely accused?
+dawn-473-1
+d|Where should one build one's house?
+m|Where should I live, in the crowd or in solitude?
+dawn-474-1
+d|Is dialectic the only means of reaching the divine essence?
+c|Plato said dialectic reveals the truth. Isn't he right?
+m|Have all the great passions of mankind been for something non-existent?
+dawn-475-1
+d|Why do we misjudge someone who burdens himself with weights?
+k|Can a person carry heavy things and still fly?
+dawn-476-1
+d|What is the harvest thanksgiving of the intellect?
+m|Is the weight of accumulated experience and knowledge crushing to happiness?
+dawn-477-1
+d|What comes after scepticism?
+m|How can a person get through moral scepticism and become stronger?
+dawn-478-1
+d|Why should we spare the solitary man?
+k|What does the cracked glass symbolise?
+dawn-479-1
+d|How does love make us dishonest about the truth?
+m|Should a thinker keep his distance from those he loves?
+dawn-480-1
+d|What is inevitable when someone dislikes you?
+m|No matter what I do, some people find a reason to criticise me. Why?
+dawn-481-1
+d|What is the difference between Kant and Schopenhauer and the great souls?
+c|Kant and Schopenhauer were great philosophers. Why do you criticise their lack of soul?
+dawn-482-1
+d|What company should we seek?
+k|What is a philosopher's modest name?
+dawn-483-1
+d|Why am I satiated with mankind?
+m|Is it possible to know anything except as a human being?
+dawn-484-1
+d|What happens when we take our own path?
+m|My friends judged me when I decided to change my life. Why?
+dawn-485-1
+d|Why do you love solitude?
+m|Why do I think better of my friends when I'm apart from them?
+dawn-486-1
+d|What is the fate of the man who turns everything to gold?
+k|What does he long for when everything is gold?
+dawn-487-1
+d|What shame does the weary thinker feel?
+k|What is the tired horseman?
+dawn-488-1
+d|Why should we blush at strong affections?
+m|Someone said they love me more than others. Why does that make me uncomfortable?
+dawn-489-1
+d|How should we treat a friend who sympathises with someone else more than with us?
+m|My friend seems closer to someone else. Should I let them go?
+dawn-490-1
+d|Are truths great because we paid for them with our blood?
+c|You don't understand my truths because you haven't suffered for them.
+dawn-491-1
+d|Why do you return to the desert?
+m|I think better when I'm alone. Is that selfish?
+dawn-492-1
+d|What is the south wind illness?
+k|Why do our moods change from ardent to dark?
+dawn-493-1
+d|Should I prefer my own thoughts?
+m|Is it foolish to value only my own ideas?
+dawn-494-1
+d|What is the last argument of the brave man?
+k|Should we risk our lives to kill the snakes?
+dawn-495-1
+d|Why do we choose the wrong teachers in youth?
+m|I picked mentors from my own time and regret it. What should I do?
+dawn-496-1
+d|Why is the philosopher seen as depraved by society?
+m|Would Plato be worshipped now if his political attempts had succeeded?
+dawn-497-1
+d|What is the purifying eye?
+m|What is the difference between genius that rises above the temperament and genius that expresses it?
+dawn-498-1
+d|Why should you never demand submission from a certain man?
+k|Why do demands make some people proud and bashful?
+dawn-499-1
+d|Are only the solitary evil?
+m|Are people more honest and more themselves in solitude?
+dawn-500-1
+d|What happens if a thinker forces himself to think against the grain?
+m|My job forces me to think about things I don't care about. Is that harming me?

@@ -1,0 +1,85 @@
+bge-230-3
+K2
+s|Suppose someone asks why anyone should pursue knowledge at all, given all the pain it brings. How would you answer them?
+bge-231-1
+K2
+r|Tell me about the granite of unteachable conviction that sits at the bottom of every thinker.
+bge-235-1
+K2
+s|A young man asks his mother for advice about how to live. What is the wisest thing she could say?
+bge-240-1
+K2
+K3
+bge-241-2
+K1
+r|Tell me whether a nation is served by a statesman who forces it into great politics and national mediocrity.
+bge-242-2
+K1
+s|We keep making society more democratic and levelled. Could that end up producing tyrants?
+bge-243-1
+K2
+r|Say something hopeful about the direction humanity is moving.
+bge-245-1
+K1
+r|Tell me what Mozart and Beethoven each stand for in the history of European taste.
+bge-246-1
+K1
+K2
+bge-247-1
+K1
+r|Explain why reading aloud mattered to the ancients and what it teaches about writing.
+bge-247-2
+K2
+r|Tell me what Luther's Bible did for German prose.
+bge-249-1
+K1
+r|Comment on what every people calls its virtue.
+bge-253-1
+K3
+r|Explain why mediocre minds are the best discoverers of certain kinds of truth.
+bge-253-2
+K1
+r|Say where the modern ideas of equality and utility really come from.
+bge-254-1
+K1
+r|Tell me where real refinement of culture survives when it seems to be gone.
+bge-254-3
+K1
+r|Compare French and German psychology and tell me what each lacks.
+bge-255-1
+K1
+r|Describe the music you would want, a music of the south.
+bge-256-1
+K1
+s|Politicians insist that each nation must stress its own identity. Do you think Europe really wants to be divided?
+bge-259-1
+X
+bge-260-1
+K1
+s|Are there different kinds of morality for the strong and for the weak, or is right and wrong the same for everyone?
+bge-260-3
+K1
+r|Tell me what makes the morality of the ruling caste so alien to us.
+bge-260-4
+K1
+K3
+bge-261-1
+K3
+r|Explain why a man of noble character finds vanity hard to grasp.
+bge-262-3
+K2
+s|In times of collapse and decay, who is most likely to survive?
+bge-263-1
+K3
+s|Some people have no sense of anything being untouchable; they finger everything. What does that say about them?
+bge-263-2
+K1
+r|Compare the sense of reverence among the newspaper-reading educated classes with that of the common people.
+bge-265-1
+X
+bge-267-1
+K1
+s|My mother told me a proverb: "make your heart small." Do you think that's good advice?
+bge-268-1
+K1
+K2

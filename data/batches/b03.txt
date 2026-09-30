@@ -1,0 +1,56 @@
+bge-050-1
+d|What forms does the passion for God take?
+c|Isn't Protestantism a purer, more sincere form of faith than the Catholic kind?
+bge-059-1
+d|What wisdom lies in the fact that men are superficial?
+m|Is religion a kind of art, a beautiful falsification of life?
+c|Isn't piety just a sincere response to the mystery of existence?
+bge-060-1
+d|What is the noblest sentiment mankind has reached?
+c|Why can't love for mankind stand on its own, without any higher purpose behind it?
+bge-061-1
+d|How does the philosopher use religion?
+m|Can religion serve as a tool of rulers, and of self-discipline for those who rule?
+c|Isn't religion a private matter of faith rather than a tool of education and government?
+bge-061-2
+d|What does religion give to ordinary people?
+m|Is religion an opiate that makes people content with their lot?
+bge-062-1
+d|What are the dangers when religion rules instead of serving as a tool in the philosopher's hands?
+c|Isn't it a virtue that Christianity and Buddhism care for the suffering and the weak?
+m|Does compassion for those who fail keep humanity from improving?
+bge-062-2
+d|What has Christianity done to Europe?
+c|Christianity gave Europe comfort, charity and hospitals. How can you call that a bad thing?
+k|Why do you call Christianity the most portentous of presumptions?
+bge-062-3
+d|How did "equality before God" shape the European of today?
+m|Has modern society produced a comfortable, gregarious, mediocre type of person?
+bge-064-1
+d|Is "knowledge for its own sake" a moral ideal?
+c|Isn't the pursuit of knowledge for its own sake the most innocent thing a person can do?
+bge-066-1
+d|Why does a person allow himself to be exploited and deceived?
+k|Is being a doormat a sign of divinity?
+bge-068-1
+d|What happens when memory and pride disagree?
+m|I remember doing something embarrassing, but I keep insisting to myself it wasn't me. Why do I do that?
+bge-071-1
+d|What must the sage do to see truly as an astronomer?
+k|What do the stars teach us about looking up?
+bge-077-1
+d|What do people want from their principles?
+m|Two people can hold the same beliefs and be completely different. Why?
+bge-079-1
+d|What does a soul reveal when it knows it is loved but does not love in return?
+m|Someone loves me deeply, and I feel nothing but a little annoyance. What does that say about me?
+bge-080-1
+d|Does explaining something make it lose its power over us?
+c|What did "know thyself" really mean?
+k|Was Socrates being ironic?
+bge-085-1
+d|Why do men and women misunderstand each other?
+m|Why do my partner and I keep misunderstanding each other even though we feel the same things?
+bge-087-1
+d|How can a person hold his heart captive and yet keep his spirit free?
+m|I keep my feelings under tight control, and my thinking is freer for it. Is that a good bargain?

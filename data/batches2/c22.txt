@@ -1,0 +1,48 @@
+gs-057-1
+d|What do you say to the realists?
+c|We are realists: we see the world as it is, without passion or fantasy.
+m|Is there a reality we can know apart from our human perspective?
+gs-073-1
+d|What does the saint's cruelty teach?
+m|Is it more cruel to let a suffering being live than to end its life?
+gs-076-1
+d|What is the greatest danger to mankind?
+m|Why do societies need people who think conventionally?
+c|Isn't free thinking the engine of progress?
+gs-079-1
+d|What is the charm of imperfection in an artist?
+m|Why do we love artists whose work doesn't fully express their vision?
+gs-080-1
+d|Why did the Greeks like good talking on the stage?
+m|Why do we accept that people in operas sing their passions?
+gs-081-1
+d|What did a geometrician ask about Iphigenia?
+k|Is anything proved in tragedy?
+gs-082-1
+d|Why is there so little esprit among the Greeks?
+k|Why do the French add a dose of irrationality to logic?
+gs-083-1
+d|How can we measure the historical sense of an age?
+m|Did the Romans translate the Greeks faithfully or make them their own?
+gs-084-1
+d|Where does poetry come from?
+c|Poetry refutes the utilitarians, since it has no useful purpose. Doesn't it?
+m|Did rhythm begin as a superstitious device to influence the gods?
+gs-085-1
+d|What do artists do with glorification?
+m|Do artists create values or just glorify what the rich and leisured already value?
+gs-087-1
+d|What is the conceit of artists?
+m|Do artists misjudge their own best work?
+gs-088-1
+d|What do people mean by earnestness for the truth?
+m|Does my passion for a cause reveal how shallowly I've examined it?
+gs-089-1
+d|What have we lost with the art of the festival?
+m|Has art become a distraction for the tired instead of a celebration?
+gs-090-1
+d|How do books differ between thinkers?
+k|Do some writers give the light and others the shadows?
+gs-091-1
+d|Why should we not trust autobiographies?
+m|Do people who write their own life stories lie to themselves?

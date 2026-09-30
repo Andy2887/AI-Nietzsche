@@ -1,0 +1,8534 @@
+{
+ "dawn-001-1": [
+  {
+   "style": "direct",
+   "q": "Why do old and enduring things seem so reasonable?"
+  },
+  {
+   "style": "modern",
+   "q": "Every institution has a reasoned justification now, but did it begin that way?"
+  }
+ ],
+ "dawn-002-1": [
+  {
+   "style": "direct",
+   "q": "Do we really know good and evil better than earlier ages did?"
+  },
+  {
+   "style": "challenge",
+   "q": "Surely moral progress has made us wiser about right and wrong than our ancestors."
+  }
+ ],
+ "dawn-003-1": [
+  {
+   "style": "direct",
+   "q": "Why did man read moral significance into everything that exists?"
+  },
+  {
+   "style": "modern",
+   "q": "Will our belief in moral order in the world one day look as silly as thinking the sun is male?"
+  }
+ ],
+ "dawn-004-1": [
+  {
+   "style": "direct",
+   "q": "Why should we not wish the world to be more disharmonious than it is?"
+  },
+  {
+   "style": "casual",
+   "q": "What is wrong with false grandeur?"
+  }
+ ],
+ "dawn-005-1": [
+  {
+   "style": "direct",
+   "q": "What is the most important result of humanity's past efforts?"
+  },
+  {
+   "style": "modern",
+   "q": "What are we fortunate to be free of today?"
+  }
+ ],
+ "dawn-007-1": [
+  {
+   "style": "direct",
+   "q": "Did real or imaginary things build most of man's happiness?"
+  },
+  {
+   "style": "modern",
+   "q": "Does science make our sense of space, and of ourselves, smaller?"
+  }
+ ],
+ "dawn-008-1": [
+  {
+   "style": "direct",
+   "q": "What are Raphael's three classes of mankind?"
+  },
+  {
+   "style": "casual",
+   "q": "What would Raphael see today?"
+  }
+ ],
+ "dawn-009-1": [
+  {
+   "style": "direct",
+   "q": "What is the morality of custom?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't morality about doing good, rather than obeying tradition?"
+  },
+  {
+   "style": "modern",
+   "q": "Are people who break with tradition immoral by definition?"
+  }
+ ],
+ "dawn-009-2": [
+  {
+   "style": "direct",
+   "q": "What is tradition, and why do we obey it?"
+  },
+  {
+   "style": "modern",
+   "q": "Is the person who makes the greatest sacrifices to morality the most moral?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't obeying custom in the hardest cases just a virtue of self-control?"
+  }
+ ],
+ "dawn-009-3": [
+  {
+   "style": "direct",
+   "q": "How did Socrates and the Christians differ from the morality of custom?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do original thinkers so often feel guilty about their originality?"
+  }
+ ],
+ "dawn-010-1": [
+  {
+   "style": "direct",
+   "q": "How does the sense of causality relate to morality?"
+  },
+  {
+   "style": "modern",
+   "q": "Does scientific understanding of causes reduce the domain of morality?"
+  }
+ ],
+ "dawn-011-1": [
+  {
+   "style": "direct",
+   "q": "What do popular morals and popular medicine have in common?"
+  },
+  {
+   "style": "modern",
+   "q": "Are everyday moral beliefs as unreliable as folk remedies?"
+  }
+ ],
+ "dawn-012-1": [
+  {
+   "style": "direct",
+   "q": "How were the consequences of an action understood in earlier times?"
+  },
+  {
+   "style": "casual",
+   "q": "What is the confusion in treating consequences as God's addition?"
+  }
+ ],
+ "dawn-013-1": [
+  {
+   "style": "direct",
+   "q": "What is wrong with the conception of punishment?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do people treat misfortune as if it must be a punishment?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't punishment necessary for a just society?"
+  }
+ ],
+ "dawn-014-1": [
+  {
+   "style": "direct",
+   "q": "What role did madness play in the history of morality?"
+  },
+  {
+   "style": "modern",
+   "q": "Is it true that genius is tinged with madness?"
+  },
+  {
+   "style": "challenge",
+   "q": "Were great innovators just unstable people who got lucky?"
+  }
+ ],
+ "dawn-014-2": [
+  {
+   "style": "direct",
+   "q": "How did ancient men make themselves mad in order to escape custom?"
+  },
+  {
+   "style": "casual",
+   "q": "What do medicine-men and Christian saints have in common?"
+  }
+ ],
+ "dawn-014-3": [
+  {
+   "style": "direct",
+   "q": "What did the lonely innovators pray for?"
+  },
+  {
+   "style": "modern",
+   "q": "What does it feel like to break a law you believe in?"
+  }
+ ],
+ "dawn-015-1": [
+  {
+   "style": "direct",
+   "q": "What are the oldest means of solace?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do we look for someone to blame when things go wrong?"
+  }
+ ],
+ "dawn-016-1": [
+  {
+   "style": "direct",
+   "q": "What is the first principle of civilisation?"
+  },
+  {
+   "style": "casual",
+   "q": "Why do savage tribes have such odd, pointless rules?"
+  }
+ ],
+ "dawn-017-1": [
+  {
+   "style": "direct",
+   "q": "Why did humans first call nature evil, then good?"
+  },
+  {
+   "style": "modern",
+   "q": "Is \"nature is good\" just a modern human need?"
+  }
+ ],
+ "dawn-018-1": [
+  {
+   "style": "direct",
+   "q": "Why did suffering come to be considered virtuous?"
+  },
+  {
+   "style": "modern",
+   "q": "Is the enjoyment of cruelty at the heart of old religions?"
+  }
+ ],
+ "dawn-018-2": [
+  {
+   "style": "direct",
+   "q": "How did the tormented innovators treat their own bodies?"
+  },
+  {
+   "style": "casual",
+   "q": "Why did the pioneers of free thought torture themselves?"
+  }
+ ],
+ "dawn-018-3": [
+  {
+   "style": "direct",
+   "q": "What was the true epoch that established the character of mankind?"
+  },
+  {
+   "style": "modern",
+   "q": "Have we really changed from the age when suffering, cruelty, and hypocrisy were virtues?"
+  },
+  {
+   "style": "challenge",
+   "q": "We are surely more humane now. Haven't we moved beyond all that?"
+  }
+ ],
+ "dawn-019-1": [
+  {
+   "style": "direct",
+   "q": "Why does morality stupefy?"
+  },
+  {
+   "style": "modern",
+   "q": "Does the reverence for tradition make it harder to improve our morals?"
+  }
+ ],
+ "dawn-020-1": [
+  {
+   "style": "direct",
+   "q": "Who suffers more, the free-doer or the free-thinker?"
+  },
+  {
+   "style": "challenge",
+   "q": "Aren't criminals simply wicked men?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do people who break the law often come to be admired later?"
+  }
+ ],
+ "dawn-021-1": [
+  {
+   "style": "direct",
+   "q": "What do conscientious people say when following a moral rule leads to misfortune?"
+  },
+  {
+   "style": "modern",
+   "q": "I did everything right and it still turned out badly. Was I wrong to follow the rules?"
+  }
+ ],
+ "dawn-022-1": [
+  {
+   "style": "direct",
+   "q": "Does faith come before works, or works before faith?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't faith the essential thing, with good actions following naturally from it?"
+  },
+  {
+   "style": "modern",
+   "q": "Should I wait to feel motivated before I act, or act and let the motivation follow?"
+  }
+ ],
+ "dawn-023-1": [
+  {
+   "style": "direct",
+   "q": "How did superstition make man feel more powerless than necessary?"
+  },
+  {
+   "style": "modern",
+   "q": "How did fear and helplessness make us so sensitive to our own power?"
+  }
+ ],
+ "dawn-024-1": [
+  {
+   "style": "direct",
+   "q": "Why is it so hard to test a moral precept the way we test a recipe?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do superstitious rules survive even when they clearly don't work?"
+  }
+ ],
+ "dawn-026-1": [
+  {
+   "style": "direct",
+   "q": "What do the rules of polite society share with the animal kingdom?"
+  },
+  {
+   "style": "casual",
+   "q": "Is politeness just camouflage?"
+  }
+ ],
+ "dawn-027-1": [
+  {
+   "style": "direct",
+   "q": "How has marriage elevated love?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't it dishonest to promise a passion will last forever?"
+  },
+  {
+   "style": "modern",
+   "q": "Do vows and institutions make our feelings deeper, or just more hypocritical?"
+  }
+ ],
+ "dawn-028-1": [
+  {
+   "style": "direct",
+   "q": "Why did people take a cheerful state of mind as an argument?"
+  },
+  {
+   "style": "modern",
+   "q": "Can we trust a good feeling about a decision as a sign that it's right?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't confidence and a hopeful outlook a good reason to go ahead with something?"
+  }
+ ],
+ "dawn-029-1": [
+  {
+   "style": "direct",
+   "q": "How did the Greeks act out their virtues?"
+  },
+  {
+   "style": "modern",
+   "q": "Is it wrong to perform a virtue you don't fully feel?"
+  },
+  {
+   "style": "casual",
+   "q": "How did Christianity change the show of virtue into a show of sin?"
+  }
+ ],
+ "dawn-031-1": [
+  {
+   "style": "direct",
+   "q": "Where does man's pride in spirit come from?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't the human mind what separates us from animals?"
+  },
+  {
+   "style": "modern",
+   "q": "Why are people so touchy about being descended from animals?"
+  }
+ ],
+ "dawn-032-1": [
+  {
+   "style": "direct",
+   "q": "Why do we resist the discovery that our moral suffering rests on an error?"
+  },
+  {
+   "style": "modern",
+   "q": "Do we find a strange comfort in our own suffering?"
+  }
+ ],
+ "dawn-033-1": [
+  {
+   "style": "direct",
+   "q": "How did people come to despise real causes and consequences?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do so many of our higher feelings depend on an imaginary world?"
+  },
+  {
+   "style": "challenge",
+   "q": "Aren't our highest feelings of love and reverence the most real thing we have?"
+  }
+ ],
+ "dawn-035-1": [
+  {
+   "style": "direct",
+   "q": "Should we trust our feelings?"
+  },
+  {
+   "style": "modern",
+   "q": "\"Follow your heart\" is popular advice. What is wrong with it?"
+  }
+ ],
+ "dawn-036-1": [
+  {
+   "style": "direct",
+   "q": "Were the first inventors greater than the inventors of today?"
+  },
+  {
+   "style": "modern",
+   "q": "Is the modern mind superior to the ancients in some ways?"
+  }
+ ],
+ "dawn-037-1": [
+  {
+   "style": "direct",
+   "q": "Does showing that something is useful explain why it exists?"
+  },
+  {
+   "style": "modern",
+   "q": "Is it a mistake to explain things by their purpose?"
+  }
+ ],
+ "dawn-038-1": [
+  {
+   "style": "direct",
+   "q": "How do moral judgments change our impulses?"
+  },
+  {
+   "style": "modern",
+   "q": "Why did the Greeks think of hope and envy so differently from us?"
+  },
+  {
+   "style": "casual",
+   "q": "Is hope really a virtue?"
+  }
+ ],
+ "dawn-039-1": [
+  {
+   "style": "direct",
+   "q": "What are the consequences of the doctrine of pure spirit?"
+  },
+  {
+   "style": "modern",
+   "q": "Does despising the body harm mental health?"
+  }
+ ],
+ "dawn-040-1": [
+  {
+   "style": "direct",
+   "q": "How do meaningless rituals become sacred, and what good comes of them?"
+  },
+  {
+   "style": "modern",
+   "q": "Do we sometimes invent meaning where we can't find it?"
+  }
+ ],
+ "dawn-041-1": [
+  {
+   "style": "direct",
+   "q": "What has the contemplative life cost the active life?"
+  },
+  {
+   "style": "challenge",
+   "q": "Aren't religious and artistic people a blessing to the practical world?"
+  },
+  {
+   "style": "modern",
+   "q": "Do dreamers and idealists make life harder for those who actually do things?"
+  }
+ ],
+ "dawn-043-1": [
+  {
+   "style": "direct",
+   "q": "What must a thinker have to think well?"
+  },
+  {
+   "style": "modern",
+   "q": "What are the different faculties of a good thinker?"
+  },
+  {
+   "style": "casual",
+   "q": "Why did the ancients think abstract thought was elevated?"
+  }
+ ],
+ "dawn-044-1": [
+  {
+   "style": "direct",
+   "q": "Why does knowing the origin of things matter less the more we understand it?"
+  },
+  {
+   "style": "modern",
+   "q": "Does discovering where an idea or a value came from make it less important?"
+  }
+ ],
+ "dawn-045-1": [
+  {
+   "style": "direct",
+   "q": "What would a self-sacrificing humanity sacrifice itself for?"
+  },
+  {
+   "style": "modern",
+   "q": "Would humanity ever sacrifice itself for knowledge?"
+  }
+ ],
+ "dawn-046-1": [
+  {
+   "style": "direct",
+   "q": "Is doubt a good pillow?"
+  },
+  {
+   "style": "casual",
+   "q": "Why did Montaigne's saying make Pascal angry?"
+  }
+ ],
+ "dawn-047-1": [
+  {
+   "style": "direct",
+   "q": "How do words block our path to knowledge?"
+  },
+  {
+   "style": "modern",
+   "q": "Do the names we give things stop us from understanding them?"
+  }
+ ],
+ "dawn-048-1": [
+  {
+   "style": "direct",
+   "q": "Is \"know thyself\" the whole of science?"
+  },
+  {
+   "style": "modern",
+   "q": "Can we understand ourselves without understanding the world around us?"
+  }
+ ],
+ "dawn-049-1": [
+  {
+   "style": "direct",
+   "q": "What is the new fundamental feeling about man's corruptibility?"
+  },
+  {
+   "style": "challenge",
+   "q": "Doesn't the progress of humanity show human greatness?"
+  },
+  {
+   "style": "modern",
+   "q": "Does knowing we come from animals make us smaller or more honest?"
+  }
+ ],
+ "dawn-050-1": [
+  {
+   "style": "direct",
+   "q": "What harm have the fantastic enthusiasts done to humanity?"
+  },
+  {
+   "style": "modern",
+   "q": "Are moments of ecstasy and intoxication the true self, or just a contrast to our misery?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't the ecstasy of the artist or mystic a peak of human experience?"
+  }
+ ],
+ "dawn-051-1": [
+  {
+   "style": "direct",
+   "q": "Should we be indulgent towards the great, or towards everyone?"
+  },
+  {
+   "style": "casual",
+   "q": "Can we rise beyond indulgence?"
+  }
+ ],
+ "dawn-054-1": [
+  {
+   "style": "direct",
+   "q": "What is the value of soothing a patient's imagination?"
+  },
+  {
+   "style": "modern",
+   "q": "Does worrying about an illness make it worse?"
+  }
+ ],
+ "dawn-055-1": [
+  {
+   "style": "direct",
+   "q": "Why do short cuts lead humanity astray?"
+  },
+  {
+   "style": "modern",
+   "q": "Should I distrust any quick fix or easy path to success?"
+  }
+ ],
+ "dawn-056-1": [
+  {
+   "style": "direct",
+   "q": "Why do we feel disgust for a free spirit who becomes a believer?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do I feel repelled by someone who abandons their once-free convictions?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't loyalty to your own convictions a virtue?"
+  }
+ ],
+ "dawn-056-2": [
+  {
+   "style": "direct",
+   "q": "How does the free spirit regard the change of an opinion?"
+  },
+  {
+   "style": "modern",
+   "q": "Is changing your mind a mark of weakness or strength?"
+  }
+ ],
+ "dawn-057-1": [
+  {
+   "style": "direct",
+   "q": "What did Christianity add to life?"
+  },
+  {
+   "style": "modern",
+   "q": "Does our age keep the certainties of Christianity while denying the fear behind them?"
+  }
+ ],
+ "dawn-058-1": [
+  {
+   "style": "direct",
+   "q": "What was Christianity's protest against philosophy?"
+  },
+  {
+   "style": "challenge",
+   "q": "Wasn't philosophy's control of the passions a good thing?"
+  }
+ ],
+ "dawn-059-1": [
+  {
+   "style": "direct",
+   "q": "What was the aim of Christianity concerning moral engagements?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do people fall for promises of the shortest way to perfection?"
+  }
+ ],
+ "dawn-060-1": [
+  {
+   "style": "direct",
+   "q": "What has Christianity done for the European spirit?"
+  },
+  {
+   "style": "challenge",
+   "q": "How can you praise the Church when you attack its morality?"
+  },
+  {
+   "style": "casual",
+   "q": "Was the Catholic priest a work of art?"
+  }
+ ],
+ "dawn-061-1": [
+  {
+   "style": "direct",
+   "q": "Should a Christian try to live without Christianity for a while?"
+  },
+  {
+   "style": "modern",
+   "q": "If I've never lived without my beliefs, how can I judge them?"
+  }
+ ],
+ "dawn-062-1": [
+  {
+   "style": "direct",
+   "q": "How do religions originate?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do people credit a great new idea to a higher power?"
+  }
+ ],
+ "dawn-063-1": [
+  {
+   "style": "direct",
+   "q": "Why would feeling toward our neighbour as he does himself lead to hatred?"
+  },
+  {
+   "style": "casual",
+   "q": "What did Pascal think of himself and of mankind?"
+  }
+ ],
+ "dawn-064-1": [
+  {
+   "style": "direct",
+   "q": "What does Christianity look for in people?"
+  },
+  {
+   "style": "modern",
+   "q": "Does religion hunt for people at their weakest?"
+  }
+ ],
+ "dawn-065-1": [
+  {
+   "style": "direct",
+   "q": "What is the difference between Brahminism and Christianity?"
+  },
+  {
+   "style": "casual",
+   "q": "Whom does Christianity care for?"
+  }
+ ],
+ "dawn-066-1": [
+  {
+   "style": "direct",
+   "q": "Why were visions once the sign of a higher man?"
+  },
+  {
+   "style": "modern",
+   "q": "Should we trust people who claim to have seen what others cannot?"
+  }
+ ],
+ "dawn-069-1": [
+  {
+   "style": "direct",
+   "q": "What is the difference between the Greek and the Christian?"
+  },
+  {
+   "style": "casual",
+   "q": "Are envy and friendship far apart?"
+  }
+ ],
+ "dawn-070-1": [
+  {
+   "style": "direct",
+   "q": "Why was the Church so successful as a missionary?"
+  },
+  {
+   "style": "modern",
+   "q": "Was the Church's power in absorbing every culture a sign of strength or coarseness?"
+  }
+ ],
+ "dawn-073-1": [
+  {
+   "style": "direct",
+   "q": "Does the virtue of Christians prove the truth of Christianity?"
+  },
+  {
+   "style": "challenge",
+   "q": "The early Christians endured suffering with unshakable belief. Doesn't that prove their faith was true?"
+  },
+  {
+   "style": "modern",
+   "q": "Does a person's sincerity or sacrifice make their belief true?"
+  }
+ ],
+ "dawn-074-1": [
+  {
+   "style": "direct",
+   "q": "What might an early Christian have thought about guilt and innocence?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do people sometimes believe it's safer to plead guilty than to insist on innocence?"
+  }
+ ],
+ "dawn-076-1": [
+  {
+   "style": "direct",
+   "q": "What did Christianity do to the passions, and to Eros in particular?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't it reasonable to restrain sexual desire for the sake of morality?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do we make love stories the central interest of our lives?"
+  }
+ ],
+ "dawn-077-1": [
+  {
+   "style": "direct",
+   "q": "How does Christianity torture the soul?"
+  },
+  {
+   "style": "modern",
+   "q": "We recoil from physical cruelty but hardly notice psychological cruelty. Why?"
+  }
+ ],
+ "dawn-077-2": [
+  {
+   "style": "direct",
+   "q": "What did the Christian of the Middle Ages fear?"
+  },
+  {
+   "style": "casual",
+   "q": "What did Whitefield's preaching do to the crowds?"
+  }
+ ],
+ "dawn-077-3": [
+  {
+   "style": "direct",
+   "q": "How did Christianity change the death-bed?"
+  },
+  {
+   "style": "modern",
+   "q": "How much did fear of hell poison ordinary people's emotions?"
+  }
+ ],
+ "dawn-078-1": [
+  {
+   "style": "direct",
+   "q": "How did Christianity link misfortune to guilt?"
+  },
+  {
+   "style": "challenge",
+   "q": "Doesn't great suffering usually follow great wrongdoing?"
+  },
+  {
+   "style": "modern",
+   "q": "When something terrible happens to someone, why do we assume they must have done something to deserve it?"
+  }
+ ],
+ "dawn-079-1": [
+  {
+   "style": "direct",
+   "q": "If the self is hateful, as Pascal says, how can anyone love it?"
+  },
+  {
+   "style": "modern",
+   "q": "Why is it so hard to accept that we are worthy of love?"
+  }
+ ],
+ "dawn-080-1": [
+  {
+   "style": "direct",
+   "q": "What is the other side of Christian compassion?"
+  },
+  {
+   "style": "modern",
+   "q": "Are those who pity you also suspicious of your happiness?"
+  }
+ ],
+ "dawn-081-1": [
+  {
+   "style": "direct",
+   "q": "What did the saint say about sin?"
+  },
+  {
+   "style": "casual",
+   "q": "Is sin man's only child?"
+  }
+ ],
+ "dawn-082-1": [
+  {
+   "style": "direct",
+   "q": "What does Luther mean by \"your life is at stake\"?"
+  },
+  {
+   "style": "modern",
+   "q": "Do we have to form an opinion on everything?"
+  }
+ ],
+ "dawn-083-1": [
+  {
+   "style": "direct",
+   "q": "Why do we mistake physical causes of misery for spiritual ones?"
+  },
+  {
+   "style": "modern",
+   "q": "If a chemical imbalance can make us miserable, why do we blame ourselves or the devil?"
+  }
+ ],
+ "dawn-084-1": [
+  {
+   "style": "direct",
+   "q": "Why does Christianity fail to cultivate honesty?"
+  },
+  {
+   "style": "challenge",
+   "q": "Theologians interpret scripture with great scholarship. Where is the dishonesty?"
+  }
+ ],
+ "dawn-085-1": [
+  {
+   "style": "direct",
+   "q": "Why should we not laugh at Greek mythology?"
+  },
+  {
+   "style": "modern",
+   "q": "Is simple mythology better than complicated metaphysics?"
+  }
+ ],
+ "dawn-086-1": [
+  {
+   "style": "direct",
+   "q": "How does the Christian interpret the body?"
+  },
+  {
+   "style": "modern",
+   "q": "Do we interpret bodily discomfort in moral terms?"
+  }
+ ],
+ "dawn-087-1": [
+  {
+   "style": "direct",
+   "q": "What is the \"moral miracle\" in Christianity?"
+  },
+  {
+   "style": "modern",
+   "q": "Is sudden conversion a genuine transformation or a psychological episode?"
+  },
+  {
+   "style": "challenge",
+   "q": "Doesn't the Christian's struggle against sin ennoble him?"
+  }
+ ],
+ "dawn-088-1": [
+  {
+   "style": "direct",
+   "q": "Why do you call Luther a great benefactor?"
+  },
+  {
+   "style": "modern",
+   "q": "How did Luther put an end to the saintly life of contemplation?"
+  }
+ ],
+ "dawn-089-1": [
+  {
+   "style": "direct",
+   "q": "Why does Christianity call doubt a sin?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do some belief systems forbid asking questions?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't faith stronger than reason?"
+  }
+ ],
+ "dawn-090-1": [
+  {
+   "style": "direct",
+   "q": "Does life become intolerable without God or an ethical meaning?"
+  },
+  {
+   "style": "modern",
+   "q": "I can't imagine life without meaning. Does that prove that meaning exists?"
+  }
+ ],
+ "dawn-091-1": [
+  {
+   "style": "direct",
+   "q": "Could an omniscient God be good if his intentions are so unclear?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't God's silence a test of faith?"
+  }
+ ],
+ "dawn-091-2": [
+  {
+   "style": "direct",
+   "q": "What is the \"duty of God\"?"
+  },
+  {
+   "style": "casual",
+   "q": "Why does Pascal speak so loudly about the hidden God?"
+  }
+ ],
+ "dawn-092-1": [
+  {
+   "style": "direct",
+   "q": "What is left of Christianity for the modern middle class?"
+  },
+  {
+   "style": "modern",
+   "q": "Has religion become a soft, benevolent moralism today?"
+  }
+ ],
+ "dawn-093-1": [
+  {
+   "style": "direct",
+   "q": "What if God were not truth?"
+  },
+  {
+   "style": "challenge",
+   "q": "Science denies God, so science cannot be true. What's wrong with that?"
+  }
+ ],
+ "dawn-094-1": [
+  {
+   "style": "direct",
+   "q": "What did Christians sacrifice for their sins?"
+  },
+  {
+   "style": "modern",
+   "q": "Do people who feel guilty always look for a scapegoat?"
+  }
+ ],
+ "dawn-095-1": [
+  {
+   "style": "direct",
+   "q": "Why is the historical refutation of God decisive?"
+  },
+  {
+   "style": "modern",
+   "q": "Is it enough to show how belief in God originated to undermine it?"
+  }
+ ],
+ "dawn-096-1": [
+  {
+   "style": "direct",
+   "q": "What can Europe learn from the ancient Brahmins?"
+  },
+  {
+   "style": "modern",
+   "q": "What would happen if the millions of non-believers in Europe recognized each other?"
+  }
+ ],
+ "dawn-098-1": [
+  {
+   "style": "direct",
+   "q": "How do morals change?"
+  },
+  {
+   "style": "modern",
+   "q": "Are all moral innovations first seen as crimes?"
+  }
+ ],
+ "dawn-099-1": [
+  {
+   "style": "direct",
+   "q": "In what way are we all irrational?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do I keep feeling guilty about things I no longer believe are wrong?"
+  }
+ ],
+ "dawn-100-1": [
+  {
+   "style": "direct",
+   "q": "What will happen when the wise stop hearing the music of the spheres?"
+  },
+  {
+   "style": "modern",
+   "q": "Will the belief in the moral meaning of existence fade the way the music of the spheres did?"
+  }
+ ],
+ "dawn-101-1": [
+  {
+   "style": "direct",
+   "q": "Is accepting a belief simply because it is customary a moral failing?"
+  },
+  {
+   "style": "casual",
+   "q": "Are dishonesty, cowardice and laziness the primary conditions of morality?"
+  }
+ ],
+ "dawn-102-1": [
+  {
+   "style": "direct",
+   "q": "Where do our oldest moral judgments come from?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do we judge people by how they affect us?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't it natural to call harmful people evil and helpful people good?"
+  }
+ ],
+ "dawn-103-1": [
+  {
+   "style": "direct",
+   "q": "What are the two ways of denying morality?"
+  },
+  {
+   "style": "modern",
+   "q": "Can we reject the foundations of morality and still act well?"
+  },
+  {
+   "style": "challenge",
+   "q": "If you deny morality, what stops people from doing whatever they like?"
+  }
+ ],
+ "dawn-104-1": [
+  {
+   "style": "direct",
+   "q": "Why do we adopt other people's valuations as our own?"
+  },
+  {
+   "style": "modern",
+   "q": "How many of my opinions are really mine?"
+  }
+ ],
+ "dawn-105-1": [
+  {
+   "style": "direct",
+   "q": "What is pseudo-egoism?"
+  },
+  {
+   "style": "modern",
+   "q": "Do we really live for ourselves, or for an image others have of us?"
+  }
+ ],
+ "dawn-106-1": [
+  {
+   "style": "direct",
+   "q": "What is wrong with defining morality as the preservation and advancement of humanity?"
+  },
+  {
+   "style": "challenge",
+   "q": "Surely the aim of morality is human happiness. What could be objected to that?"
+  },
+  {
+   "style": "modern",
+   "q": "Has moral progress made us happier or more discontented?"
+  }
+ ],
+ "dawn-107-1": [
+  {
+   "style": "direct",
+   "q": "Why does morality forbid us to ask \"how\" and \"why\"?"
+  },
+  {
+   "style": "modern",
+   "q": "Who benefits when moral authority forbids questioning?"
+  }
+ ],
+ "dawn-108-1": [
+  {
+   "style": "direct",
+   "q": "Should anyone give advice on how to be happy?"
+  },
+  {
+   "style": "modern",
+   "q": "Is there a universal goal of humanity that could ground moral law?"
+  },
+  {
+   "style": "challenge",
+   "q": "Doesn't evolution aim at happiness?"
+  }
+ ],
+ "dawn-109-1": [
+  {
+   "style": "direct",
+   "q": "What are the ways of fighting the vehemence of an impulse?"
+  },
+  {
+   "style": "modern",
+   "q": "How can I gain control over a craving?"
+  }
+ ],
+ "dawn-109-2": [
+  {
+   "style": "direct",
+   "q": "How can an intellectual trick help us restrain a passion?"
+  },
+  {
+   "style": "modern",
+   "q": "Can I control a desire by linking it with a painful thought?"
+  },
+  {
+   "style": "casual",
+   "q": "What did Byron mean by \"I will not be a slave of any appetite\"?"
+  }
+ ],
+ "dawn-109-3": [
+  {
+   "style": "direct",
+   "q": "Is the will to combat a craving really ours?"
+  },
+  {
+   "style": "modern",
+   "q": "When I fight an impulse, is it really me against a craving or one craving against another?"
+  }
+ ],
+ "dawn-110-1": [
+  {
+   "style": "direct",
+   "q": "How does a new craving come to look like a moral aim?"
+  },
+  {
+   "style": "modern",
+   "q": "How do we convince ourselves that a desire is noble?"
+  }
+ ],
+ "dawn-112-1": [
+  {
+   "style": "direct",
+   "q": "What is the natural history of duty?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do we feel we must repay what others have done for us?"
+  }
+ ],
+ "dawn-112-2": [
+  {
+   "style": "direct",
+   "q": "Where do rights come from?"
+  },
+  {
+   "style": "modern",
+   "q": "Are rights just the degree of power others are willing to guarantee?"
+  },
+  {
+   "style": "challenge",
+   "q": "Aren't human rights universal, independent of power?"
+  }
+ ],
+ "dawn-112-3": [
+  {
+   "style": "direct",
+   "q": "Why is it so difficult to be just?"
+  },
+  {
+   "style": "casual",
+   "q": "What does it take to be just when power keeps shifting?"
+  }
+ ],
+ "dawn-113-1": [
+  {
+   "style": "direct",
+   "q": "What lies behind the striving for distinction?"
+  },
+  {
+   "style": "modern",
+   "q": "When I want to impress someone, am I really trying to dominate them?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't the desire to be admired harmless?"
+  }
+ ],
+ "dawn-114-1": [
+  {
+   "style": "direct",
+   "q": "What can the suffering man teach us about knowledge?"
+  },
+  {
+   "style": "modern",
+   "q": "Does severe pain strip away our illusions?"
+  }
+ ],
+ "dawn-114-2": [
+  {
+   "style": "direct",
+   "q": "How does a suffering man's pride help him endure?"
+  },
+  {
+   "style": "modern",
+   "q": "When I'm in pain, why do I feel a strange pride in seeing things without illusion?"
+  }
+ ],
+ "dawn-114-3": [
+  {
+   "style": "direct",
+   "q": "What happens to the sufferer when relief begins?"
+  },
+  {
+   "style": "casual",
+   "q": "Why does music make us weep after illness?"
+  }
+ ],
+ "dawn-115-1": [
+  {
+   "style": "direct",
+   "q": "What is the so-called ego?"
+  },
+  {
+   "style": "modern",
+   "q": "Do the words we have for our feelings hide the subtle states that make up our character?"
+  }
+ ],
+ "dawn-116-1": [
+  {
+   "style": "direct",
+   "q": "What is the oldest of illusions about human action?"
+  },
+  {
+   "style": "challenge",
+   "q": "I know what I want and why I act. How can you say I don't?"
+  },
+  {
+   "style": "modern",
+   "q": "If I don't really understand my own motives, how can I be held responsible?"
+  }
+ ],
+ "dawn-117-1": [
+  {
+   "style": "direct",
+   "q": "How are we imprisoned by our senses?"
+  },
+  {
+   "style": "modern",
+   "q": "If we are spiders in our own webs, can we ever know the real world?"
+  }
+ ],
+ "dawn-118-1": [
+  {
+   "style": "direct",
+   "q": "What do we really know about our neighbour?"
+  },
+  {
+   "style": "modern",
+   "q": "Do I know the people in my life, or only the effect they have on me?"
+  }
+ ],
+ "dawn-119-1": [
+  {
+   "style": "direct",
+   "q": "How well do we know our own instincts?"
+  },
+  {
+   "style": "modern",
+   "q": "Are my personality and character a result of chance experiences that fed some instincts and starved others?"
+  }
+ ],
+ "dawn-119-2": [
+  {
+   "style": "direct",
+   "q": "How do our instincts search for satisfaction through the day?"
+  },
+  {
+   "style": "modern",
+   "q": "What do my dreams tell me about the drives I've starved during the day?"
+  }
+ ],
+ "dawn-120-1": [
+  {
+   "style": "direct",
+   "q": "What is the eternal grammatical blunder of mankind?"
+  },
+  {
+   "style": "modern",
+   "q": "I don't know what I'm doing or what I should do. Is that so bad?"
+  }
+ ],
+ "dawn-121-1": [
+  {
+   "style": "direct",
+   "q": "Do we ever understand cause and effect?"
+  },
+  {
+   "style": "modern",
+   "q": "Is science just sequence, not explanation?"
+  }
+ ],
+ "dawn-122-1": [
+  {
+   "style": "direct",
+   "q": "Did the eye develop for the purpose of seeing?"
+  },
+  {
+   "style": "modern",
+   "q": "How does evolution challenge the idea that things have purposes?"
+  }
+ ],
+ "dawn-123-1": [
+  {
+   "style": "direct",
+   "q": "How did reason come into the world?"
+  },
+  {
+   "style": "casual",
+   "q": "Is reason an accident?"
+  }
+ ],
+ "dawn-124-1": [
+  {
+   "style": "direct",
+   "q": "What is volition?"
+  },
+  {
+   "style": "modern",
+   "q": "When I say \"I want,\" am I like the man who says \"I wish the sun to rise\"?"
+  }
+ ],
+ "dawn-125-1": [
+  {
+   "style": "direct",
+   "q": "Why is thought not the domain of freedom?"
+  },
+  {
+   "style": "modern",
+   "q": "Can I really understand something I cannot do?"
+  }
+ ],
+ "dawn-127-1": [
+  {
+   "style": "direct",
+   "q": "Which human actions are least understood?"
+  },
+  {
+   "style": "casual",
+   "q": "Where are the great problems found?"
+  }
+ ],
+ "dawn-128-1": [
+  {
+   "style": "direct",
+   "q": "Are we responsible for our dreams?"
+  },
+  {
+   "style": "modern",
+   "q": "If I'm not responsible for my dreams, why do I feel ashamed of them?"
+  },
+  {
+   "style": "challenge",
+   "q": "Free will is real. I can decide my own actions."
+  }
+ ],
+ "dawn-129-1": [
+  {
+   "style": "direct",
+   "q": "Is there a real combat of motives when we decide?"
+  },
+  {
+   "style": "modern",
+   "q": "How do I actually make a decision, given how little I know about my motives?"
+  }
+ ],
+ "dawn-130-1": [
+  {
+   "style": "direct",
+   "q": "What are the two kingdoms of aims and chance?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do we feel awe and even fondness for chance when it wrecks our plans?"
+  }
+ ],
+ "dawn-130-2": [
+  {
+   "style": "direct",
+   "q": "What was Moira for the Greeks?"
+  },
+  {
+   "style": "modern",
+   "q": "How did Christianity turn the realm of chance into God's plan?"
+  }
+ ],
+ "dawn-130-3": [
+  {
+   "style": "direct",
+   "q": "Is there really a domain of aims and reason apart from chance?"
+  },
+  {
+   "style": "modern",
+   "q": "Are our deliberate actions just throws of the dice of necessity?"
+  }
+ ],
+ "dawn-131-1": [
+  {
+   "style": "direct",
+   "q": "How have moral judgments changed since antiquity?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't living for others the highest moral ideal?"
+  },
+  {
+   "style": "modern",
+   "q": "Would the Stoics call today's selfless morality immoral?"
+  }
+ ],
+ "dawn-132-1": [
+  {
+   "style": "direct",
+   "q": "What is the last echo of Christianity in our morals?"
+  },
+  {
+   "style": "modern",
+   "q": "Do modern secular thinkers still carry Christian morality with them?"
+  }
+ ],
+ "dawn-133-1": [
+  {
+   "style": "direct",
+   "q": "Why do we jump in to save a stranger who has fallen into the water?"
+  },
+  {
+   "style": "modern",
+   "q": "Is compassion really selfless, or is it a kind of self-defence?"
+  },
+  {
+   "style": "challenge",
+   "q": "A mother running to her injured child has no thoughts of herself. Isn't that pure pity?"
+  }
+ ],
+ "dawn-133-3": [
+  {
+   "style": "direct",
+   "q": "What distinguishes men without pity from compassionate men?"
+  },
+  {
+   "style": "modern",
+   "q": "Is it wrong to be stoic in the face of others' pain?"
+  }
+ ],
+ "dawn-134-1": [
+  {
+   "style": "direct",
+   "q": "Why must we beware of pity?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't pity what makes us human and prevents cruelty?"
+  },
+  {
+   "style": "modern",
+   "q": "Would a world in which everyone acted out of pity be a better one?"
+  }
+ ],
+ "dawn-135-1": [
+  {
+   "style": "direct",
+   "q": "Why do savages fear being pitied?"
+  },
+  {
+   "style": "modern",
+   "q": "Is being pitied a form of contempt?"
+  }
+ ],
+ "dawn-136-1": [
+  {
+   "style": "direct",
+   "q": "How does pity serve those who see life as suffering?"
+  },
+  {
+   "style": "modern",
+   "q": "Does pity give us a feeling of superiority?"
+  }
+ ],
+ "dawn-137-1": [
+  {
+   "style": "direct",
+   "q": "Why is it a mistake to adopt other people's experiences as our own?"
+  },
+  {
+   "style": "modern",
+   "q": "Should I take other people's suffering as seriously as my own?"
+  }
+ ],
+ "dawn-138-1": [
+  {
+   "style": "direct",
+   "q": "How do our feelings change when we see someone we admire suffer?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do we feel closer to a person once we've seen them weak?"
+  }
+ ],
+ "dawn-139-1": [
+  {
+   "style": "direct",
+   "q": "Is the morality of pity higher than Stoicism?"
+  },
+  {
+   "style": "challenge",
+   "q": "Surely pity is morally higher than Stoic detachment."
+  }
+ ],
+ "dawn-140-1": [
+  {
+   "style": "direct",
+   "q": "Why do we blame and praise?"
+  },
+  {
+   "style": "modern",
+   "q": "When a project fails, why do people rush to find someone to blame?"
+  }
+ ],
+ "dawn-141-1": [
+  {
+   "style": "direct",
+   "q": "What is picturesque morality?"
+  },
+  {
+   "style": "casual",
+   "q": "Can dramatic moral gestures be trusted?"
+  }
+ ],
+ "dawn-142-3": [
+  {
+   "style": "direct",
+   "q": "Where does sympathy for the feelings of others come from?"
+  },
+  {
+   "style": "modern",
+   "q": "Is our love of nature rooted in ancient fear?"
+  }
+ ],
+ "dawn-142-4": [
+  {
+   "style": "direct",
+   "q": "What do you think of the mystical theory of pity?"
+  },
+  {
+   "style": "challenge",
+   "q": "Schopenhauer said pity blends two people into one. What's wrong with that?"
+  }
+ ],
+ "dawn-143-1": [
+  {
+   "style": "direct",
+   "q": "What would happen if the impulse toward sympathy were twice as strong?"
+  },
+  {
+   "style": "modern",
+   "q": "Can too much care for others become a burden to them?"
+  }
+ ],
+ "dawn-144-1": [
+  {
+   "style": "direct",
+   "q": "Why should we close our ears to the complaints of others?"
+  },
+  {
+   "style": "modern",
+   "q": "Does absorbing everyone's problems actually help them?"
+  }
+ ],
+ "dawn-146-1": [
+  {
+   "style": "direct",
+   "q": "Should true morality consist of looking only at the immediate consequences of our actions for others?"
+  },
+  {
+   "style": "modern",
+   "q": "Is it acceptable to cause discomfort to others for the sake of a greater goal like free inquiry?"
+  }
+ ],
+ "dawn-146-2": [
+  {
+   "style": "direct",
+   "q": "May we sacrifice a few individuals of this generation for future generations?"
+  },
+  {
+   "style": "challenge",
+   "q": "That sounds like justification for cruelty. How is it different?"
+  }
+ ],
+ "dawn-147-1": [
+  {
+   "style": "direct",
+   "q": "Why have people spoken of love with so much adoration?"
+  },
+  {
+   "style": "modern",
+   "q": "What would a world of universal benevolence be like?"
+  }
+ ],
+ "dawn-148-1": [
+  {
+   "style": "direct",
+   "q": "Are there any truly moral actions?"
+  },
+  {
+   "style": "modern",
+   "q": "If no action is selfless or free, does morality disappear?"
+  },
+  {
+   "style": "casual",
+   "q": "What happens when men no longer believe themselves evil?"
+  }
+ ],
+ "dawn-151-1": [
+  {
+   "style": "direct",
+   "q": "Should lovers be allowed to make vows for life?"
+  },
+  {
+   "style": "modern",
+   "q": "Why should marriage be taken more seriously than a whim of passion?"
+  }
+ ],
+ "dawn-152-1": [
+  {
+   "style": "direct",
+   "q": "What oath would you recommend in place of the judicial oath?"
+  },
+  {
+   "style": "casual",
+   "q": "How can a person swear without invoking God?"
+  }
+ ],
+ "dawn-154-1": [
+  {
+   "style": "direct",
+   "q": "How did the Greeks seek security, and how do we?"
+  },
+  {
+   "style": "modern",
+   "q": "Have we introduced danger into thinking because our lives are so secure?"
+  }
+ ],
+ "dawn-155-1": [
+  {
+   "style": "direct",
+   "q": "Why are hazardous enterprises rarer in modern times?"
+  },
+  {
+   "style": "modern",
+   "q": "Do we take fewer risks because we no longer believe in a future reserved for us?"
+  }
+ ],
+ "dawn-156-1": [
+  {
+   "style": "direct",
+   "q": "What did the Greeks fear about being too happy?"
+  },
+  {
+   "style": "casual",
+   "q": "Do we fear happiness as the Greeks did?"
+  }
+ ],
+ "dawn-157-1": [
+  {
+   "style": "direct",
+   "q": "Why does our culture approve of tears and complaints when the ancients despised them?"
+  },
+  {
+   "style": "modern",
+   "q": "Is it healthy to show our grief openly?"
+  }
+ ],
+ "dawn-158-1": [
+  {
+   "style": "direct",
+   "q": "Where does flattery flourish today?"
+  },
+  {
+   "style": "casual",
+   "q": "Who are the modern flatterers?"
+  }
+ ],
+ "dawn-159-1": [
+  {
+   "style": "direct",
+   "q": "Why do vain men value the revival of the past?"
+  },
+  {
+   "style": "modern",
+   "q": "Is romanticism a kind of vanity about resurrecting the past?"
+  }
+ ],
+ "dawn-160-1": [
+  {
+   "style": "direct",
+   "q": "What should the vain, greedy and unwise practice?"
+  },
+  {
+   "style": "casual",
+   "q": "What do you recommend to those whose desires outrun their understanding?"
+  }
+ ],
+ "dawn-161-1": [
+  {
+   "style": "direct",
+   "q": "How should artists represent beauty in our age?"
+  },
+  {
+   "style": "modern",
+   "q": "Would a true portrait of our times show beauty as bloated and nervous?"
+  }
+ ],
+ "dawn-162-1": [
+  {
+   "style": "direct",
+   "q": "Why do Europeans treat important things with irony?"
+  },
+  {
+   "style": "modern",
+   "q": "Are we too busy to take anything seriously?"
+  }
+ ],
+ "dawn-163-1": [
+  {
+   "style": "direct",
+   "q": "What is your reply to Rousseau?"
+  },
+  {
+   "style": "challenge",
+   "q": "Rousseau thought civilization corrupted natural goodness. Isn't he right?"
+  }
+ ],
+ "dawn-165-1": [
+  {
+   "style": "direct",
+   "q": "Why does a nation not find its most emphasised moral commandments tiresome?"
+  },
+  {
+   "style": "casual",
+   "q": "Why did the Greeks love Socratic virtues?"
+  }
+ ],
+ "dawn-166-1": [
+  {
+   "style": "direct",
+   "q": "What is shameful about being a wheel in a system of connections?"
+  },
+  {
+   "style": "modern",
+   "q": "I'm told networking is essential to success. What's wrong with that?"
+  }
+ ],
+ "dawn-167-1": [
+  {
+   "style": "direct",
+   "q": "Why is unconditional homage to great men a difficulty?"
+  },
+  {
+   "style": "modern",
+   "q": "Must we agree with everything a hero believes?"
+  }
+ ],
+ "dawn-168-1": [
+  {
+   "style": "direct",
+   "q": "Why do you esteem Thucydides more than Plato?"
+  },
+  {
+   "style": "casual",
+   "q": "What did the Greek Sophists' culture represent?"
+  }
+ ],
+ "dawn-169-1": [
+  {
+   "style": "direct",
+   "q": "Why is the Greek genius foreign to us?"
+  },
+  {
+   "style": "modern",
+   "q": "Does music reveal our labyrinthine souls more than architecture does?"
+  }
+ ],
+ "dawn-172-1": [
+  {
+   "style": "direct",
+   "q": "Why do warlike men enjoy tragedy?"
+  },
+  {
+   "style": "modern",
+   "q": "Why does tragedy suit hard souls but not soft ones?"
+  }
+ ],
+ "dawn-173-1": [
+  {
+   "style": "direct",
+   "q": "What is the secret behind glorifying work?"
+  },
+  {
+   "style": "modern",
+   "q": "Does our culture praise hard work because it keeps people from thinking for themselves?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't hard work a virtue and a blessing?"
+  }
+ ],
+ "dawn-174-1": [
+  {
+   "style": "direct",
+   "q": "What lies behind the modern morality of sympathy?"
+  },
+  {
+   "style": "modern",
+   "q": "Is our moral fashion driven by fear of danger and desire for security?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't making life safer and gentler a good goal?"
+  }
+ ],
+ "dawn-167-2": [
+  {
+   "style": "direct",
+   "q": "Can we take only the good parts of a great man's work and forget the rest?"
+  },
+  {
+   "style": "modern",
+   "q": "Can I love an artist's work while rejecting the artist?"
+  }
+ ],
+ "dawn-175-1": [
+  {
+   "style": "direct",
+   "q": "What is the fundamental basis of a culture of traders?"
+  },
+  {
+   "style": "modern",
+   "q": "Are we valuing everything, even art and ideas, by supply and demand?"
+  }
+ ],
+ "dawn-176-1": [
+  {
+   "style": "direct",
+   "q": "Why can we endure the truth about the recent past?"
+  },
+  {
+   "style": "modern",
+   "q": "Why does each new generation enjoy criticising its parents' generation?"
+  }
+ ],
+ "dawn-177-1": [
+  {
+   "style": "direct",
+   "q": "What should ambitious young men learn about solitude?"
+  },
+  {
+   "style": "modern",
+   "q": "Does commenting on every news event make us productive or just noisy?"
+  }
+ ],
+ "dawn-179-1": [
+  {
+   "style": "direct",
+   "q": "Why should the most talented minds stay out of politics and economics?"
+  },
+  {
+   "style": "modern",
+   "q": "Is the fuss over public safety a waste of our best intellect?"
+  }
+ ],
+ "dawn-181-1": [
+  {
+   "style": "direct",
+   "q": "Why do people govern?"
+  },
+  {
+   "style": "casual",
+   "q": "Who wants to govern and who wants to avoid being governed?"
+  }
+ ],
+ "dawn-182-1": [
+  {
+   "style": "direct",
+   "q": "What is rough and ready consistency?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do people admire consistent people but not those who are consistent in a subtle way?"
+  }
+ ],
+ "dawn-183-1": [
+  {
+   "style": "direct",
+   "q": "What is the morality of a generation brought up under parliamentary rule?"
+  },
+  {
+   "style": "modern",
+   "q": "Is loyalty to the party above one's own judgment a modern moral fashion?"
+  }
+ ],
+ "dawn-184-1": [
+  {
+   "style": "direct",
+   "q": "How does the state produce anarchists?"
+  },
+  {
+   "style": "casual",
+   "q": "What would intractable men do if they made the laws?"
+  }
+ ],
+ "dawn-186-1": [
+  {
+   "style": "direct",
+   "q": "What is wrong with being bound to one's business?"
+  },
+  {
+   "style": "modern",
+   "q": "My job defines my whole life and I want my children to follow it. What's wrong with that?"
+  }
+ ],
+ "dawn-187-1": [
+  {
+   "style": "direct",
+   "q": "What would a criminal of a possible future look like?"
+  },
+  {
+   "style": "modern",
+   "q": "Could a society let criminals dictate their own punishment?"
+  }
+ ],
+ "dawn-188-1": [
+  {
+   "style": "direct",
+   "q": "Why do nations prefer intoxication to nourishment?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do voters choose the leader who promises glory over the one who offers competence?"
+  }
+ ],
+ "dawn-189-1": [
+  {
+   "style": "direct",
+   "q": "What drives high politics?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do rulers and their people call themselves good when they wield power?"
+  }
+ ],
+ "dawn-190-1": [
+  {
+   "style": "direct",
+   "q": "What was former German culture, and why was it overrated?"
+  },
+  {
+   "style": "challenge",
+   "q": "Schiller, Hegel and Schleiermacher were great minds. Why do you dislike them?"
+  }
+ ],
+ "dawn-190-2": [
+  {
+   "style": "direct",
+   "q": "Why were foreigners fooled by German culture?"
+  },
+  {
+   "style": "casual",
+   "q": "Was German culture just a cloud pretending to be heaven?"
+  }
+ ],
+ "dawn-194-1": [
+  {
+   "style": "direct",
+   "q": "Why have teachers of morals had so little success?"
+  },
+  {
+   "style": "modern",
+   "q": "Is it better to educate one person well than to preach to everyone?"
+  }
+ ],
+ "dawn-195-1": [
+  {
+   "style": "direct",
+   "q": "What is wrong with classical education?"
+  },
+  {
+   "style": "modern",
+   "q": "We spent years on Latin and Greek without learning to think. Was that a waste?"
+  }
+ ],
+ "dawn-195-2": [
+  {
+   "style": "direct",
+   "q": "Did classical education teach us anything of the ancients?"
+  },
+  {
+   "style": "modern",
+   "q": "Do our schools really train character and virtue as the ancients did?"
+  }
+ ],
+ "dawn-195-3": [
+  {
+   "style": "direct",
+   "q": "Why is ancient Greek life so difficult to understand?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do students come to despise antiquity from having studied it too early?"
+  }
+ ],
+ "dawn-197-1": [
+  {
+   "style": "direct",
+   "q": "Why were the Germans hostile to the Enlightenment?"
+  },
+  {
+   "style": "modern",
+   "q": "Did romanticism and the cult of feeling put belief above knowledge?"
+  }
+ ],
+ "dawn-197-2": [
+  {
+   "style": "direct",
+   "q": "What was the danger of setting knowledge below feeling?"
+  },
+  {
+   "style": "modern",
+   "q": "How did history and romantic sympathy for the past end up serving the Enlightenment?"
+  }
+ ],
+ "dawn-199-1": [
+  {
+   "style": "direct",
+   "q": "In what respect do we excel the Greeks in nobility?"
+  },
+  {
+   "style": "modern",
+   "q": "How do we judge the Greeks' attitude to insult and disgrace?"
+  }
+ ],
+ "dawn-199-2": [
+  {
+   "style": "direct",
+   "q": "What is the ignoble secret of the good Greek aristocrat?"
+  },
+  {
+   "style": "modern",
+   "q": "Why was the idea of a just man as rare among the Greeks as a saint among Christians?"
+  }
+ ],
+ "dawn-202-1": [
+  {
+   "style": "direct",
+   "q": "How should society treat criminals?"
+  },
+  {
+   "style": "challenge",
+   "q": "Criminals should be punished, not treated like patients."
+  },
+  {
+   "style": "modern",
+   "q": "Is there any essential difference between a criminal and a madman?"
+  }
+ ],
+ "dawn-202-2": [
+  {
+   "style": "direct",
+   "q": "Could we free ourselves from the ideas of sin and punishment?"
+  },
+  {
+   "style": "modern",
+   "q": "Would a society without vengeance and punishment be better?"
+  }
+ ],
+ "dawn-202-3": [
+  {
+   "style": "direct",
+   "q": "How is the harm done by the criminal like the harm done by the sick?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do we treat some burdens on society with vengeance and others with care?"
+  }
+ ],
+ "dawn-202-4": [
+  {
+   "style": "direct",
+   "q": "Are the guilty the sick?"
+  },
+  {
+   "style": "modern",
+   "q": "What would a healthy society do about parasites?"
+  }
+ ],
+ "dawn-203-1": [
+  {
+   "style": "direct",
+   "q": "What is wrong with the meals that the well-off classes eat?"
+  },
+  {
+   "style": "modern",
+   "q": "What are banquets and lavish dinners really displaying?"
+  }
+ ],
+ "dawn-206-1": [
+  {
+   "style": "direct",
+   "q": "Why is the workman's position an impossible one?"
+  },
+  {
+   "style": "modern",
+   "q": "Would higher wages for factory workers remove their real misery?"
+  }
+ ],
+ "dawn-206-2": [
+  {
+   "style": "direct",
+   "q": "What should workers do about their condition?"
+  },
+  {
+   "style": "modern",
+   "q": "Instead of waiting for socialist promises, what should someone in a dead-end position do?"
+  }
+ ],
+ "dawn-207-1": [
+  {
+   "style": "direct",
+   "q": "What is the German's strength and weakness?"
+  },
+  {
+   "style": "casual",
+   "q": "Why do Germans obey?"
+  }
+ ],
+ "dawn-207-2": [
+  {
+   "style": "direct",
+   "q": "Why is a German frivolous in politics?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do people who are serious in their work show caprice in politics?"
+  }
+ ],
+ "dawn-207-3": [
+  {
+   "style": "direct",
+   "q": "What are the vices and dangers of the Germans?"
+  },
+  {
+   "style": "casual",
+   "q": "Is German enthusiasm barren?"
+  }
+ ],
+ "dawn-207-4": [
+  {
+   "style": "direct",
+   "q": "What is the German idea of morality?"
+  },
+  {
+   "style": "modern",
+   "q": "Is obedience a German virtue and personal distinction a Greek one?"
+  }
+ ],
+ "dawn-207-5": [
+  {
+   "style": "direct",
+   "q": "How did the ancients differ from the German attitude toward belief and authority?"
+  },
+  {
+   "style": "modern",
+   "q": "What happens when a German rises above morality and has to command?"
+  }
+ ],
+ "dawn-208-1": [
+  {
+   "style": "direct",
+   "q": "What is the new thing you want?"
+  },
+  {
+   "style": "casual",
+   "q": "Why should we stop making causes sinners and effects executioners?"
+  }
+ ],
+ "dawn-209-1": [
+  {
+   "style": "direct",
+   "q": "Why are people indulgent to those with strict moral theories?"
+  },
+  {
+   "style": "modern",
+   "q": "Why are free-thinking moralists scrutinized more harshly than pious ones?"
+  }
+ ],
+ "dawn-210-1": [
+  {
+   "style": "direct",
+   "q": "Is there anything ridiculous or sublime in itself?"
+  },
+  {
+   "style": "modern",
+   "q": "Do we lend qualities like beauty and goodness to things?"
+  }
+ ],
+ "dawn-211-1": [
+  {
+   "style": "direct",
+   "q": "Should we wish for immortality?"
+  },
+  {
+   "style": "modern",
+   "q": "Would you want to live forever?"
+  }
+ ],
+ "dawn-212-1": [
+  {
+   "style": "direct",
+   "q": "What do we know of ourselves according to our comparisons with animals?"
+  },
+  {
+   "style": "casual",
+   "q": "How do we first learn about ourselves?"
+  }
+ ],
+ "dawn-213-1": [
+  {
+   "style": "direct",
+   "q": "Why do some men's lives seem failures?"
+  },
+  {
+   "style": "modern",
+   "q": "If my life feels wasted, is society or I to blame?"
+  }
+ ],
+ "dawn-214-1": [
+  {
+   "style": "direct",
+   "q": "Why should we not be indulgent towards the unjust sufferer?"
+  },
+  {
+   "style": "modern",
+   "q": "When I'm suffering, I lash out. Does that hurt me more than others?"
+  }
+ ],
+ "dawn-215-1": [
+  {
+   "style": "direct",
+   "q": "What is the morality of victims?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't self-sacrifice the noblest thing a person can do?"
+  },
+  {
+   "style": "modern",
+   "q": "Do people who sacrifice themselves enjoy it because it makes them feel powerful?"
+  }
+ ],
+ "dawn-216-1": [
+  {
+   "style": "direct",
+   "q": "Why do evil people love music?"
+  },
+  {
+   "style": "modern",
+   "q": "Why does music feel like it speaks for us when we are in love?"
+  }
+ ],
+ "dawn-217-1": [
+  {
+   "style": "direct",
+   "q": "What do Germans, Italians and French want from the artist?"
+  },
+  {
+   "style": "casual",
+   "q": "How do different nations use art?"
+  }
+ ],
+ "dawn-218-1": [
+  {
+   "style": "direct",
+   "q": "How can we deal with our weaknesses like an artist?"
+  },
+  {
+   "style": "modern",
+   "q": "Can a flaw make someone's virtues more attractive?"
+  }
+ ],
+ "dawn-219-1": [
+  {
+   "style": "direct",
+   "q": "Why is self-humiliation before one we have wronged often deceit?"
+  },
+  {
+   "style": "modern",
+   "q": "When I apologise, am I doing it for the other person or for myself?"
+  }
+ ],
+ "dawn-220-1": [
+  {
+   "style": "direct",
+   "q": "What is dignity really?"
+  },
+  {
+   "style": "modern",
+   "q": "Do pomp and ceremony conceal timidity?"
+  }
+ ],
+ "dawn-221-1": [
+  {
+   "style": "direct",
+   "q": "Why is the morality of sacrifice semi-civilised?"
+  },
+  {
+   "style": "casual",
+   "q": "What kind of gods want sacrifices?"
+  }
+ ],
+ "dawn-223-1": [
+  {
+   "style": "direct",
+   "q": "What do artists dread most?"
+  },
+  {
+   "style": "modern",
+   "q": "Do creators secretly fear being seen through by a keen critic?"
+  }
+ ],
+ "dawn-225-1": [
+  {
+   "style": "direct",
+   "q": "Why do we quickly despise a man who talks a great deal?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do people who speak quickly and constantly lose our respect?"
+  }
+ ],
+ "dawn-226-1": [
+  {
+   "style": "direct",
+   "q": "Why avoid a great man?"
+  },
+  {
+   "style": "casual",
+   "q": "Why might you shun a celebrity you admire?"
+  }
+ ],
+ "dawn-228-1": [
+  {
+   "style": "direct",
+   "q": "Can revenge hide in praise?"
+  },
+  {
+   "style": "modern",
+   "q": "I've received praise that felt like a dig. Was it?"
+  }
+ ],
+ "dawn-229-1": [
+  {
+   "style": "direct",
+   "q": "What do we know of the exultation of human pride?"
+  },
+  {
+   "style": "casual",
+   "q": "What is the pride of the tortured man?"
+  }
+ ],
+ "dawn-230-1": [
+  {
+   "style": "direct",
+   "q": "Can utilitarianism be used to both support and refute morality?"
+  },
+  {
+   "style": "modern",
+   "q": "How does utility argue for and against morality?"
+  }
+ ],
+ "dawn-231-1": [
+  {
+   "style": "direct",
+   "q": "What does the German word for \"bad\" reveal about German morality?"
+  },
+  {
+   "style": "casual",
+   "q": "Why did the Germans equate the simple with the bad?"
+  }
+ ],
+ "dawn-233-1": [
+  {
+   "style": "direct",
+   "q": "Who values conscientiousness the most?"
+  },
+  {
+   "style": "modern",
+   "q": "Are strict people really trying to hide their petty feelings?"
+  }
+ ],
+ "dawn-234-1": [
+  {
+   "style": "direct",
+   "q": "Is there such a thing as fear of fame?"
+  },
+  {
+   "style": "casual",
+   "q": "Can someone shun their own renown?"
+  }
+ ],
+ "dawn-235-1": [
+  {
+   "style": "direct",
+   "q": "Why is it wrong to refuse thanks?"
+  },
+  {
+   "style": "modern",
+   "q": "Why does it hurt when someone coldly dismisses our gratitude?"
+  }
+ ],
+ "dawn-236-1": [
+  {
+   "style": "direct",
+   "q": "Does punishment purify the criminal?"
+  },
+  {
+   "style": "challenge",
+   "q": "Punishment is a form of expiation. Isn't it?"
+  }
+ ],
+ "dawn-237-1": [
+  {
+   "style": "direct",
+   "q": "What is the grievance in a political party?"
+  },
+  {
+   "style": "casual",
+   "q": "What happens to the faithful when a stronger figure gets the public's ear?"
+  }
+ ],
+ "dawn-238-1": [
+  {
+   "style": "direct",
+   "q": "Why do vigorous natures strive for gentleness?"
+  },
+  {
+   "style": "modern",
+   "q": "Are harsh critics often weak people compensating?"
+  }
+ ],
+ "dawn-239-1": [
+  {
+   "style": "direct",
+   "q": "What discovery have musicians made about ugliness?"
+  },
+  {
+   "style": "modern",
+   "q": "Is contrast and ugliness now used as a cheap effect in music?"
+  }
+ ],
+ "dawn-240-1": [
+  {
+   "style": "direct",
+   "q": "Is Shakespeare's tragedy a moral warning?"
+  },
+  {
+   "style": "challenge",
+   "q": "Macbeth shows us the destruction that ambition causes. Isn't that a moral lesson?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do we enjoy watching characters destroyed by their passions?"
+  }
+ ],
+ "dawn-240-2": [
+  {
+   "style": "direct",
+   "q": "What does the tragic poet say about life?"
+  },
+  {
+   "style": "casual",
+   "q": "Why do we need to misunderstand Shakespeare?"
+  }
+ ],
+ "dawn-242-1": [
+  {
+   "style": "direct",
+   "q": "What is independence?"
+  },
+  {
+   "style": "casual",
+   "q": "What does a tyrant who finds only himself to govern turn into?"
+  }
+ ],
+ "dawn-243-1": [
+  {
+   "style": "direct",
+   "q": "What is the general history of knowledge?"
+  },
+  {
+   "style": "modern",
+   "q": "Can we ever look at the world without looking at our own mind?"
+  }
+ ],
+ "dawn-244-1": [
+  {
+   "style": "direct",
+   "q": "Why do we take delight in reality now?"
+  },
+  {
+   "style": "casual",
+   "q": "Is there danger in our love of reality?"
+  }
+ ],
+ "dawn-245-1": [
+  {
+   "style": "direct",
+   "q": "What was Napoleon's subtle feeling of power?"
+  },
+  {
+   "style": "modern",
+   "q": "Did Napoleon deliberately speak badly?"
+  }
+ ],
+ "dawn-246-1": [
+  {
+   "style": "direct",
+   "q": "What did Aristotle say about great men's children?"
+  },
+  {
+   "style": "casual",
+   "q": "Should exceptional men marry?"
+  }
+ ],
+ "dawn-247-1": [
+  {
+   "style": "direct",
+   "q": "What is the origin of a bad temperament?"
+  },
+  {
+   "style": "modern",
+   "q": "Are our tempers inherited from our ancestors' thinking habits?"
+  }
+ ],
+ "dawn-248-1": [
+  {
+   "style": "direct",
+   "q": "How was kindness developed?"
+  },
+  {
+   "style": "modern",
+   "q": "Can pretending to be kind eventually make us kind?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't kindness that is only a pretense hypocritical?"
+  }
+ ],
+ "dawn-249-1": [
+  {
+   "style": "direct",
+   "q": "What does the faint-hearted man not know about loneliness?"
+  },
+  {
+   "style": "casual",
+   "q": "What is the history of loneliness?"
+  }
+ ],
+ "dawn-251-1": [
+  {
+   "style": "direct",
+   "q": "Why does a Stoic feel cheerful under his self-imposed ceremony?"
+  },
+  {
+   "style": "casual",
+   "q": "How is Stoicism a way of ruling?"
+  }
+ ],
+ "dawn-252-1": [
+  {
+   "style": "direct",
+   "q": "Is the punished man the same person as the one who committed the deed?"
+  },
+  {
+   "style": "modern",
+   "q": "Is punishment ever fair, given that people change?"
+  }
+ ],
+ "dawn-253-1": [
+  {
+   "style": "direct",
+   "q": "Why is appearance the thing that most needs to be proved?"
+  },
+  {
+   "style": "casual",
+   "q": "Why is it tiresome to prove appearance?"
+  }
+ ],
+ "dawn-254-1": [
+  {
+   "style": "direct",
+   "q": "What is the danger of the poetic imagination?"
+  },
+  {
+   "style": "modern",
+   "q": "I imagine events so vividly that by the time they happen I'm already tired. Why?"
+  }
+ ],
+ "dawn-257-1": [
+  {
+   "style": "direct",
+   "q": "Do we have thoughts only for the words we have at hand?"
+  },
+  {
+   "style": "modern",
+   "q": "Does the vocabulary I have limit what I can think?"
+  }
+ ],
+ "dawn-258-1": [
+  {
+   "style": "direct",
+   "q": "What is the point of the dog that gives off sparks when stroked?"
+  },
+  {
+   "style": "casual",
+   "q": "Why should we endure flatterers?"
+  }
+ ],
+ "dawn-261-1": [
+  {
+   "style": "direct",
+   "q": "Why do you prefer men on four legs to men on two?"
+  },
+  {
+   "style": "casual",
+   "q": "Are we more natural when we are less sublime?"
+  }
+ ],
+ "dawn-263-1": [
+  {
+   "style": "direct",
+   "q": "What is the physiological contradiction in genius?"
+  },
+  {
+   "style": "modern",
+   "q": "Why are creative people so often unhappy?"
+  }
+ ],
+ "dawn-264-1": [
+  {
+   "style": "direct",
+   "q": "Why do envious men avoid getting to know their rivals?"
+  },
+  {
+   "style": "modern",
+   "q": "I avoid learning too much about people I envy. Why?"
+  }
+ ],
+ "dawn-265-1": [
+  {
+   "style": "direct",
+   "q": "When does a people want theatre?"
+  },
+  {
+   "style": "modern",
+   "q": "Has visual media killed our imagination?"
+  }
+ ],
+ "dawn-267-1": [
+  {
+   "style": "direct",
+   "q": "What distinguishes a noble character from a vulgar one?"
+  },
+  {
+   "style": "casual",
+   "q": "Is nobility just a matter of habits?"
+  }
+ ],
+ "dawn-268-1": [
+  {
+   "style": "direct",
+   "q": "What are the orator's dangers?"
+  },
+  {
+   "style": "casual",
+   "q": "Why was it hard to speak persuasively in Athens?"
+  }
+ ],
+ "dawn-269-1": [
+  {
+   "style": "direct",
+   "q": "What should the sick do instead of turning to art?"
+  },
+  {
+   "style": "modern",
+   "q": "Is art therapy really a good idea, or does it make artists sick?"
+  }
+ ],
+ "dawn-270-1": [
+  {
+   "style": "direct",
+   "q": "Why is toleration of science a disparagement of it?"
+  },
+  {
+   "style": "modern",
+   "q": "People say they're open to science but they don't really care. What's wrong with that?"
+  }
+ ],
+ "dawn-273-1": [
+  {
+   "style": "direct",
+   "q": "How should we take praise we find distasteful?"
+  },
+  {
+   "style": "modern",
+   "q": "Someone praised me in a way I found insulting. How should I react?"
+  }
+ ],
+ "dawn-274-1": [
+  {
+   "style": "direct",
+   "q": "What right do humans alone possess?"
+  },
+  {
+   "style": "casual",
+   "q": "Is suicide a distinctly human privilege?"
+  }
+ ],
+ "dawn-275-1": [
+  {
+   "style": "direct",
+   "q": "Why might a person suddenly become virtuous?"
+  },
+  {
+   "style": "casual",
+   "q": "Should we trust a sudden change into virtue?"
+  }
+ ],
+ "dawn-277-1": [
+  {
+   "style": "direct",
+   "q": "What is the difference between warm and cold virtues?"
+  },
+  {
+   "style": "modern",
+   "q": "Is courage a matter of cold resolution or hot spirit?"
+  }
+ ],
+ "dawn-278-1": [
+  {
+   "style": "direct",
+   "q": "What is a gracious memory?"
+  },
+  {
+   "style": "modern",
+   "q": "Should I focus on remembering people's good qualities?"
+  }
+ ],
+ "dawn-280-1": [
+  {
+   "style": "direct",
+   "q": "Why do some people remain childlike?"
+  },
+  {
+   "style": "casual",
+   "q": "Who lives like a child?"
+  }
+ ],
+ "dawn-284-1": [
+  {
+   "style": "direct",
+   "q": "Why are people irritated by new things told to them?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do some people react badly when you tell them news?"
+  }
+ ],
+ "dawn-286-1": [
+  {
+   "style": "direct",
+   "q": "What is the problem with sentimentality toward plants and animals?"
+  },
+  {
+   "style": "modern",
+   "q": "Is it hypocritical to love pets when we ravage nature?"
+  }
+ ],
+ "dawn-288-1": [
+  {
+   "style": "direct",
+   "q": "What is the comedy of the noble souls?"
+  },
+  {
+   "style": "casual",
+   "q": "Why do some people hide behind reserve and strictness?"
+  }
+ ],
+ "dawn-289-1": [
+  {
+   "style": "direct",
+   "q": "Why can't we say anything against a virtue among people who lack it?"
+  },
+  {
+   "style": "modern",
+   "q": "Why is it bad form among cowards to criticize bravery?"
+  }
+ ],
+ "dawn-290-1": [
+  {
+   "style": "direct",
+   "q": "Why do irritable people's first words not reflect their character?"
+  },
+  {
+   "style": "modern",
+   "q": "Someone said something harsh, then apologized. Which is the real person?"
+  }
+ ],
+ "dawn-291-1": [
+  {
+   "style": "direct",
+   "q": "What is arrogance?"
+  },
+  {
+   "style": "modern",
+   "q": "Why is arrogance so easily seen through?"
+  }
+ ],
+ "dawn-292-1": [
+  {
+   "style": "direct",
+   "q": "How do we misjudge honesty from a single sound?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do we distrust someone whose speech or style is different from ours?"
+  }
+ ],
+ "dawn-293-1": [
+  {
+   "style": "direct",
+   "q": "Can gratitude become a vice?"
+  },
+  {
+   "style": "casual",
+   "q": "Why does a little piety give us a bad conscience?"
+  }
+ ],
+ "dawn-295-1": [
+  {
+   "style": "direct",
+   "q": "What is the subtlety of serving an ambitious man?"
+  },
+  {
+   "style": "modern",
+   "q": "How do you work for a boss who wants to appear selfless but is deeply egoistic?"
+  }
+ ],
+ "dawn-296-1": [
+  {
+   "style": "direct",
+   "q": "What is the value of a duel?"
+  },
+  {
+   "style": "casual",
+   "q": "Is dueling the last honourable suicide?"
+  }
+ ],
+ "dawn-297-1": [
+  {
+   "style": "direct",
+   "q": "How can a young man be most surely corrupted?"
+  },
+  {
+   "style": "modern",
+   "q": "Should we teach children to value like-minded people over those who differ?"
+  }
+ ],
+ "dawn-298-1": [
+  {
+   "style": "direct",
+   "q": "Why is the fanatic of an ideal terrible in his negation?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do we turn the people we admire into idealized figures?"
+  }
+ ],
+ "dawn-301-1": [
+  {
+   "style": "direct",
+   "q": "Does keeping your word show strength of character?"
+  },
+  {
+   "style": "modern",
+   "q": "Do we sometimes stick to a decision only because of vanity?"
+  }
+ ],
+ "dawn-302-1": [
+  {
+   "style": "direct",
+   "q": "Why do men lie so often?"
+  },
+  {
+   "style": "casual",
+   "q": "Do we believe our own lies?"
+  }
+ ],
+ "dawn-304-1": [
+  {
+   "style": "direct",
+   "q": "Why do some men wish the world to perish?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do people say \"if I can't have it, nobody should\"?"
+  }
+ ],
+ "dawn-305-1": [
+  {
+   "style": "direct",
+   "q": "Why does greed increase with cheapness?"
+  },
+  {
+   "style": "casual",
+   "q": "Why do bargains make us greedy?"
+  }
+ ],
+ "dawn-306-1": [
+  {
+   "style": "direct",
+   "q": "What did the Greeks admire in Ulysses?"
+  },
+  {
+   "style": "modern",
+   "q": "Is a person who lies and seems noble when needed a hero or a fraud?"
+  }
+ ],
+ "dawn-307-1": [
+  {
+   "style": "direct",
+   "q": "What is history really about?"
+  },
+  {
+   "style": "modern",
+   "q": "Is history just opinions about imaginary actions and their motives?"
+  }
+ ],
+ "dawn-308-1": [
+  {
+   "style": "direct",
+   "q": "Why is not understanding trade noble?"
+  },
+  {
+   "style": "modern",
+   "q": "Is it wrong to charge the highest price for one's talent or wisdom?"
+  }
+ ],
+ "dawn-309-1": [
+  {
+   "style": "direct",
+   "q": "Has fear or love done more to further the knowledge of mankind?"
+  },
+  {
+   "style": "casual",
+   "q": "Why does love prefer to be deceived?"
+  }
+ ],
+ "dawn-310-1": [
+  {
+   "style": "direct",
+   "q": "Where does good nature come from?"
+  },
+  {
+   "style": "modern",
+   "q": "Are kind, agreeable people just the descendants of frightened ancestors?"
+  }
+ ],
+ "dawn-311-1": [
+  {
+   "style": "direct",
+   "q": "What is the so-called soul?"
+  },
+  {
+   "style": "modern",
+   "q": "Do we call people soulless when their inner life seems difficult?"
+  }
+ ],
+ "dawn-312-1": [
+  {
+   "style": "direct",
+   "q": "How do passion and dreams reveal humanity's past?"
+  },
+  {
+   "style": "modern",
+   "q": "Does forgetting our animal past make civilization possible?"
+  }
+ ],
+ "dawn-314-1": [
+  {
+   "style": "direct",
+   "q": "What is it like to live in the society of thinkers?"
+  },
+  {
+   "style": "casual",
+   "q": "What is the island of thinkers?"
+  }
+ ],
+ "dawn-315-1": [
+  {
+   "style": "direct",
+   "q": "Why does giving up property sometimes give pleasure?"
+  },
+  {
+   "style": "casual",
+   "q": "Is generosity a sign of wealth?"
+  }
+ ],
+ "dawn-316-1": [
+  {
+   "style": "direct",
+   "q": "Why do weak sects go after intelligent adherents?"
+  },
+  {
+   "style": "modern",
+   "q": "Is it dangerous for an intelligent person to join a small group that wants brains?"
+  }
+ ],
+ "dawn-317-1": [
+  {
+   "style": "direct",
+   "q": "Why does the evening judgment of life tend to be melancholy?"
+  },
+  {
+   "style": "modern",
+   "q": "I feel life was pointless when I'm exhausted. Is that fair?"
+  }
+ ],
+ "dawn-318-1": [
+  {
+   "style": "direct",
+   "q": "What is comical about systemisers?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do systematic thinkers pretend to be uniformly strong?"
+  }
+ ],
+ "dawn-319-1": [
+  {
+   "style": "direct",
+   "q": "What is the purpose of hospitality?"
+  },
+  {
+   "style": "casual",
+   "q": "Why did hospitality flourish in ancient times?"
+  }
+ ],
+ "dawn-320-1": [
+  {
+   "style": "direct",
+   "q": "How does the weather affect people's suspicion and love of novelty?"
+  },
+  {
+   "style": "casual",
+   "q": "Why do despots like countries where the weather is moral?"
+  }
+ ],
+ "dawn-323-1": [
+  {
+   "style": "direct",
+   "q": "What is the revenge of the timid?"
+  },
+  {
+   "style": "modern",
+   "q": "Do small vengeful people darken our own sky?"
+  }
+ ],
+ "dawn-325-1": [
+  {
+   "style": "direct",
+   "q": "How does one become a prophet of one's age?"
+  },
+  {
+   "style": "modern",
+   "q": "Do we start believing in ourselves as indispensable by living apart?"
+  }
+ ],
+ "dawn-326-1": [
+  {
+   "style": "direct",
+   "q": "Can we know our own power?"
+  },
+  {
+   "style": "modern",
+   "q": "Are our capabilities dependent on circumstances?"
+  }
+ ],
+ "dawn-327-1": [
+  {
+   "style": "direct",
+   "q": "What is the Don Juan of knowledge?"
+  },
+  {
+   "style": "casual",
+   "q": "What does the seeker of knowledge end up longing for?"
+  }
+ ],
+ "dawn-328-1": [
+  {
+   "style": "direct",
+   "q": "Where do we find idealistic theories?"
+  },
+  {
+   "style": "modern",
+   "q": "Do practical, unscrupulous people adopt idealism for their reputation?"
+  }
+ ],
+ "dawn-329-1": [
+  {
+   "style": "direct",
+   "q": "Why do the deeply wounded suspect cheerfulness?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do some people distrust joy?"
+  }
+ ],
+ "dawn-331-1": [
+  {
+   "style": "direct",
+   "q": "For whom is asceticism the proper mode of thinking?"
+  },
+  {
+   "style": "casual",
+   "q": "Is asceticism for everyone?"
+  }
+ ],
+ "dawn-332-1": [
+  {
+   "style": "direct",
+   "q": "What is the bombastic style?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do artists who want to elevate others become pompous?"
+  }
+ ],
+ "dawn-333-1": [
+  {
+   "style": "direct",
+   "q": "Do animals consider us moral?"
+  },
+  {
+   "style": "casual",
+   "q": "What would an animal say about humanity?"
+  }
+ ],
+ "dawn-335-1": [
+  {
+   "style": "direct",
+   "q": "What does it take to practise the humane dissimulation known as love and kindness?"
+  },
+  {
+   "style": "modern",
+   "q": "Is kindness a kind of honest pretense?"
+  }
+ ],
+ "dawn-336-1": [
+  {
+   "style": "direct",
+   "q": "What are we capable of?"
+  },
+  {
+   "style": "modern",
+   "q": "Could the right circumstances drive anyone to do terrible things?"
+  }
+ ],
+ "dawn-337-1": [
+  {
+   "style": "direct",
+   "q": "What is the last praise for an artificial artist?"
+  },
+  {
+   "style": "casual",
+   "q": "Is it better for an artist to be natural in his defects?"
+  }
+ ],
+ "dawn-339-1": [
+  {
+   "style": "direct",
+   "q": "How do our duties change over time?"
+  },
+  {
+   "style": "challenge",
+   "q": "Kant demanded that duty always be burdensome. Isn't that the mark of true morality?"
+  }
+ ],
+ "dawn-341-1": [
+  {
+   "style": "direct",
+   "q": "What is the advantage of ignorance?"
+  },
+  {
+   "style": "modern",
+   "q": "Could I be ignorant of my own temperament, as the man in the story?"
+  }
+ ],
+ "dawn-342-1": [
+  {
+   "style": "direct",
+   "q": "Why should we not be deceived by someone who examines everything?"
+  },
+  {
+   "style": "casual",
+   "q": "Is a careful critic really an expert or a buyer?"
+  }
+ ],
+ "dawn-343-1": [
+  {
+   "style": "direct",
+   "q": "What is a moral pretence?"
+  },
+  {
+   "style": "modern",
+   "q": "Is refusing to be dissatisfied with oneself a cowardice?"
+  }
+ ],
+ "dawn-344-1": [
+  {
+   "style": "direct",
+   "q": "Why must we allow admirers to find fault?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do we resent people who are relentlessly excellent?"
+  }
+ ],
+ "dawn-345-1": [
+  {
+   "style": "direct",
+   "q": "Is our happiness an argument for or against wisdom?"
+  },
+  {
+   "style": "modern",
+   "q": "Does a philosophy have to make me happy to be valid?"
+  }
+ ],
+ "dawn-347-1": [
+  {
+   "style": "direct",
+   "q": "What does silence teach the orator?"
+  },
+  {
+   "style": "casual",
+   "q": "Why were the Pythagoreans the best statesmen?"
+  }
+ ],
+ "dawn-348-1": [
+  {
+   "style": "direct",
+   "q": "What is the difference between one seeking power and one who possesses it?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do the powerful become fastidious?"
+  }
+ ],
+ "dawn-349-1": [
+  {
+   "style": "direct",
+   "q": "Is the act of dying less important than we say?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do we treat death with such veneration?"
+  }
+ ],
+ "dawn-350-1": [
+  {
+   "style": "direct",
+   "q": "What is the best way to promise?"
+  },
+  {
+   "style": "casual",
+   "q": "Why should we put a finger to our lips when we make a promise?"
+  }
+ ],
+ "dawn-351-1": [
+  {
+   "style": "direct",
+   "q": "Why do people set traps in conversation?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do some people prepare a joke for someone else to utter?"
+  }
+ ],
+ "dawn-352-1": [
+  {
+   "style": "direct",
+   "q": "Why do we feel we are the centre of the world when disgraced?"
+  },
+  {
+   "style": "modern",
+   "q": "When I'm embarrassed, I feel everyone is watching me. Why?"
+  }
+ ],
+ "dawn-353-1": [
+  {
+   "style": "direct",
+   "q": "Must the truth be told even if the world shatters?"
+  },
+  {
+   "style": "challenge",
+   "q": "Fichte said the truth must be told no matter what. Is he right?"
+  }
+ ],
+ "dawn-355-1": [
+  {
+   "style": "direct",
+   "q": "What should we make of an admirer who would crucify non-admirers?"
+  },
+  {
+   "style": "modern",
+   "q": "Beware the fan who demands everyone else admire too. Why?"
+  }
+ ],
+ "dawn-356-1": [
+  {
+   "style": "direct",
+   "q": "What is the effect of happiness?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do happy people give gifts, mock, or destroy things?"
+  }
+ ],
+ "dawn-357-1": [
+  {
+   "style": "direct",
+   "q": "What are moral mosquitoes?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do some moralists enjoy pricking their neighbours?"
+  }
+ ],
+ "dawn-358-1": [
+  {
+   "style": "direct",
+   "q": "Why do we give reasons for our dislikes?"
+  },
+  {
+   "style": "modern",
+   "q": "I dislike someone and list good reasons. Are they my real reasons?"
+  }
+ ],
+ "dawn-359-1": [
+  {
+   "style": "direct",
+   "q": "Why do we approve of marriage?"
+  },
+  {
+   "style": "challenge",
+   "q": "Doesn't the widespread approval of marriage prove its value?"
+  }
+ ],
+ "dawn-360-1": [
+  {
+   "style": "direct",
+   "q": "What was the Greek view of power and utility?"
+  },
+  {
+   "style": "modern",
+   "q": "Is power that has suffered better than powerlessness that is treated kindly?"
+  }
+ ],
+ "dawn-361-1": [
+  {
+   "style": "direct",
+   "q": "Why does moderation appear ugly to the immoderate?"
+  },
+  {
+   "style": "casual",
+   "q": "Is moderation beautiful?"
+  }
+ ],
+ "dawn-362-1": [
+  {
+   "style": "direct",
+   "q": "What are the different ways men hate?"
+  },
+  {
+   "style": "modern",
+   "q": "Some people hate only when they're tired; others only when they can take revenge. Which is worse?"
+  }
+ ],
+ "dawn-364-1": [
+  {
+   "style": "direct",
+   "q": "How should we choose our environment?"
+  },
+  {
+   "style": "modern",
+   "q": "Am I in a place where I only complain?"
+  }
+ ],
+ "dawn-365-1": [
+  {
+   "style": "direct",
+   "q": "What is vanity?"
+  },
+  {
+   "style": "modern",
+   "q": "Are vain people really lacking originality or pride?"
+  }
+ ],
+ "dawn-366-1": [
+  {
+   "style": "direct",
+   "q": "Why does the criminal suffer when caught?"
+  },
+  {
+   "style": "modern",
+   "q": "Is remorse in criminals genuine or just embarrassment at being caught?"
+  }
+ ],
+ "dawn-367-1": [
+  {
+   "style": "direct",
+   "q": "Why did the Cynics always appear happy?"
+  },
+  {
+   "style": "modern",
+   "q": "If I pretend to be happy long enough, will I become so?"
+  }
+ ],
+ "dawn-368-1": [
+  {
+   "style": "direct",
+   "q": "What causes much misunderstanding between different moralities?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do energetic people misunderstand calm, patient ones and vice versa?"
+  }
+ ],
+ "dawn-370-1": [
+  {
+   "style": "direct",
+   "q": "How should a thinker treat his own opposing thoughts?"
+  },
+  {
+   "style": "modern",
+   "q": "How do I avoid confirmation bias in my thinking?"
+  }
+ ],
+ "dawn-371-1": [
+  {
+   "style": "direct",
+   "q": "What is the evil of strength?"
+  },
+  {
+   "style": "modern",
+   "q": "Is anger just an attempt to relieve a physical build-up?"
+  }
+ ],
+ "dawn-374-1": [
+  {
+   "style": "direct",
+   "q": "How does the questioning of the state's right to sacrifice individuals affect self-sacrifice?"
+  },
+  {
+   "style": "casual",
+   "q": "Why does self-sacrifice rise in value as the state's rights fall?"
+  }
+ ],
+ "dawn-375-1": [
+  {
+   "style": "direct",
+   "q": "Why do we articulate our words too distinctly?"
+  },
+  {
+   "style": "modern",
+   "q": "When should I simplify my communications?"
+  }
+ ],
+ "dawn-376-1": [
+  {
+   "style": "direct",
+   "q": "What is the best remedy for weariness of the self?"
+  },
+  {
+   "style": "modern",
+   "q": "I'm sick of myself. What should I do?"
+  }
+ ],
+ "dawn-378-1": [
+  {
+   "style": "direct",
+   "q": "Why not paint God or the devil on your walls?"
+  },
+  {
+   "style": "casual",
+   "q": "How do you keep the walls clean?"
+  }
+ ],
+ "dawn-380-1": [
+  {
+   "style": "direct",
+   "q": "What is the most effective consolation?"
+  },
+  {
+   "style": "modern",
+   "q": "What do I say to someone who is inconsolable?"
+  }
+ ],
+ "dawn-381-1": [
+  {
+   "style": "direct",
+   "q": "How do strangers see us?"
+  },
+  {
+   "style": "modern",
+   "q": "Am I misjudged by first impressions?"
+  }
+ ],
+ "dawn-382-1": [
+  {
+   "style": "direct",
+   "q": "Should the thinker be a gardener or the soil?"
+  },
+  {
+   "style": "modern",
+   "q": "Do my dark moods produce thoughts I mistake for truth?"
+  }
+ ],
+ "dawn-383-1": [
+  {
+   "style": "direct",
+   "q": "Why do we act insincerely when we pity a friend?"
+  },
+  {
+   "style": "modern",
+   "q": "How do I talk to a sick friend without lying?"
+  }
+ ],
+ "dawn-384-1": [
+  {
+   "style": "direct",
+   "q": "Why do some pusillanimous artists disbelieve in sympathy?"
+  },
+  {
+   "style": "casual",
+   "q": "Why do melancholy artists enjoy appearing ridiculous?"
+  }
+ ],
+ "dawn-385-1": [
+  {
+   "style": "direct",
+   "q": "Why are vain people like shop-windows?"
+  },
+  {
+   "style": "modern",
+   "q": "Do I arrange my qualities to deceive myself?"
+  }
+ ],
+ "dawn-387-1": [
+  {
+   "style": "direct",
+   "q": "What is the reflection before marriage?"
+  },
+  {
+   "style": "casual",
+   "q": "Should we choose the burden we prefer?"
+  }
+ ],
+ "dawn-389-1": [
+  {
+   "style": "direct",
+   "q": "How do awkward, good people respond to politeness?"
+  },
+  {
+   "style": "casual",
+   "q": "Why do some people return a courtesy with an enormous favour?"
+  }
+ ],
+ "dawn-390-1": [
+  {
+   "style": "direct",
+   "q": "Why do we call someone evil for hiding his intelligence?"
+  },
+  {
+   "style": "modern",
+   "q": "Someone pretends to be less smart around me. Why does that feel insulting?"
+  }
+ ],
+ "dawn-392-1": [
+  {
+   "style": "direct",
+   "q": "What is the condition of politeness?"
+  },
+  {
+   "style": "casual",
+   "q": "Why must one be more or less polite than the other?"
+  }
+ ],
+ "dawn-395-1": [
+  {
+   "style": "direct",
+   "q": "Why does the thinker contemplate?"
+  },
+  {
+   "style": "modern",
+   "q": "Do thinkers think from fear or from desire?"
+  }
+ ],
+ "dawn-396-1": [
+  {
+   "style": "direct",
+   "q": "What are the thinkers hunting for?"
+  },
+  {
+   "style": "casual",
+   "q": "Do we love the hunt more than the prize?"
+  }
+ ],
+ "dawn-398-1": [
+  {
+   "style": "direct",
+   "q": "How can we recognise the choleric in a struggle?"
+  },
+  {
+   "style": "casual",
+   "q": "Does the angrier person always lose?"
+  }
+ ],
+ "dawn-399-1": [
+  {
+   "style": "direct",
+   "q": "Why does self-excuse make us disbelieve someone?"
+  },
+  {
+   "style": "modern",
+   "q": "The more someone justifies themselves, the guiltier they seem. Why?"
+  }
+ ],
+ "dawn-402-1": [
+  {
+   "style": "direct",
+   "q": "What is another form of toleration?"
+  },
+  {
+   "style": "casual",
+   "q": "Why do some praise suffering as sweetening?"
+  }
+ ],
+ "dawn-404-1": [
+  {
+   "style": "direct",
+   "q": "Why do we so seldom do justice?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do people fighting for a good cause commit injustices elsewhere?"
+  }
+ ],
+ "dawn-405-1": [
+  {
+   "style": "direct",
+   "q": "What does the love of luxury reveal?"
+  },
+  {
+   "style": "casual",
+   "q": "Why does the soul prefer the superfluous?"
+  }
+ ],
+ "dawn-406-1": [
+  {
+   "style": "direct",
+   "q": "Why must you consider before killing your opponent?"
+  },
+  {
+   "style": "casual",
+   "q": "Can you immortalise your enemy in yourself?"
+  }
+ ],
+ "dawn-407-1": [
+  {
+   "style": "direct",
+   "q": "Why do we arouse suspicion when we tell the truth against our character?"
+  },
+  {
+   "style": "modern",
+   "q": "Why don't people believe me when I say something out of character?"
+  }
+ ],
+ "dawn-409-1": [
+  {
+   "style": "direct",
+   "q": "What are the illnesses that go together?"
+  },
+  {
+   "style": "casual",
+   "q": "What links premature old age, ugliness and pessimism?"
+  }
+ ],
+ "dawn-411-1": [
+  {
+   "style": "direct",
+   "q": "How should we bid farewell to a passion?"
+  },
+  {
+   "style": "modern",
+   "q": "Can hatred of a vice become a vice itself?"
+  }
+ ],
+ "dawn-413-1": [
+  {
+   "style": "direct",
+   "q": "What does the accuser reveal?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do those who accuse the loudest often turn out worse?"
+  }
+ ],
+ "dawn-414-1": [
+  {
+   "style": "direct",
+   "q": "What does extreme devotion to a person or party reveal?"
+  },
+  {
+   "style": "modern",
+   "q": "Do we blind ourselves to punish our eyes for seeing too much?"
+  }
+ ],
+ "dawn-417-1": [
+  {
+   "style": "direct",
+   "q": "What is the limit of humility?"
+  },
+  {
+   "style": "casual",
+   "q": "Can anyone say \"I believe because I am absurd\"?"
+  }
+ ],
+ "dawn-418-1": [
+  {
+   "style": "direct",
+   "q": "Why are some men truthful?"
+  },
+  {
+   "style": "modern",
+   "q": "Am I honest because I'm a poor actor?"
+  }
+ ],
+ "dawn-419-1": [
+  {
+   "style": "direct",
+   "q": "What do the sheep and the bell-wether think?"
+  },
+  {
+   "style": "casual",
+   "q": "Who is following whom, the flock or the leader?"
+  }
+ ],
+ "dawn-420-1": [
+  {
+   "style": "direct",
+   "q": "What is the cunning of the victim?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do we set up situations where the person we've sacrificed for looks as we want them to?"
+  }
+ ],
+ "dawn-421-1": [
+  {
+   "style": "direct",
+   "q": "Why do some want to be seen only through others' eyes?"
+  },
+  {
+   "style": "casual",
+   "q": "Is it wise to only be seen through others' eyes?"
+  }
+ ],
+ "dawn-422-1": [
+  {
+   "style": "direct",
+   "q": "Why is making others happy so gratifying?"
+  },
+  {
+   "style": "modern",
+   "q": "Why does helping others feel better than my own pleasures?"
+  }
+ ],
+ "dawn-423-1": [
+  {
+   "style": "direct",
+   "q": "What does the silence of the sea and evening teach?"
+  },
+  {
+   "style": "modern",
+   "q": "Why does nature's silence make me want to stop speaking and thinking?"
+  },
+  {
+   "style": "casual",
+   "q": "Are the sea and evening bad teachers?"
+  }
+ ],
+ "dawn-424-1": [
+  {
+   "style": "direct",
+   "q": "For whom does the truth exist?"
+  },
+  {
+   "style": "challenge",
+   "q": "If a truth doesn't console or help us, why pursue it?"
+  },
+  {
+   "style": "modern",
+   "q": "Does science fail because it's cold and doesn't comfort us?"
+  }
+ ],
+ "dawn-425-1": [
+  {
+   "style": "direct",
+   "q": "Why do you call us gods in exile?"
+  },
+  {
+   "style": "modern",
+   "q": "Has our morality made us suffering creatures?"
+  }
+ ],
+ "dawn-426-1": [
+  {
+   "style": "direct",
+   "q": "How did the Greeks see nature differently because of colour-blindness?"
+  },
+  {
+   "style": "modern",
+   "q": "Does every thinker see the world in fewer colours than really exist?"
+  }
+ ],
+ "dawn-427-1": [
+  {
+   "style": "direct",
+   "q": "Why does philosophy try to embellish science?"
+  },
+  {
+   "style": "modern",
+   "q": "Is philosophy a kind of landscape gardening for science?"
+  }
+ ],
+ "dawn-428-1": [
+  {
+   "style": "direct",
+   "q": "What is the difference between observing and interpreting moral laws?"
+  },
+  {
+   "style": "casual",
+   "q": "Are there two kinds of moralists?"
+  }
+ ],
+ "dawn-429-1": [
+  {
+   "style": "direct",
+   "q": "Why do we fear a return to barbarism?"
+  },
+  {
+   "style": "modern",
+   "q": "Would you choose knowledge over happiness, even if it destroys humanity?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't happiness more important than knowledge?"
+  }
+ ],
+ "dawn-430-1": [
+  {
+   "style": "direct",
+   "q": "Why is it heroic to do the dirty but necessary tasks?"
+  },
+  {
+   "style": "casual",
+   "q": "What does cleaning the stables of Hercules teach us?"
+  }
+ ],
+ "dawn-431-1": [
+  {
+   "style": "direct",
+   "q": "How can we measure the subtlety of a mind?"
+  },
+  {
+   "style": "modern",
+   "q": "Do the smartest people idealise their opponents before arguing with them?"
+  }
+ ],
+ "dawn-432-1": [
+  {
+   "style": "direct",
+   "q": "Why is there no exclusive method of knowing in science?"
+  },
+  {
+   "style": "modern",
+   "q": "Are scientists more like policemen, confessors, or travellers?"
+  }
+ ],
+ "dawn-433-1": [
+  {
+   "style": "direct",
+   "q": "What does the realism of modern art tell us about happiness?"
+  },
+  {
+   "style": "modern",
+   "q": "Is realism in art the beauty of scientific knowledge?"
+  }
+ ],
+ "dawn-434-1": [
+  {
+   "style": "direct",
+   "q": "Why do great painters choose unassuming subjects?"
+  },
+  {
+   "style": "casual",
+   "q": "Do inferior painters need remarkable regions?"
+  }
+ ],
+ "dawn-436-1": [
+  {
+   "style": "direct",
+   "q": "What should we do if we discover that the captain is making mistakes?"
+  },
+  {
+   "style": "modern",
+   "q": "If I know more than my boss, should I take over?"
+  }
+ ],
+ "dawn-437-1": [
+  {
+   "style": "direct",
+   "q": "What privileges does the man who owns himself have?"
+  },
+  {
+   "style": "casual",
+   "q": "Can you punish, pardon, and pity yourself?"
+  }
+ ],
+ "dawn-439-1": [
+  {
+   "style": "direct",
+   "q": "What are the characteristics of happiness?"
+  },
+  {
+   "style": "casual",
+   "q": "What do fishes and happiness have in common?"
+  }
+ ],
+ "dawn-440-1": [
+  {
+   "style": "direct",
+   "q": "Why should a thinker never renounce?"
+  },
+  {
+   "style": "modern",
+   "q": "Is solitude a renunciation for the contemplative person or a gain?"
+  }
+ ],
+ "dawn-441-1": [
+  {
+   "style": "direct",
+   "q": "Why do the nearest things become more distant for us?"
+  },
+  {
+   "style": "modern",
+   "q": "Does thinking about the past and future make the present pale?"
+  }
+ ],
+ "dawn-442-1": [
+  {
+   "style": "direct",
+   "q": "Why is the rule more interesting than the exception?"
+  },
+  {
+   "style": "casual",
+   "q": "What is a sign of progress in knowledge?"
+  }
+ ],
+ "dawn-443-1": [
+  {
+   "style": "direct",
+   "q": "What is the great defect in our methods of education?"
+  },
+  {
+   "style": "modern",
+   "q": "Should schools teach us how to endure solitude?"
+  }
+ ],
+ "dawn-444-1": [
+  {
+   "style": "direct",
+   "q": "Why are we surprised that we can see through something and yet not penetrate it?"
+  },
+  {
+   "style": "casual",
+   "q": "Are we like flies on a pane of glass?"
+  }
+ ],
+ "dawn-445-1": [
+  {
+   "style": "direct",
+   "q": "Where are the noblest mistaken in love?"
+  },
+  {
+   "style": "modern",
+   "q": "I gave someone my most treasured thing and they didn't value it. Why?"
+  }
+ ],
+ "dawn-446-1": [
+  {
+   "style": "direct",
+   "q": "What is the hierarchy of thinkers?"
+  },
+  {
+   "style": "casual",
+   "q": "Who are the lovers of obscurity?"
+  }
+ ],
+ "dawn-448-1": [
+  {
+   "style": "direct",
+   "q": "How should a sage honour reality?"
+  },
+  {
+   "style": "modern",
+   "q": "Should the thinker avoid experience to keep his reason?"
+  }
+ ],
+ "dawn-449-1": [
+  {
+   "style": "direct",
+   "q": "Why does the thinker not like to impose his thoughts on others?"
+  },
+  {
+   "style": "modern",
+   "q": "Would you like to be a confessor to the troubled mind?"
+  }
+ ],
+ "dawn-449-2": [
+  {
+   "style": "direct",
+   "q": "What would the life of a physician to the poor in spirit be like?"
+  },
+  {
+   "style": "modern",
+   "q": "Is being a humble helper who is forgotten a reason for a long life?"
+  }
+ ],
+ "dawn-450-1": [
+  {
+   "style": "direct",
+   "q": "What are the temptations of knowledge?"
+  },
+  {
+   "style": "casual",
+   "q": "Why does the gate of science charm passionate spirits?"
+  }
+ ],
+ "dawn-451-1": [
+  {
+   "style": "direct",
+   "q": "Why do the powerful need a court jester?"
+  },
+  {
+   "style": "modern",
+   "q": "Why don't powerful people ever hear the honest truth?"
+  }
+ ],
+ "dawn-452-1": [
+  {
+   "style": "direct",
+   "q": "How does impatience create a powerful practical man?"
+  },
+  {
+   "style": "modern",
+   "q": "Can a flaw in character become the school of genius?"
+  }
+ ],
+ "dawn-453-1": [
+  {
+   "style": "direct",
+   "q": "What will replace moral feelings and judgments?"
+  },
+  {
+   "style": "modern",
+   "q": "We live in a moral interregnum. What should we do?"
+  }
+ ],
+ "dawn-454-1": [
+  {
+   "style": "direct",
+   "q": "How should this book be read?"
+  },
+  {
+   "style": "casual",
+   "q": "Why shouldn't a book be read at once?"
+  }
+ ],
+ "dawn-455-1": [
+  {
+   "style": "direct",
+   "q": "What is the primary nature?"
+  },
+  {
+   "style": "modern",
+   "q": "Do most of us lose our primary nature under a secondary one?"
+  }
+ ],
+ "dawn-457-1": [
+  {
+   "style": "direct",
+   "q": "What is final taciturnity?"
+  },
+  {
+   "style": "modern",
+   "q": "Why does knowing someone's secrets make it hard to speak of them?"
+  }
+ ],
+ "dawn-458-1": [
+  {
+   "style": "direct",
+   "q": "What is the great prize?"
+  },
+  {
+   "style": "casual",
+   "q": "Who is the rarest, most delightful sort of man?"
+  }
+ ],
+ "dawn-459-1": [
+  {
+   "style": "direct",
+   "q": "Why did Rousseau and Schopenhauer suffer in their pride?"
+  },
+  {
+   "style": "modern",
+   "q": "What does it mean when your life doesn't match your knowledge?"
+  }
+ ],
+ "dawn-460-1": [
+  {
+   "style": "direct",
+   "q": "How do hours of danger make us psychologists?"
+  },
+  {
+   "style": "modern",
+   "q": "Are we too safe to be good psychologists?"
+  }
+ ],
+ "dawn-461-1": [
+  {
+   "style": "direct",
+   "q": "What music corresponds to the ideal thinker?"
+  },
+  {
+   "style": "casual",
+   "q": "Can music express the joy of thinking?"
+  }
+ ],
+ "dawn-462-1": [
+  {
+   "style": "direct",
+   "q": "How can chronic illnesses of the soul be cured?"
+  },
+  {
+   "style": "modern",
+   "q": "What small daily habits could heal a troubled mind?"
+  }
+ ],
+ "dawn-463-1": [
+  {
+   "style": "direct",
+   "q": "What does the creator say about praise for his work?"
+  },
+  {
+   "style": "casual",
+   "q": "Am I above the vanity of the creator?"
+  }
+ ],
+ "dawn-464-1": [
+  {
+   "style": "direct",
+   "q": "What is the donor's modesty?"
+  },
+  {
+   "style": "modern",
+   "q": "Is it more generous to give anonymously?"
+  },
+  {
+   "style": "challenge",
+   "q": "Doesn't the belief in a God who watches over us bring comfort?"
+  }
+ ],
+ "dawn-465-1": [
+  {
+   "style": "direct",
+   "q": "What do you feel after examining something to its depths?"
+  },
+  {
+   "style": "casual",
+   "q": "Why does examining a thing deeply bring sorrow?"
+  }
+ ],
+ "dawn-466-1": [
+  {
+   "style": "direct",
+   "q": "What is the loss in becoming famous?"
+  },
+  {
+   "style": "modern",
+   "q": "Does fame cost us half our virtue?"
+  }
+ ],
+ "dawn-467-1": [
+  {
+   "style": "direct",
+   "q": "What does it mean to suffer doubly for hurting others?"
+  },
+  {
+   "style": "modern",
+   "q": "I know my decision will hurt people and they will resent me. Should I still do it?"
+  }
+ ],
+ "dawn-468-1": [
+  {
+   "style": "direct",
+   "q": "Why is the kingdom of beauty greater than that of morality?"
+  },
+  {
+   "style": "modern",
+   "q": "Can we find beauty in evil men, as in a savage landscape?"
+  },
+  {
+   "style": "challenge",
+   "q": "Beauty and goodness go together, don't they?"
+  }
+ ],
+ "dawn-469-1": [
+  {
+   "style": "direct",
+   "q": "What is the inhumanity of the sage?"
+  },
+  {
+   "style": "modern",
+   "q": "Why does a wise teacher need to show his weaknesses?"
+  }
+ ],
+ "dawn-470-1": [
+  {
+   "style": "direct",
+   "q": "Why does one like to be fed by the many without being examined?"
+  },
+  {
+   "style": "casual",
+   "q": "Why not carry your name on your beak?"
+  }
+ ],
+ "dawn-471-1": [
+  {
+   "style": "direct",
+   "q": "What is another form of love for one's neighbour?"
+  },
+  {
+   "style": "modern",
+   "q": "Do people with a quiet, intense passion seem cold?"
+  }
+ ],
+ "dawn-472-1": [
+  {
+   "style": "direct",
+   "q": "Why do you refuse to justify yourself?"
+  },
+  {
+   "style": "modern",
+   "q": "Should I defend myself when I'm falsely accused?"
+  }
+ ],
+ "dawn-473-1": [
+  {
+   "style": "direct",
+   "q": "Where should one build one's house?"
+  },
+  {
+   "style": "modern",
+   "q": "Where should I live, in the crowd or in solitude?"
+  }
+ ],
+ "dawn-474-1": [
+  {
+   "style": "direct",
+   "q": "Is dialectic the only means of reaching the divine essence?"
+  },
+  {
+   "style": "challenge",
+   "q": "Plato said dialectic reveals the truth. Isn't he right?"
+  },
+  {
+   "style": "modern",
+   "q": "Have all the great passions of mankind been for something non-existent?"
+  }
+ ],
+ "dawn-475-1": [
+  {
+   "style": "direct",
+   "q": "Why do we misjudge someone who burdens himself with weights?"
+  },
+  {
+   "style": "casual",
+   "q": "Can a person carry heavy things and still fly?"
+  }
+ ],
+ "dawn-476-1": [
+  {
+   "style": "direct",
+   "q": "What is the harvest thanksgiving of the intellect?"
+  },
+  {
+   "style": "modern",
+   "q": "Is the weight of accumulated experience and knowledge crushing to happiness?"
+  }
+ ],
+ "dawn-477-1": [
+  {
+   "style": "direct",
+   "q": "What comes after scepticism?"
+  },
+  {
+   "style": "modern",
+   "q": "How can a person get through moral scepticism and become stronger?"
+  }
+ ],
+ "dawn-478-1": [
+  {
+   "style": "direct",
+   "q": "Why should we spare the solitary man?"
+  },
+  {
+   "style": "casual",
+   "q": "What does the cracked glass symbolise?"
+  }
+ ],
+ "dawn-479-1": [
+  {
+   "style": "direct",
+   "q": "How does love make us dishonest about the truth?"
+  },
+  {
+   "style": "modern",
+   "q": "Should a thinker keep his distance from those he loves?"
+  }
+ ],
+ "dawn-480-1": [
+  {
+   "style": "direct",
+   "q": "What is inevitable when someone dislikes you?"
+  },
+  {
+   "style": "modern",
+   "q": "No matter what I do, some people find a reason to criticise me. Why?"
+  }
+ ],
+ "dawn-481-1": [
+  {
+   "style": "direct",
+   "q": "What is the difference between Kant and Schopenhauer and the great souls?"
+  },
+  {
+   "style": "challenge",
+   "q": "Kant and Schopenhauer were great philosophers. Why do you criticise their lack of soul?"
+  }
+ ],
+ "dawn-482-1": [
+  {
+   "style": "direct",
+   "q": "What company should we seek?"
+  },
+  {
+   "style": "casual",
+   "q": "What is a philosopher's modest name?"
+  }
+ ],
+ "dawn-483-1": [
+  {
+   "style": "direct",
+   "q": "Why am I satiated with mankind?"
+  },
+  {
+   "style": "modern",
+   "q": "Is it possible to know anything except as a human being?"
+  }
+ ],
+ "dawn-484-1": [
+  {
+   "style": "direct",
+   "q": "What happens when we take our own path?"
+  },
+  {
+   "style": "modern",
+   "q": "My friends judged me when I decided to change my life. Why?"
+  }
+ ],
+ "dawn-485-1": [
+  {
+   "style": "direct",
+   "q": "Why do you love solitude?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do I think better of my friends when I'm apart from them?"
+  }
+ ],
+ "dawn-486-1": [
+  {
+   "style": "direct",
+   "q": "What is the fate of the man who turns everything to gold?"
+  },
+  {
+   "style": "casual",
+   "q": "What does he long for when everything is gold?"
+  }
+ ],
+ "dawn-487-1": [
+  {
+   "style": "direct",
+   "q": "What shame does the weary thinker feel?"
+  },
+  {
+   "style": "casual",
+   "q": "What is the tired horseman?"
+  }
+ ],
+ "dawn-488-1": [
+  {
+   "style": "direct",
+   "q": "Why should we blush at strong affections?"
+  },
+  {
+   "style": "modern",
+   "q": "Someone said they love me more than others. Why does that make me uncomfortable?"
+  }
+ ],
+ "dawn-489-1": [
+  {
+   "style": "direct",
+   "q": "How should we treat a friend who sympathises with someone else more than with us?"
+  },
+  {
+   "style": "modern",
+   "q": "My friend seems closer to someone else. Should I let them go?"
+  }
+ ],
+ "dawn-490-1": [
+  {
+   "style": "direct",
+   "q": "Are truths great because we paid for them with our blood?"
+  },
+  {
+   "style": "challenge",
+   "q": "You don't understand my truths because you haven't suffered for them."
+  }
+ ],
+ "dawn-491-1": [
+  {
+   "style": "direct",
+   "q": "Why do you return to the desert?"
+  },
+  {
+   "style": "modern",
+   "q": "I think better when I'm alone. Is that selfish?"
+  }
+ ],
+ "dawn-492-1": [
+  {
+   "style": "direct",
+   "q": "What is the south wind illness?"
+  },
+  {
+   "style": "casual",
+   "q": "Why do our moods change from ardent to dark?"
+  }
+ ],
+ "dawn-493-1": [
+  {
+   "style": "direct",
+   "q": "Should I prefer my own thoughts?"
+  },
+  {
+   "style": "modern",
+   "q": "Is it foolish to value only my own ideas?"
+  }
+ ],
+ "dawn-494-1": [
+  {
+   "style": "direct",
+   "q": "What is the last argument of the brave man?"
+  },
+  {
+   "style": "casual",
+   "q": "Should we risk our lives to kill the snakes?"
+  }
+ ],
+ "dawn-495-1": [
+  {
+   "style": "direct",
+   "q": "Why do we choose the wrong teachers in youth?"
+  },
+  {
+   "style": "modern",
+   "q": "I picked mentors from my own time and regret it. What should I do?"
+  }
+ ],
+ "dawn-496-1": [
+  {
+   "style": "direct",
+   "q": "Why is the philosopher seen as depraved by society?"
+  },
+  {
+   "style": "modern",
+   "q": "Would Plato be worshipped now if his political attempts had succeeded?"
+  }
+ ],
+ "dawn-497-1": [
+  {
+   "style": "direct",
+   "q": "What is the purifying eye?"
+  },
+  {
+   "style": "modern",
+   "q": "What is the difference between genius that rises above the temperament and genius that expresses it?"
+  }
+ ],
+ "dawn-498-1": [
+  {
+   "style": "direct",
+   "q": "Why should you never demand submission from a certain man?"
+  },
+  {
+   "style": "casual",
+   "q": "Why do demands make some people proud and bashful?"
+  }
+ ],
+ "dawn-499-1": [
+  {
+   "style": "direct",
+   "q": "Are only the solitary evil?"
+  },
+  {
+   "style": "modern",
+   "q": "Are people more honest and more themselves in solitude?"
+  }
+ ],
+ "dawn-500-1": [
+  {
+   "style": "direct",
+   "q": "What happens if a thinker forces himself to think against the grain?"
+  },
+  {
+   "style": "modern",
+   "q": "My job forces me to think about things I don't care about. Is that harming me?"
+  }
+ ],
+ "dawn-501-1": [
+  {
+   "style": "direct",
+   "q": "What is the most useful conquest for knowledge?"
+  },
+  {
+   "style": "modern",
+   "q": "How did abandoning belief in immortality free thinkers to experiment?"
+  },
+  {
+   "style": "challenge",
+   "q": "Doesn't belief in the immortal soul give life meaning?"
+  }
+ ],
+ "dawn-502-1": [
+  {
+   "style": "direct",
+   "q": "What is the meaning of the word \"divine\" for passion?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do people seem more relatable when they are in a passionate storm?"
+  }
+ ],
+ "dawn-504-1": [
+  {
+   "style": "direct",
+   "q": "Should philosophy reconcile what a child learns with what a man recognises?"
+  },
+  {
+   "style": "casual",
+   "q": "Why are philosophers young when they set out their conceptions?"
+  }
+ ],
+ "dawn-505-1": [
+  {
+   "style": "direct",
+   "q": "Who decides good taste, thinkers or practical people?"
+  },
+  {
+   "style": "modern",
+   "q": "Do practical people depend more on thinkers than they realise?"
+  }
+ ],
+ "dawn-506-1": [
+  {
+   "style": "direct",
+   "q": "Why must every good work dry up before it shines?"
+  },
+  {
+   "style": "modern",
+   "q": "Do great works only reach their full value after their era has passed?"
+  }
+ ],
+ "dawn-507-1": [
+  {
+   "style": "direct",
+   "q": "Why do you oppose the tyranny of truth?"
+  },
+  {
+   "style": "challenge",
+   "q": "Shouldn't truth be the only thing we value?"
+  },
+  {
+   "style": "modern",
+   "q": "Can we rest from truth in falsehood?"
+  }
+ ],
+ "dawn-508-1": [
+  {
+   "style": "direct",
+   "q": "Why should we not take things pathetically?"
+  },
+  {
+   "style": "modern",
+   "q": "Should I expect praise for things I do for my own benefit?"
+  }
+ ],
+ "dawn-509-1": [
+  {
+   "style": "direct",
+   "q": "What is the third eye?"
+  },
+  {
+   "style": "modern",
+   "q": "How can I become a spectator of my own life?"
+  }
+ ],
+ "dawn-510-1": [
+  {
+   "style": "direct",
+   "q": "Why should a thinker escape his own virtues?"
+  },
+  {
+   "style": "casual",
+   "q": "Is a thinker more than a moral being?"
+  }
+ ],
+ "dawn-512-1": [
+  {
+   "style": "direct",
+   "q": "Why is a man bold towards things but timid towards persons?"
+  },
+  {
+   "style": "casual",
+   "q": "Why are some people afraid of new acquaintances?"
+  }
+ ],
+ "dawn-513-1": [
+  {
+   "style": "direct",
+   "q": "Why do fine cultures need restricted views?"
+  },
+  {
+   "style": "modern",
+   "q": "Are broad thinkers less beautiful than specialised ones?"
+  }
+ ],
+ "dawn-514-1": [
+  {
+   "style": "direct",
+   "q": "What do the weaker ask of the stronger intellects?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do strong minds put burdens on others?"
+  }
+ ],
+ "dawn-515-1": [
+  {
+   "style": "direct",
+   "q": "Why has beauty increased with civilisation?"
+  },
+  {
+   "style": "casual",
+   "q": "What are the three occasions of ugliness?"
+  }
+ ],
+ "dawn-516-1": [
+  {
+   "style": "direct",
+   "q": "What does a good man owe to himself?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't being selfless and living for others the highest good?"
+  },
+  {
+   "style": "modern",
+   "q": "Is hating oneself and living for others really unselfish?"
+  }
+ ],
+ "dawn-517-1": [
+  {
+   "style": "direct",
+   "q": "Why should we fear a man who hates himself?"
+  },
+  {
+   "style": "modern",
+   "q": "How do you deal with someone full of self-hatred?"
+  }
+ ],
+ "dawn-518-1": [
+  {
+   "style": "direct",
+   "q": "What is resignation?"
+  },
+  {
+   "style": "casual",
+   "q": "Is resignation just tiredness?"
+  }
+ ],
+ "dawn-519-1": [
+  {
+   "style": "direct",
+   "q": "Should a man of action close the door on doubt?"
+  },
+  {
+   "style": "modern",
+   "q": "Is certainty necessary for action?"
+  }
+ ],
+ "dawn-520-1": [
+  {
+   "style": "direct",
+   "q": "What are the eternal obsequies?"
+  },
+  {
+   "style": "casual",
+   "q": "Why is the funeral orator the greatest public benefactor?"
+  }
+ ],
+ "dawn-521-1": [
+  {
+   "style": "direct",
+   "q": "What is exceptional vanity?"
+  },
+  {
+   "style": "casual",
+   "q": "Why call a man vain for his one great quality?"
+  }
+ ],
+ "dawn-522-1": [
+  {
+   "style": "direct",
+   "q": "Why should we not listen to what people say about us?"
+  },
+  {
+   "style": "modern",
+   "q": "Is it wise to check what people think of me all the time?"
+  }
+ ],
+ "dawn-523-1": [
+  {
+   "style": "direct",
+   "q": "How can we penetrate someone's dissimulation?"
+  },
+  {
+   "style": "modern",
+   "q": "How do I tell what someone is hiding behind what they show?"
+  }
+ ],
+ "dawn-526-1": [
+  {
+   "style": "direct",
+   "q": "Why do princes turn into solemn ciphers?"
+  },
+  {
+   "style": "modern",
+   "q": "Are people in public roles forced to become symbols?"
+  }
+ ],
+ "dawn-527-1": [
+  {
+   "style": "direct",
+   "q": "Who are the hidden men?"
+  },
+  {
+   "style": "casual",
+   "q": "Why do some people erase their tracks?"
+  }
+ ],
+ "dawn-529-1": [
+  {
+   "style": "direct",
+   "q": "How do nations gain lustre?"
+  },
+  {
+   "style": "modern",
+   "q": "Do we avoid original actions for fear of being misunderstood?"
+  }
+ ],
+ "dawn-530-1": [
+  {
+   "style": "direct",
+   "q": "How does the course of a strict thinker resemble a stream?"
+  },
+  {
+   "style": "casual",
+   "q": "Why do gentle men think cruelly?"
+  }
+ ],
+ "dawn-531-1": [
+  {
+   "style": "direct",
+   "q": "How do our feelings toward art change when we live as a hermit?"
+  },
+  {
+   "style": "modern",
+   "q": "Why does art seem different once we live what it once represented?"
+  }
+ ],
+ "dawn-533-1": [
+  {
+   "style": "direct",
+   "q": "What does the eye of the actor and the painter see?"
+  },
+  {
+   "style": "modern",
+   "q": "What would it take to look at the human soul with the eyes of a painter?"
+  }
+ ],
+ "dawn-534-1": [
+  {
+   "style": "direct",
+   "q": "How should a deep change of values be made?"
+  },
+  {
+   "style": "modern",
+   "q": "Is radical change better in small doses or all at once?"
+  },
+  {
+   "style": "challenge",
+   "q": "Wasn't the French Revolution a necessary break?"
+  }
+ ],
+ "dawn-535-1": [
+  {
+   "style": "direct",
+   "q": "Does truth need power?"
+  },
+  {
+   "style": "modern",
+   "q": "Can truth survive without power on its side?"
+  }
+ ],
+ "dawn-538-1": [
+  {
+   "style": "direct",
+   "q": "What is the moral insanity of genius?"
+  },
+  {
+   "style": "modern",
+   "q": "Are the flaws of great minds symptoms of physiological weakness?"
+  }
+ ],
+ "dawn-539-1": [
+  {
+   "style": "direct",
+   "q": "Do you know what you want from the truth?"
+  },
+  {
+   "style": "modern",
+   "q": "How much do my moods and wishes determine what I see as true?"
+  }
+ ],
+ "dawn-540-1": [
+  {
+   "style": "direct",
+   "q": "Is talent acquired by study or is it a natural gift?"
+  },
+  {
+   "style": "modern",
+   "q": "Are great learners better than natural geniuses?"
+  }
+ ],
+ "dawn-541-1": [
+  {
+   "style": "direct",
+   "q": "How should we turn to stone?"
+  },
+  {
+   "style": "casual",
+   "q": "Can a person become like a precious stone?"
+  }
+ ],
+ "dawn-542-4": [
+  {
+   "style": "direct",
+   "q": "What happens to the thinker in old age?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do great thinkers try to found institutions late in life?"
+  }
+ ],
+ "dawn-543-1": [
+  {
+   "style": "direct",
+   "q": "Why must we not make passion an argument for truth?"
+  },
+  {
+   "style": "modern",
+   "q": "Do enthusiasts believe in their cause to quiet their own bad conscience?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't passion a sign that someone really believes in what he says?"
+  }
+ ],
+ "dawn-544-2": [
+  {
+   "style": "direct",
+   "q": "How is philosophy now practised?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do so many people want to be seen as intuitive, artistic geniuses?"
+  }
+ ],
+ "dawn-545-1": [
+  {
+   "style": "direct",
+   "q": "What must one have lived to speak of morality?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do we distrust people who pretend to have more experience than they do?"
+  }
+ ],
+ "dawn-546-1": [
+  {
+   "style": "direct",
+   "q": "What distinguishes Epictetus and his followers from Christians?"
+  },
+  {
+   "style": "challenge",
+   "q": "Weren't the Stoics just cold and lacking in compassion?"
+  },
+  {
+   "style": "modern",
+   "q": "Can a person be free and self-sufficient in the midst of servitude?"
+  }
+ ],
+ "dawn-547-1": [
+  {
+   "style": "direct",
+   "q": "Why has science been held back by the tyrants of the intellect?"
+  },
+  {
+   "style": "modern",
+   "q": "Why did philosophers seek to solve everything with one formula?"
+  },
+  {
+   "style": "casual",
+   "q": "What should be written over the door of the thinker of the future?"
+  }
+ ],
+ "dawn-548-1": [
+  {
+   "style": "direct",
+   "q": "What is victory over power?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do we still fall on our knees before power?"
+  },
+  {
+   "style": "casual",
+   "q": "What is the greatest thing that goes unnoticed in a great man?"
+  }
+ ],
+ "dawn-549-1": [
+  {
+   "style": "direct",
+   "q": "Why do intense people seek to flee from themselves?"
+  },
+  {
+   "style": "modern",
+   "q": "Is the desire for great deeds a flight from the self?"
+  }
+ ],
+ "dawn-550-1": [
+  {
+   "style": "direct",
+   "q": "What is the relation between knowledge and beauty?"
+  },
+  {
+   "style": "challenge",
+   "q": "Aren't romantic feeling and imagination more beautiful than cold reality?"
+  },
+  {
+   "style": "modern",
+   "q": "Can knowledge of ugly reality itself be beautiful?"
+  }
+ ],
+ "dawn-551-1": [
+  {
+   "style": "direct",
+   "q": "What are the virtues of the future?"
+  },
+  {
+   "style": "modern",
+   "q": "Has understanding the world reduced our sense of awe?"
+  }
+ ],
+ "dawn-552-1": [
+  {
+   "style": "direct",
+   "q": "What is ideal selfishness?"
+  },
+  {
+   "style": "modern",
+   "q": "Why is pregnancy a model for a devoted inner life?"
+  }
+ ],
+ "dawn-553-1": [
+  {
+   "style": "direct",
+   "q": "What does philosophy amount to?"
+  },
+  {
+   "style": "modern",
+   "q": "Is every philosophy a projection of personal preferences for climate, diet and lifestyle?"
+  }
+ ],
+ "dawn-554-1": [
+  {
+   "style": "direct",
+   "q": "What does it mean to praise progress?"
+  },
+  {
+   "style": "modern",
+   "q": "Who are the true leaders and forerunners?"
+  }
+ ],
+ "dawn-555-1": [
+  {
+   "style": "direct",
+   "q": "Which experiences should the thinker avoid?"
+  },
+  {
+   "style": "casual",
+   "q": "What is the thinker's canon of experiences?"
+  }
+ ],
+ "dawn-556-1": [
+  {
+   "style": "direct",
+   "q": "What are the four cardinal virtues?"
+  },
+  {
+   "style": "casual",
+   "q": "Be honest, brave, generous and polite. Is that enough?"
+  }
+ ],
+ "dawn-557-1": [
+  {
+   "style": "direct",
+   "q": "Why do we like the sound of even bad music when going into battle?"
+  },
+  {
+   "style": "casual",
+   "q": "Why does marching against an enemy make bad music pleasant?"
+  }
+ ],
+ "dawn-558-1": [
+  {
+   "style": "direct",
+   "q": "Why do you love those who are transparent as water?"
+  },
+  {
+   "style": "modern",
+   "q": "Is showing one's sins and hiding one's virtues also vanity?"
+  }
+ ],
+ "dawn-559-1": [
+  {
+   "style": "direct",
+   "q": "Is it wise to set a goal that is beyond one's power?"
+  },
+  {
+   "style": "modern",
+   "q": "Does striving for the impossible distort the best people?"
+  }
+ ],
+ "dawn-560-1": [
+  {
+   "style": "direct",
+   "q": "How can we be the gardeners of our impulses?"
+  },
+  {
+   "style": "modern",
+   "q": "Can I cultivate my own emotions, or is my character fixed?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't character fixed by nature?"
+  }
+ ],
+ "dawn-561-1": [
+  {
+   "style": "direct",
+   "q": "How should poets and philosophers depict happiness?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do artists paint things darker to capture true light?"
+  }
+ ],
+ "dawn-563-1": [
+  {
+   "style": "direct",
+   "q": "Is there an eternal justice that requires atonement?"
+  },
+  {
+   "style": "modern",
+   "q": "Is the moral order of the universe an illusion?"
+  }
+ ],
+ "dawn-564-1": [
+  {
+   "style": "direct",
+   "q": "Why do even great intellects have only a hand-breadth of experience?"
+  },
+  {
+   "style": "casual",
+   "q": "What happens beyond the range of our experience?"
+  }
+ ],
+ "dawn-565-1": [
+  {
+   "style": "direct",
+   "q": "What is the relationship between dignity and ignorance?"
+  },
+  {
+   "style": "modern",
+   "q": "Do I hide my ignorance behind a stiff, indifferent manner?"
+  }
+ ],
+ "dawn-566-1": [
+  {
+   "style": "direct",
+   "q": "Why is the thinker's life the cheapest and yet the most expensive?"
+  },
+  {
+   "style": "modern",
+   "q": "What do I really need to live well, and what is just expense?"
+  }
+ ],
+ "dawn-567-1": [
+  {
+   "style": "direct",
+   "q": "How should the soldiers of knowledge take things?"
+  },
+  {
+   "style": "casual",
+   "q": "Why should we take things more cheerfully than they deserve?"
+  }
+ ],
+ "dawn-568-1": [
+  {
+   "style": "direct",
+   "q": "What did the Phoenix tell the poet?"
+  },
+  {
+   "style": "casual",
+   "q": "Why must the poet's work be burnt?"
+  }
+ ],
+ "dawn-569-1": [
+  {
+   "style": "direct",
+   "q": "Do we owe respect to others' honour in our soliloquies?"
+  },
+  {
+   "style": "casual",
+   "q": "What makes someone a gentleman when alone?"
+  }
+ ],
+ "dawn-570-1": [
+  {
+   "style": "direct",
+   "q": "What can loss do to the soul?"
+  },
+  {
+   "style": "modern",
+   "q": "After a great loss, why do we become silent rather than wail?"
+  }
+ ],
+ "dawn-572-1": [
+  {
+   "style": "direct",
+   "q": "What do thinkers expect from life?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do some people want to rest from life and others from thought?"
+  }
+ ],
+ "dawn-573-1": [
+  {
+   "style": "direct",
+   "q": "Why must minds cast their skin like snakes?"
+  },
+  {
+   "style": "modern",
+   "q": "Are people who can't change their views still thinking?"
+  }
+ ],
+ "dawn-575-1": [
+  {
+   "style": "direct",
+   "q": "What are we aeronauts of the intellect?"
+  },
+  {
+   "style": "modern",
+   "q": "What happens when a great thinker reaches the limit of their flight?"
+  },
+  {
+   "style": "casual",
+   "q": "Where are we aiming at across the sea?"
+  }
+ ],
+ "gs-001-1": [
+  {
+   "style": "direct",
+   "q": "What are the teachers of the object of existence trying to do?"
+  },
+  {
+   "style": "challenge",
+   "q": "Aren't evil people harmful to the human species?"
+  },
+  {
+   "style": "modern",
+   "q": "Are hatred and ambition part of the economy that has kept humanity alive?"
+  }
+ ],
+ "gs-001-2": [
+  {
+   "style": "direct",
+   "q": "What is the meaning of the tragedians of morals and religion?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do we believe that life has a meaning behind it?"
+  },
+  {
+   "style": "casual",
+   "q": "Will laughter ever unite with wisdom?"
+  }
+ ],
+ "gs-001-3": [
+  {
+   "style": "direct",
+   "q": "Why does the ethical teacher devise a second existence?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do we need teachers who tell us why we exist?"
+  }
+ ],
+ "gs-004-1": [
+  {
+   "style": "direct",
+   "q": "Which spirits have advanced mankind the most?"
+  },
+  {
+   "style": "challenge",
+   "q": "Aren't good, orderly men the true friends of the species?"
+  },
+  {
+   "style": "modern",
+   "q": "Is the new always seen as evil and the old as good?"
+  }
+ ],
+ "gs-005-1": [
+  {
+   "style": "direct",
+   "q": "Who speaks of unconditional duties?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do revolutionaries and preachers insist their duties are absolute?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't a categorical imperative the best foundation for morality?"
+  }
+ ],
+ "gs-006-1": [
+  {
+   "style": "direct",
+   "q": "Why has meditation lost its dignity?"
+  },
+  {
+   "style": "modern",
+   "q": "We think while hurrying and multitasking. Can we still think seriously?"
+  }
+ ],
+ "gs-007-2": [
+  {
+   "style": "direct",
+   "q": "Can science furnish goals for human action?"
+  },
+  {
+   "style": "modern",
+   "q": "Can science tell us what to do, or only what not to believe?"
+  }
+ ],
+ "gs-008-1": [
+  {
+   "style": "direct",
+   "q": "What are unconscious virtues?"
+  },
+  {
+   "style": "modern",
+   "q": "Do we have moral qualities that no one, not even ourselves, can see?"
+  }
+ ],
+ "gs-009-1": [
+  {
+   "style": "direct",
+   "q": "What are our eruptions?"
+  },
+  {
+   "style": "modern",
+   "q": "Do we carry hidden talents that will only appear in later generations?"
+  }
+ ],
+ "gs-010-1": [
+  {
+   "style": "direct",
+   "q": "What is a species of atavism?"
+  },
+  {
+   "style": "modern",
+   "q": "Are rare, extraordinary people echoes of past cultures?"
+  }
+ ],
+ "gs-011-1": [
+  {
+   "style": "direct",
+   "q": "What is consciousness?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't consciousness the essence of man?"
+  },
+  {
+   "style": "modern",
+   "q": "Is consciousness overrated?"
+  }
+ ],
+ "gs-012-1": [
+  {
+   "style": "direct",
+   "q": "What is the goal of science?"
+  },
+  {
+   "style": "challenge",
+   "q": "Shouldn't science aim to reduce human suffering?"
+  },
+  {
+   "style": "modern",
+   "q": "Is it possible to have great joy without great pain?"
+  }
+ ],
+ "gs-013-1": [
+  {
+   "style": "direct",
+   "q": "What is the theory of the sense of power?"
+  },
+  {
+   "style": "modern",
+   "q": "Do we do good to others to increase our own power?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't kindness a selfless act?"
+  }
+ ],
+ "gs-014-1": [
+  {
+   "style": "direct",
+   "q": "What is called love?"
+  },
+  {
+   "style": "modern",
+   "q": "Is love just a kind of lust for possession?"
+  },
+  {
+   "style": "challenge",
+   "q": "Surely love is the opposite of egoism."
+  }
+ ],
+ "gs-016-1": [
+  {
+   "style": "direct",
+   "q": "How should we treat those who are ashamed of their feelings?"
+  },
+  {
+   "style": "modern",
+   "q": "Someone I was close to has drifted away and now it's too late. What can I do?"
+  },
+  {
+   "style": "casual",
+   "q": "What does the plank symbolise?"
+  }
+ ],
+ "gs-017-1": [
+  {
+   "style": "direct",
+   "q": "How can we turn a poor virtue into a necessity?"
+  },
+  {
+   "style": "casual",
+   "q": "What does the wise gardener with the tiny streamlet do?"
+  }
+ ],
+ "gs-018-1": [
+  {
+   "style": "direct",
+   "q": "Why is the ancient pride of nobility lacking in us?"
+  },
+  {
+   "style": "modern",
+   "q": "Are we all a bit slavish in our work and social order?"
+  }
+ ],
+ "gs-019-1": [
+  {
+   "style": "direct",
+   "q": "Does a tree need bad weather to grow tall?"
+  },
+  {
+   "style": "modern",
+   "q": "Do great people need opposition and hardship?"
+  }
+ ],
+ "gs-020-1": [
+  {
+   "style": "direct",
+   "q": "What is the dignity of folly?"
+  },
+  {
+   "style": "modern",
+   "q": "If prudence becomes universal, will folly become noble?"
+  }
+ ],
+ "gs-021-1": [
+  {
+   "style": "direct",
+   "q": "Why are virtues called good?"
+  },
+  {
+   "style": "modern",
+   "q": "Does society praise self-sacrificing people because it benefits from them?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't diligence a virtue that helps its owner?"
+  }
+ ],
+ "gs-022-1": [
+  {
+   "style": "direct",
+   "q": "What did the writer dream about the order of the day for the king?"
+  },
+  {
+   "style": "casual",
+   "q": "What is the significance of the poet's inscription over his door?"
+  }
+ ],
+ "gs-023-1": [
+  {
+   "style": "direct",
+   "q": "What are the characteristics of corruption in a society?"
+  },
+  {
+   "style": "modern",
+   "q": "Is superstition a sign of enlightenment?"
+  }
+ ],
+ "gs-023-2": [
+  {
+   "style": "direct",
+   "q": "Is cruelty diminished in times of corruption?"
+  },
+  {
+   "style": "modern",
+   "q": "Do decadent times produce tyrants and great culture?"
+  }
+ ],
+ "gs-025-1": [
+  {
+   "style": "direct",
+   "q": "Why is a purblind humility a disqualification for knowledge?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do people dismiss surprising ideas as mistakes?"
+  }
+ ],
+ "gs-026-1": [
+  {
+   "style": "direct",
+   "q": "What is living?"
+  },
+  {
+   "style": "casual",
+   "q": "Is life a continual killing?"
+  }
+ ],
+ "gs-027-1": [
+  {
+   "style": "direct",
+   "q": "What does the self-renouncer really do?"
+  },
+  {
+   "style": "modern",
+   "q": "Is self-denial a way of flying higher than others?"
+  }
+ ],
+ "gs-028-1": [
+  {
+   "style": "direct",
+   "q": "How do we injure with our best qualities?"
+  },
+  {
+   "style": "modern",
+   "q": "Can a great man's strengths be harmful to others?"
+  }
+ ],
+ "gs-029-1": [
+  {
+   "style": "direct",
+   "q": "Who are the adventitious liars?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do people invent reasons for customs they simply got used to?"
+  }
+ ],
+ "gs-030-1": [
+  {
+   "style": "direct",
+   "q": "What is the comedy of celebrated men?"
+  },
+  {
+   "style": "modern",
+   "q": "Do celebrities and politicians choose friends as stage properties?"
+  }
+ ],
+ "gs-031-1": [
+  {
+   "style": "direct",
+   "q": "How might commerce and nobility change places?"
+  },
+  {
+   "style": "modern",
+   "q": "Could buying and selling one day become a luxury for the noble, as hunting did?"
+  }
+ ],
+ "gs-032-1": [
+  {
+   "style": "direct",
+   "q": "Why are certain disciples unwelcome to a philosopher?"
+  },
+  {
+   "style": "modern",
+   "q": "What kind of student can't handle a hard philosophy?"
+  }
+ ],
+ "gs-033-1": [
+  {
+   "style": "direct",
+   "q": "Is man now more wicked than ever?"
+  },
+  {
+   "style": "casual",
+   "q": "Why did science make man more distrustful?"
+  }
+ ],
+ "gs-034-1": [
+  {
+   "style": "direct",
+   "q": "How does a great man affect history?"
+  },
+  {
+   "style": "modern",
+   "q": "Does every great person change how we see the past?"
+  }
+ ],
+ "gs-035-1": [
+  {
+   "style": "direct",
+   "q": "What is heresy?"
+  },
+  {
+   "style": "challenge",
+   "q": "Is thinking differently the mark of a better intellect?"
+  },
+  {
+   "style": "modern",
+   "q": "Are heretics and rebels driven by malice rather than reason?"
+  }
+ ],
+ "gs-037-1": [
+  {
+   "style": "direct",
+   "q": "Why has science been furthered?"
+  },
+  {
+   "style": "modern",
+   "q": "Did science advance because of three errors?"
+  }
+ ],
+ "gs-038-1": [
+  {
+   "style": "direct",
+   "q": "Why do young men join causes so uncritically?"
+  },
+  {
+   "style": "modern",
+   "q": "Why are young people drawn to the fire of a cause rather than its reasons?"
+  }
+ ],
+ "gs-039-1": [
+  {
+   "style": "direct",
+   "q": "What changes the general taste?"
+  },
+  {
+   "style": "modern",
+   "q": "Do opinions follow taste, or taste follow opinions?"
+  }
+ ],
+ "gs-040-1": [
+  {
+   "style": "direct",
+   "q": "Why does industrial civilisation lack noble presence?"
+  },
+  {
+   "style": "modern",
+   "q": "Would socialism have arisen if the employers had been more noble?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't it better that merit, not birth, determines status?"
+  }
+ ],
+ "gs-041-1": [
+  {
+   "style": "direct",
+   "q": "Why should the thinker not feel remorse?"
+  },
+  {
+   "style": "modern",
+   "q": "How should a scientist treat failure?"
+  }
+ ],
+ "gs-042-1": [
+  {
+   "style": "direct",
+   "q": "What is the relation of work and boredom for a thinker?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do creative people need to endure boredom before they can create?"
+  }
+ ],
+ "gs-044-1": [
+  {
+   "style": "direct",
+   "q": "Why is the believed motive more important than the actual motive?"
+  },
+  {
+   "style": "modern",
+   "q": "Does what we believe motivates us matter more than what actually does?"
+  }
+ ],
+ "gs-045-1": [
+  {
+   "style": "direct",
+   "q": "How do you perceive Epicurus?"
+  },
+  {
+   "style": "casual",
+   "q": "What did Epicurus's eye see?"
+  }
+ ],
+ "gs-046-1": [
+  {
+   "style": "direct",
+   "q": "Why are we astonished that science holds its ground?"
+  },
+  {
+   "style": "modern",
+   "q": "Is our trust in science like the joy of a shipwrecked man on firm ground?"
+  }
+ ],
+ "gs-047-1": [
+  {
+   "style": "direct",
+   "q": "What happens if you suppress the expression of passions?"
+  },
+  {
+   "style": "modern",
+   "q": "Is our culture suppressing genuine feelings while staging their display?"
+  }
+ ],
+ "gs-048-1": [
+  {
+   "style": "direct",
+   "q": "What separates people by their knowledge of distress?"
+  },
+  {
+   "style": "modern",
+   "q": "Do we hate pain more than earlier generations because we experience it less?"
+  }
+ ],
+ "gs-048-2": [
+  {
+   "style": "direct",
+   "q": "What does the appearance of pessimism indicate?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't pessimism a response to real suffering?"
+  },
+  {
+   "style": "modern",
+   "q": "Is the modern feeling of distress a sign of too much comfort?"
+  }
+ ],
+ "gs-049-1": [
+  {
+   "style": "direct",
+   "q": "What is magnanimity?"
+  },
+  {
+   "style": "modern",
+   "q": "Is forgiving an enemy a kind of egoism?"
+  }
+ ],
+ "gs-050-1": [
+  {
+   "style": "direct",
+   "q": "What is the argument of isolation?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do we fear social exclusion more than our own conscience?"
+  }
+ ],
+ "gs-051-1": [
+  {
+   "style": "direct",
+   "q": "What is your sense for truth?"
+  },
+  {
+   "style": "casual",
+   "q": "What kind of scepticism do you welcome?"
+  }
+ ],
+ "gs-053-1": [
+  {
+   "style": "direct",
+   "q": "Where does goodness begin?"
+  },
+  {
+   "style": "modern",
+   "q": "Do we call things good because our eyes can no longer see the evil in them?"
+  }
+ ],
+ "gs-054-1": [
+  {
+   "style": "direct",
+   "q": "What is the consciousness of appearance?"
+  },
+  {
+   "style": "modern",
+   "q": "Are we dreamers who must keep dreaming to survive?"
+  }
+ ],
+ "gs-055-1": [
+  {
+   "style": "direct",
+   "q": "What makes a person noble?"
+  },
+  {
+   "style": "modern",
+   "q": "Is nobility a matter of unconscious rare passion rather than sacrifice?"
+  }
+ ],
+ "gs-056-1": [
+  {
+   "style": "direct",
+   "q": "Why do young Europeans desire suffering?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do people go looking for causes to be distressed about?"
+  }
+ ],
+ "gs-057-1": [
+  {
+   "style": "direct",
+   "q": "What do you say to the realists?"
+  },
+  {
+   "style": "challenge",
+   "q": "We are realists: we see the world as it is, without passion or fantasy."
+  },
+  {
+   "style": "modern",
+   "q": "Is there a reality we can know apart from our human perspective?"
+  }
+ ],
+ "gs-073-1": [
+  {
+   "style": "direct",
+   "q": "What does the saint's cruelty teach?"
+  },
+  {
+   "style": "modern",
+   "q": "Is it more cruel to let a suffering being live than to end its life?"
+  }
+ ],
+ "gs-076-1": [
+  {
+   "style": "direct",
+   "q": "What is the greatest danger to mankind?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do societies need people who think conventionally?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't free thinking the engine of progress?"
+  }
+ ],
+ "gs-079-1": [
+  {
+   "style": "direct",
+   "q": "What is the charm of imperfection in an artist?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do we love artists whose work doesn't fully express their vision?"
+  }
+ ],
+ "gs-080-1": [
+  {
+   "style": "direct",
+   "q": "Why did the Greeks like good talking on the stage?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do we accept that people in operas sing their passions?"
+  }
+ ],
+ "gs-081-1": [
+  {
+   "style": "direct",
+   "q": "What did a geometrician ask about Iphigenia?"
+  },
+  {
+   "style": "casual",
+   "q": "Is anything proved in tragedy?"
+  }
+ ],
+ "gs-082-1": [
+  {
+   "style": "direct",
+   "q": "Why is there so little esprit among the Greeks?"
+  },
+  {
+   "style": "casual",
+   "q": "Why do the French add a dose of irrationality to logic?"
+  }
+ ],
+ "gs-083-1": [
+  {
+   "style": "direct",
+   "q": "How can we measure the historical sense of an age?"
+  },
+  {
+   "style": "modern",
+   "q": "Did the Romans translate the Greeks faithfully or make them their own?"
+  }
+ ],
+ "gs-084-1": [
+  {
+   "style": "direct",
+   "q": "Where does poetry come from?"
+  },
+  {
+   "style": "challenge",
+   "q": "Poetry refutes the utilitarians, since it has no useful purpose. Doesn't it?"
+  },
+  {
+   "style": "modern",
+   "q": "Did rhythm begin as a superstitious device to influence the gods?"
+  }
+ ],
+ "gs-085-1": [
+  {
+   "style": "direct",
+   "q": "What do artists do with glorification?"
+  },
+  {
+   "style": "modern",
+   "q": "Do artists create values or just glorify what the rich and leisured already value?"
+  }
+ ],
+ "gs-087-1": [
+  {
+   "style": "direct",
+   "q": "What is the conceit of artists?"
+  },
+  {
+   "style": "modern",
+   "q": "Do artists misjudge their own best work?"
+  }
+ ],
+ "gs-088-1": [
+  {
+   "style": "direct",
+   "q": "What do people mean by earnestness for the truth?"
+  },
+  {
+   "style": "modern",
+   "q": "Does my passion for a cause reveal how shallowly I've examined it?"
+  }
+ ],
+ "gs-089-1": [
+  {
+   "style": "direct",
+   "q": "What have we lost with the art of the festival?"
+  },
+  {
+   "style": "modern",
+   "q": "Has art become a distraction for the tired instead of a celebration?"
+  }
+ ],
+ "gs-090-1": [
+  {
+   "style": "direct",
+   "q": "How do books differ between thinkers?"
+  },
+  {
+   "style": "casual",
+   "q": "Do some writers give the light and others the shadows?"
+  }
+ ],
+ "gs-091-1": [
+  {
+   "style": "direct",
+   "q": "Why should we not trust autobiographies?"
+  },
+  {
+   "style": "modern",
+   "q": "Do people who write their own life stories lie to themselves?"
+  }
+ ],
+ "gs-092-1": [
+  {
+   "style": "direct",
+   "q": "What is the relationship between prose and poetry?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do the best prose writers also have a poet in them?"
+  }
+ ],
+ "gs-093-1": [
+  {
+   "style": "direct",
+   "q": "Why do you write?"
+  },
+  {
+   "style": "modern",
+   "q": "I write to get rid of my thoughts. Is that a good reason?"
+  }
+ ],
+ "gs-094-1": [
+  {
+   "style": "direct",
+   "q": "What happened to Fontenelle's paradoxes?"
+  },
+  {
+   "style": "modern",
+   "q": "Do amusing ideas become truths with time?"
+  }
+ ],
+ "gs-096-1": [
+  {
+   "style": "direct",
+   "q": "What are the two types of orators?"
+  },
+  {
+   "style": "modern",
+   "q": "Does emotion help or hurt a speaker's argument?"
+  }
+ ],
+ "gs-097-1": [
+  {
+   "style": "direct",
+   "q": "What are the kinds of loquacity among authors?"
+  },
+  {
+   "style": "casual",
+   "q": "Why do writers talk too much?"
+  }
+ ],
+ "gs-098-1": [
+  {
+   "style": "direct",
+   "q": "What is your best tribute to Shakespeare?"
+  },
+  {
+   "style": "modern",
+   "q": "What does Brutus stand for in Shakespeare's tragedy?"
+  }
+ ],
+ "gs-099-1": [
+  {
+   "style": "direct",
+   "q": "What do the followers of Schopenhauer take from their master?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do lesser thinkers first copy a great thinker's faults?"
+  }
+ ],
+ "gs-100-1": [
+  {
+   "style": "direct",
+   "q": "Why is it hard for people to express gratitude to a thinker?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do people react badly to a thinker who has changed them?"
+  }
+ ],
+ "gs-101-1": [
+  {
+   "style": "direct",
+   "q": "How did the court set the standard of style?"
+  },
+  {
+   "style": "modern",
+   "q": "Is technical language a blemish of style?"
+  }
+ ],
+ "gs-103-1": [
+  {
+   "style": "direct",
+   "q": "How is German music European music?"
+  },
+  {
+   "style": "modern",
+   "q": "Does German music express the crowd rather than the aristocracy?"
+  }
+ ],
+ "gs-105-1": [
+  {
+   "style": "direct",
+   "q": "How do Germans behave in passion?"
+  },
+  {
+   "style": "casual",
+   "q": "What is the secret longing of German artists?"
+  }
+ ],
+ "gs-106-1": [
+  {
+   "style": "direct",
+   "q": "Why does the innovator want a musician?"
+  },
+  {
+   "style": "modern",
+   "q": "Why is music so persuasive?"
+  }
+ ],
+ "gs-107-1": [
+  {
+   "style": "direct",
+   "q": "What is our ultimate gratitude to art?"
+  },
+  {
+   "style": "modern",
+   "q": "Without art, could we bear knowing that everything is untrue?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't art just a way of escaping reality?"
+  }
+ ],
+ "gs-108-1": [
+  {
+   "style": "direct",
+   "q": "What are the new struggles after God is dead?"
+  },
+  {
+   "style": "casual",
+   "q": "What is the shadow of God?"
+  }
+ ],
+ "gs-109-1": [
+  {
+   "style": "direct",
+   "q": "Is the world a living being or a machine?"
+  },
+  {
+   "style": "modern",
+   "q": "Does the universe have any laws, order or purpose, or is it chaos?"
+  },
+  {
+   "style": "challenge",
+   "q": "The stars move in perfect order. Isn't that evidence of design?"
+  }
+ ],
+ "gs-109-2": [
+  {
+   "style": "direct",
+   "q": "Is there any chance or design in the world?"
+  },
+  {
+   "style": "modern",
+   "q": "Is death the opposite of life?"
+  },
+  {
+   "style": "casual",
+   "q": "When will nature be entirely undeified?"
+  }
+ ],
+ "gs-110-1": [
+  {
+   "style": "direct",
+   "q": "What is the origin of knowledge?"
+  },
+  {
+   "style": "modern",
+   "q": "Are our most basic beliefs, like enduring things and free will, useful errors?"
+  },
+  {
+   "style": "challenge",
+   "q": "Doesn't truth have to be the foundation of knowledge?"
+  }
+ ],
+ "gs-110-2": [
+  {
+   "style": "direct",
+   "q": "Why did the Eleatics deceive themselves about the sage?"
+  },
+  {
+   "style": "modern",
+   "q": "How did the struggle for truth become a business, calling and duty?"
+  }
+ ],
+ "gs-110-3": [
+  {
+   "style": "direct",
+   "q": "How did knowledge become a force?"
+  },
+  {
+   "style": "modern",
+   "q": "How far can truth be embodied in a person?"
+  },
+  {
+   "style": "casual",
+   "q": "Is the pursuit of truth an experiment on life itself?"
+  }
+ ],
+ "gs-111-1": [
+  {
+   "style": "direct",
+   "q": "Where did logic originate?"
+  },
+  {
+   "style": "modern",
+   "q": "Is logic the result of an illogical inclination to treat similar things as equal?"
+  }
+ ],
+ "gs-112-1": [
+  {
+   "style": "direct",
+   "q": "Do we explain things, or only describe them?"
+  },
+  {
+   "style": "modern",
+   "q": "Has science really explained cause and effect?"
+  }
+ ],
+ "gs-113-1": [
+  {
+   "style": "direct",
+   "q": "What is the theory of poisons?"
+  },
+  {
+   "style": "modern",
+   "q": "How did doubting, denying and collecting impulses become useful in science?"
+  }
+ ],
+ "gs-114-1": [
+  {
+   "style": "direct",
+   "q": "What is the extent of the moral?"
+  },
+  {
+   "style": "casual",
+   "q": "Are all experiences moral experiences?"
+  }
+ ],
+ "gs-115-1": [
+  {
+   "style": "direct",
+   "q": "What are the four errors that reared man?"
+  },
+  {
+   "style": "modern",
+   "q": "What would remain of human dignity without these errors?"
+  }
+ ],
+ "gs-116-1": [
+  {
+   "style": "direct",
+   "q": "What is herd-instinct?"
+  },
+  {
+   "style": "modern",
+   "q": "Is my morality just my community's needs internalised?"
+  }
+ ],
+ "gs-117-1": [
+  {
+   "style": "direct",
+   "q": "How did the sting of conscience differ in early times?"
+  },
+  {
+   "style": "modern",
+   "q": "Why was being independent once felt as punishment?"
+  }
+ ],
+ "gs-118-1": [
+  {
+   "style": "direct",
+   "q": "What is benevolence between the strong and the weak?"
+  },
+  {
+   "style": "modern",
+   "q": "Is pity a pleasant excitation of the instinct of appropriation?"
+  }
+ ],
+ "gs-120-1": [
+  {
+   "style": "direct",
+   "q": "What does health of the soul mean?"
+  },
+  {
+   "style": "challenge",
+   "q": "Virtue is the health of the soul, isn't it?"
+  },
+  {
+   "style": "modern",
+   "q": "Is there such a thing as normal health, or does it differ for everyone?"
+  }
+ ],
+ "gs-121-1": [
+  {
+   "style": "direct",
+   "q": "Is life an argument for our beliefs?"
+  },
+  {
+   "style": "modern",
+   "q": "Could error be a condition of life?"
+  }
+ ],
+ "gs-123-1": [
+  {
+   "style": "direct",
+   "q": "Why must knowledge become more than a means?"
+  },
+  {
+   "style": "modern",
+   "q": "Is scientific curiosity a passion, or mostly boredom and vanity?"
+  }
+ ],
+ "gs-124-1": [
+  {
+   "style": "direct",
+   "q": "What does it mean to have left the land?"
+  },
+  {
+   "style": "casual",
+   "q": "What is the infinite like on a ship?"
+  }
+ ],
+ "gs-125-1": [
+  {
+   "style": "direct",
+   "q": "What does the madman say about God?"
+  },
+  {
+   "style": "modern",
+   "q": "What does \"God is dead\" mean, and what are its consequences?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't it arrogant to say we have killed God?"
+  }
+ ],
+ "gs-125-2": [
+  {
+   "style": "direct",
+   "q": "Why does the madman say he has come too early?"
+  },
+  {
+   "style": "casual",
+   "q": "Why does the madman call churches tombs of God?"
+  }
+ ],
+ "gs-126-1": [
+  {
+   "style": "direct",
+   "q": "Why are mystical explanations regarded as profound?"
+  },
+  {
+   "style": "casual",
+   "q": "Are mystical explanations even superficial?"
+  }
+ ],
+ "gs-127-1": [
+  {
+   "style": "direct",
+   "q": "Is the will a simple thing?"
+  },
+  {
+   "style": "modern",
+   "q": "When I strike a blow because I willed it, do I understand the causal chain?"
+  },
+  {
+   "style": "challenge",
+   "q": "Schopenhauer said everything that exists is will. Is he right?"
+  }
+ ],
+ "gs-127-2": [
+  {
+   "style": "direct",
+   "q": "What propositions do you set against Schopenhauer's?"
+  },
+  {
+   "style": "casual",
+   "q": "Do pleasure and pain come before will?"
+  }
+ ],
+ "gs-128-1": [
+  {
+   "style": "direct",
+   "q": "What is the value of prayer?"
+  },
+  {
+   "style": "modern",
+   "q": "Is prayer just a mechanical ritual for those with no thoughts of their own?"
+  }
+ ],
+ "gs-129-1": [
+  {
+   "style": "direct",
+   "q": "Can God subsist without unwise men?"
+  },
+  {
+   "style": "casual",
+   "q": "What did Luther leave unsaid about God and unwise men?"
+  }
+ ],
+ "gs-131-1": [
+  {
+   "style": "direct",
+   "q": "How did Christianity use the longing for suicide?"
+  },
+  {
+   "style": "modern",
+   "q": "Why did religions permit only certain forms of self-destruction?"
+  }
+ ],
+ "gs-133-1": [
+  {
+   "style": "direct",
+   "q": "Which is more powerful in the long run, an untrue belief or an unavoidable hypothesis?"
+  },
+  {
+   "style": "casual",
+   "q": "What does \"in the long run\" mean for beliefs?"
+  }
+ ],
+ "gs-138-1": [
+  {
+   "style": "direct",
+   "q": "What was the error of Christ?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't sin the great human problem that Christ recognised?"
+  }
+ ],
+ "gs-142-1": [
+  {
+   "style": "direct",
+   "q": "What did Buddha say about flattering a benefactor?"
+  },
+  {
+   "style": "casual",
+   "q": "Which saying would clear the air of a Christian church?"
+  }
+ ],
+ "gs-143-1": [
+  {
+   "style": "direct",
+   "q": "What is the greatest utility of polytheism?"
+  },
+  {
+   "style": "modern",
+   "q": "Did the invention of many gods make individual freedom possible?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't monotheism a great advance over polytheism?"
+  }
+ ],
+ "gs-144-1": [
+  {
+   "style": "direct",
+   "q": "Are religious wars a form of advance?"
+  },
+  {
+   "style": "modern",
+   "q": "Do religious wars show the masses treating ideas with reverence?"
+  }
+ ],
+ "gs-146-1": [
+  {
+   "style": "direct",
+   "q": "What is the origin of the name \"Deutschen\"?"
+  },
+  {
+   "style": "casual",
+   "q": "Could the Germans become the first non-Christian nation of Europe?"
+  }
+ ],
+ "gs-148-1": [
+  {
+   "style": "direct",
+   "q": "Where do reformations originate?"
+  },
+  {
+   "style": "modern",
+   "q": "Why did the Reformation begin in Germany rather than where the church was most corrupt?"
+  }
+ ],
+ "gs-150-1": [
+  {
+   "style": "direct",
+   "q": "What is wrong with the virtue of Christian saints?"
+  },
+  {
+   "style": "casual",
+   "q": "What is a brutal virtue?"
+  }
+ ],
+ "gs-151-1": [
+  {
+   "style": "direct",
+   "q": "What is the origin of religion?"
+  },
+  {
+   "style": "challenge",
+   "q": "Schopenhauer said religion comes from a metaphysical need. Is he wrong?"
+  }
+ ],
+ "gs-152-1": [
+  {
+   "style": "direct",
+   "q": "What is the greatest change in how we see things?"
+  },
+  {
+   "style": "modern",
+   "q": "How did belief in dreams and demons colour the lives of earlier people?"
+  }
+ ],
+ "gs-153-1": [
+  {
+   "style": "direct",
+   "q": "Who is Homo poeta?"
+  },
+  {
+   "style": "casual",
+   "q": "What do you do with the fifth act after killing the gods?"
+  }
+ ],
+ "gs-154-1": [
+  {
+   "style": "direct",
+   "q": "What are the differences in the dangerousness of life?"
+  },
+  {
+   "style": "modern",
+   "q": "Are sensitive people more at risk in life than intoxicated ones?"
+  }
+ ],
+ "gs-155-1": [
+  {
+   "style": "direct",
+   "q": "Why do we love the grandeur of nature?"
+  },
+  {
+   "style": "casual",
+   "q": "What do we lack that makes us love nature's grandeur?"
+  }
+ ],
+ "gs-156-1": [
+  {
+   "style": "direct",
+   "q": "Who is the most influential person?"
+  },
+  {
+   "style": "modern",
+   "q": "Can one person resisting the whole spirit of an age change it?"
+  }
+ ],
+ "gs-157-1": [
+  {
+   "style": "direct",
+   "q": "What is mentiri?"
+  },
+  {
+   "style": "casual",
+   "q": "What does lying show about a civilisation?"
+  }
+ ],
+ "gs-158-1": [
+  {
+   "style": "direct",
+   "q": "What is an inconvenient peculiarity?"
+  },
+  {
+   "style": "modern",
+   "q": "I find everything deep and it exhausts me. Is that normal?"
+  }
+ ],
+ "gs-159-1": [
+  {
+   "style": "direct",
+   "q": "Does every virtue have its time?"
+  },
+  {
+   "style": "modern",
+   "q": "Is honesty still a virtue when inflexibility is out of season?"
+  }
+ ],
+ "gs-161-1": [
+  {
+   "style": "direct",
+   "q": "What do the runaway priest and liberated criminal want?"
+  },
+  {
+   "style": "casual",
+   "q": "Who wears a look without a future?"
+  }
+ ],
+ "gs-162-1": [
+  {
+   "style": "direct",
+   "q": "What is egoism?"
+  },
+  {
+   "style": "modern",
+   "q": "Why does what is near loom large in our feelings?"
+  }
+ ],
+ "gs-163-1": [
+  {
+   "style": "direct",
+   "q": "What is the best thing in a great victory?"
+  },
+  {
+   "style": "modern",
+   "q": "Does winning make us braver?"
+  }
+ ],
+ "gs-164-1": [
+  {
+   "style": "direct",
+   "q": "How can we recognise minds that seek repose?"
+  },
+  {
+   "style": "casual",
+   "q": "What do dark chambers say about a person?"
+  }
+ ],
+ "gs-166-1": [
+  {
+   "style": "direct",
+   "q": "Why are we always in our own society?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do I only hear the voices that resemble mine?"
+  }
+ ],
+ "gs-167-1": [
+  {
+   "style": "direct",
+   "q": "What is misanthropy?"
+  },
+  {
+   "style": "casual",
+   "q": "Why should we not swallow men like oysters?"
+  }
+ ],
+ "gs-168-1": [
+  {
+   "style": "direct",
+   "q": "What is wrong with the invalid who longs to be praised?"
+  },
+  {
+   "style": "modern",
+   "q": "Why can't a famous person feel praised?"
+  }
+ ],
+ "gs-169-1": [
+  {
+   "style": "direct",
+   "q": "Why do some men need avowed enemies?"
+  },
+  {
+   "style": "modern",
+   "q": "Do I need opponents to bring out my best?"
+  }
+ ],
+ "gs-172-1": [
+  {
+   "style": "direct",
+   "q": "What is a perverter of taste?"
+  },
+  {
+   "style": "casual",
+   "q": "Why does no party forgive a person who perverts their taste?"
+  }
+ ],
+ "gs-174-1": [
+  {
+   "style": "direct",
+   "q": "What does parliamentarism give the public?"
+  },
+  {
+   "style": "modern",
+   "q": "Is having five political parties a real choice?"
+  }
+ ],
+ "gs-175-1": [
+  {
+   "style": "direct",
+   "q": "What has the most convincing eloquence?"
+  },
+  {
+   "style": "casual",
+   "q": "Why do kings have the best oratory?"
+  }
+ ],
+ "gs-176-1": [
+  {
+   "style": "direct",
+   "q": "Why are ruling princes to be pitied?"
+  },
+  {
+   "style": "casual",
+   "q": "What is a ruling prince's problem with claims and pretensions?"
+  }
+ ],
+ "gs-177-1": [
+  {
+   "style": "direct",
+   "q": "What is lacking in German education for higher men?"
+  },
+  {
+   "style": "casual",
+   "q": "Do higher men in Germany laugh?"
+  }
+ ],
+ "gs-178-1": [
+  {
+   "style": "direct",
+   "q": "What moral prejudices should the Germans be talked out of?"
+  },
+  {
+   "style": "casual",
+   "q": "What is the problem with Faust and Mephistopheles?"
+  }
+ ],
+ "gs-180-1": [
+  {
+   "style": "direct",
+   "q": "Why is this a good time for free spirits?"
+  },
+  {
+   "style": "casual",
+   "q": "How does the Church protect the free spirit's liberty?"
+  }
+ ],
+ "gs-181-1": [
+  {
+   "style": "direct",
+   "q": "Who is superior, the follower or the leader?"
+  },
+  {
+   "style": "casual",
+   "q": "Who is superior in virtue and intellect?"
+  }
+ ],
+ "gs-182-1": [
+  {
+   "style": "direct",
+   "q": "How does solitude change the way we speak?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do I lower my voice in solitude?"
+  }
+ ],
+ "gs-183-1": [
+  {
+   "style": "direct",
+   "q": "Who would be the first musician of the best future?"
+  },
+  {
+   "style": "casual",
+   "q": "What music does the future need?"
+  }
+ ],
+ "gs-184-1": [
+  {
+   "style": "direct",
+   "q": "What is your taste in justice?"
+  },
+  {
+   "style": "casual",
+   "q": "Is it better to be robbed than to be surrounded by scarecrows?"
+  }
+ ],
+ "gs-186-1": [
+  {
+   "style": "direct",
+   "q": "Why does a person doing everything right still have a bad conscience?"
+  },
+  {
+   "style": "modern",
+   "q": "I do everything correctly but feel guilty. Why?"
+  }
+ ],
+ "gs-188-1": [
+  {
+   "style": "direct",
+   "q": "How did attitudes to work change?"
+  },
+  {
+   "style": "modern",
+   "q": "Is \"we are all workers\" a democratic truth or a cynicism?"
+  }
+ ],
+ "gs-190-1": [
+  {
+   "style": "direct",
+   "q": "Why is one only praised by one's equals?"
+  },
+  {
+   "style": "casual",
+   "q": "What does someone say when praising you?"
+  }
+ ],
+ "gs-192-1": [
+  {
+   "style": "direct",
+   "q": "What distinguishes the good-natured?"
+  },
+  {
+   "style": "modern",
+   "q": "Are kind people also possessive?"
+  }
+ ],
+ "gs-193-1": [
+  {
+   "style": "direct",
+   "q": "What was Kant's secret joke?"
+  },
+  {
+   "style": "casual",
+   "q": "Did Kant write against the learned for the learned?"
+  }
+ ],
+ "gs-195-1": [
+  {
+   "style": "direct",
+   "q": "Why do people follow the one who runs away from them?"
+  },
+  {
+   "style": "casual",
+   "q": "Why is a gregarious lot so easily led by a runaway?"
+  }
+ ],
+ "gs-197-1": [
+  {
+   "style": "direct",
+   "q": "What do we most like to communicate?"
+  },
+  {
+   "style": "casual",
+   "q": "Why do we love sharing secrets?"
+  }
+ ],
+ "gs-204-1": [
+  {
+   "style": "direct",
+   "q": "Are beggars discourteous?"
+  },
+  {
+   "style": "casual",
+   "q": "Is knocking with a stone impolite?"
+  }
+ ],
+ "gs-205-1": [
+  {
+   "style": "direct",
+   "q": "Is need the cause of things?"
+  },
+  {
+   "style": "modern",
+   "q": "Does need arise from things, or things from need?"
+  }
+ ],
+ "gs-209-1": [
+  {
+   "style": "direct",
+   "q": "What is a tyrannical mode of asking for reasons?"
+  },
+  {
+   "style": "modern",
+   "q": "Why does being asked for reasons make me forget my best ones?"
+  }
+ ],
+ "gs-211-1": [
+  {
+   "style": "direct",
+   "q": "Why is a secret enemy a luxury?"
+  },
+  {
+   "style": "modern",
+   "q": "Can a moral person afford to keep a secret enemy?"
+  }
+ ],
+ "gs-212-1": [
+  {
+   "style": "direct",
+   "q": "What does the impatient, stuttering spirit hide?"
+  },
+  {
+   "style": "casual",
+   "q": "What kind of spirit has bad manners but a large chest?"
+  }
+ ],
+ "gs-213-1": [
+  {
+   "style": "direct",
+   "q": "What is the way to happiness?"
+  },
+  {
+   "style": "modern",
+   "q": "Is self-admiration a path to happiness?"
+  }
+ ],
+ "gs-214-1": [
+  {
+   "style": "direct",
+   "q": "Does virtue bring happiness or faith in virtue?"
+  },
+  {
+   "style": "modern",
+   "q": "Is faith in oneself what saves, not virtue?"
+  }
+ ],
+ "gs-215-1": [
+  {
+   "style": "direct",
+   "q": "Are you noble enough for your ideal?"
+  },
+  {
+   "style": "modern",
+   "q": "Am I the right material for my ideals?"
+  }
+ ],
+ "gs-218-1": [
+  {
+   "style": "direct",
+   "q": "What is your antipathy?"
+  },
+  {
+   "style": "casual",
+   "q": "Why do you dislike people who burst like bombs?"
+  }
+ ],
+ "gs-220-1": [
+  {
+   "style": "direct",
+   "q": "How do victims think about sacrifice?"
+  },
+  {
+   "style": "modern",
+   "q": "Are sacrifices seen differently by victims and spectators?"
+  }
+ ],
+ "gs-222-1": [
+  {
+   "style": "direct",
+   "q": "What is the relation between poet and liar?"
+  },
+  {
+   "style": "casual",
+   "q": "Is a poet a liar with a good conscience?"
+  }
+ ],
+ "gs-223-1": [
+  {
+   "style": "direct",
+   "q": "What is vicariousness of the senses?"
+  },
+  {
+   "style": "casual",
+   "q": "Who is king among the blind?"
+  }
+ ],
+ "gs-224-1": [
+  {
+   "style": "direct",
+   "q": "What do animals think of man?"
+  },
+  {
+   "style": "casual",
+   "q": "Are we the laughing, crying, unfortunate animal?"
+  }
+ ],
+ "gs-225-1": [
+  {
+   "style": "direct",
+   "q": "What do aspirants after effect say about nature?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do people who want an effect choose evil as natural?"
+  }
+ ],
+ "gs-226-1": [
+  {
+   "style": "direct",
+   "q": "Why do the distrustful speak emphatically?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do we speak simply among those who trust us?"
+  }
+ ],
+ "gs-229-1": [
+  {
+   "style": "direct",
+   "q": "What is obstinacy called when it holds to a questionable cause?"
+  },
+  {
+   "style": "casual",
+   "q": "Is loyalty just obstinacy?"
+  }
+ ],
+ "gs-230-1": [
+  {
+   "style": "direct",
+   "q": "Why does his whole nature fail to convince?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do people who brag about their good deeds seem less convincing?"
+  }
+ ],
+ "gs-232-1": [
+  {
+   "style": "direct",
+   "q": "What does dreaming teach about being awake?"
+  },
+  {
+   "style": "modern",
+   "q": "Should we live in an interesting way or not at all?"
+  }
+ ],
+ "gs-233-1": [
+  {
+   "style": "direct",
+   "q": "What is the most dangerous point of view?"
+  },
+  {
+   "style": "modern",
+   "q": "Does every little action matter for eternity?"
+  }
+ ],
+ "gs-234-1": [
+  {
+   "style": "direct",
+   "q": "What consolation would you offer a musician whose life is unheard?"
+  },
+  {
+   "style": "casual",
+   "q": "Does my quiet life have music?"
+  }
+ ],
+ "gs-235-1": [
+  {
+   "style": "direct",
+   "q": "Why do spirit and character not always match?"
+  },
+  {
+   "style": "casual",
+   "q": "Can a person attain height of character without height of spirit?"
+  }
+ ],
+ "gs-236-1": [
+  {
+   "style": "direct",
+   "q": "What must one do to move the multitude?"
+  },
+  {
+   "style": "modern",
+   "q": "Do politicians need to simplify themselves into caricature?"
+  }
+ ],
+ "gs-239-1": [
+  {
+   "style": "direct",
+   "q": "Why is joylessness more contagious than happiness?"
+  },
+  {
+   "style": "modern",
+   "q": "One gloomy person spoils the atmosphere at home. Why is misery contagious?"
+  }
+ ],
+ "gs-240-1": [
+  {
+   "style": "direct",
+   "q": "Where would you build your house?"
+  },
+  {
+   "style": "casual",
+   "q": "Why not own a house?"
+  }
+ ],
+ "gs-242-1": [
+  {
+   "style": "direct",
+   "q": "Can a man of knowledge be a thief?"
+  },
+  {
+   "style": "casual",
+   "q": "Can we steal knowledge?"
+  }
+ ],
+ "gs-246-1": [
+  {
+   "style": "direct",
+   "q": "Why carry mathematics into all sciences?"
+  },
+  {
+   "style": "modern",
+   "q": "Is mathematics a way of knowing things or of asserting our human relation to them?"
+  }
+ ],
+ "gs-249-1": [
+  {
+   "style": "direct",
+   "q": "What is the sigh of the seeker of knowledge?"
+  },
+  {
+   "style": "casual",
+   "q": "What is it to wish for a hundred lives?"
+  }
+ ],
+ "gs-250-1": [
+  {
+   "style": "direct",
+   "q": "What does the witch-trial teach about guilt?"
+  },
+  {
+   "style": "modern",
+   "q": "Is all guilt like the guilt of witchcraft?"
+  }
+ ],
+ "gs-251-1": [
+  {
+   "style": "direct",
+   "q": "How do great natures suffer?"
+  },
+  {
+   "style": "modern",
+   "q": "Does greatness suffer from doubt more than from sacrifice?"
+  }
+ ],
+ "gs-252-1": [
+  {
+   "style": "direct",
+   "q": "Why is it better to remain in debt?"
+  },
+  {
+   "style": "casual",
+   "q": "What is the coin that does not bear our stamp?"
+  }
+ ],
+ "gs-253-1": [
+  {
+   "style": "direct",
+   "q": "What does it mean to be always at home?"
+  },
+  {
+   "style": "casual",
+   "q": "Did we notice that we travelled?"
+  }
+ ],
+ "gs-255-1": [
+  {
+   "style": "direct",
+   "q": "Do you want imitators?"
+  },
+  {
+   "style": "modern",
+   "q": "Should I teach others to imitate me or to be their own pattern?"
+  }
+ ],
+ "gs-256-1": [
+  {
+   "style": "direct",
+   "q": "Why do profound men enjoy the surface?"
+  },
+  {
+   "style": "casual",
+   "q": "Why do deep thinkers like to play like flying fish?"
+  }
+ ],
+ "gs-257-1": [
+  {
+   "style": "direct",
+   "q": "How does a person learn how rich he is?"
+  },
+  {
+   "style": "casual",
+   "q": "When do we know what we own?"
+  }
+ ],
+ "gs-260-1": [
+  {
+   "style": "direct",
+   "q": "Why does truth begin with two?"
+  },
+  {
+   "style": "modern",
+   "q": "Can one person alone prove himself right?"
+  }
+ ],
+ "gs-261-1": [
+  {
+   "style": "direct",
+   "q": "What is originality?"
+  },
+  {
+   "style": "modern",
+   "q": "Are original people those who name things?"
+  }
+ ],
+ "gs-262-1": [
+  {
+   "style": "direct",
+   "q": "What is the privilege of the dead?"
+  },
+  {
+   "style": "casual",
+   "q": "Why withdraw from the living?"
+  }
+ ],
+ "gs-263-1": [
+  {
+   "style": "direct",
+   "q": "Why do lovers hide their defects?"
+  },
+  {
+   "style": "modern",
+   "q": "Do I hide my flaws from a partner out of vanity or protection?"
+  }
+ ],
+ "gs-267-1": [
+  {
+   "style": "direct",
+   "q": "What does a high aim do to justice?"
+  },
+  {
+   "style": "casual",
+   "q": "Is a person with a high aim above justice?"
+  }
+ ],
+ "gs-276-1": [
+  {
+   "style": "direct",
+   "q": "What is your New Year's wish?"
+  },
+  {
+   "style": "modern",
+   "q": "What is amor fati?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't it a kind of resignation to love your fate?"
+  }
+ ],
+ "gs-277-1": [
+  {
+   "style": "direct",
+   "q": "What is the danger of believing in personal providence?"
+  },
+  {
+   "style": "modern",
+   "q": "Do things really always turn out for the best for me?"
+  }
+ ],
+ "gs-279-1": [
+  {
+   "style": "direct",
+   "q": "What is stellar friendship?"
+  },
+  {
+   "style": "modern",
+   "q": "A close friend and I have drifted apart. Is that a sad thing?"
+  }
+ ],
+ "gs-280-1": [
+  {
+   "style": "direct",
+   "q": "What is lacking in our great cities?"
+  },
+  {
+   "style": "modern",
+   "q": "Should cities have spaces for reflection that are not churches?"
+  }
+ ],
+ "gs-281-1": [
+  {
+   "style": "direct",
+   "q": "How are masters of the first rank recognised?"
+  },
+  {
+   "style": "modern",
+   "q": "Why is it hard to end things well?"
+  }
+ ],
+ "gs-282-1": [
+  {
+   "style": "direct",
+   "q": "How do minds betray a populace origin?"
+  },
+  {
+   "style": "casual",
+   "q": "Why couldn't Napoleon walk like a prince?"
+  }
+ ],
+ "gs-283-1": [
+  {
+   "style": "direct",
+   "q": "What are the pioneers of the coming age like?"
+  },
+  {
+   "style": "modern",
+   "q": "Should we live in danger to be productive?"
+  },
+  {
+   "style": "challenge",
+   "q": "A safe life is better than a dangerous one. Why live at the slope of Vesuvius?"
+  }
+ ],
+ "gs-284-1": [
+  {
+   "style": "direct",
+   "q": "Why do few men believe in themselves?"
+  },
+  {
+   "style": "modern",
+   "q": "How can I convince the sceptic inside me?"
+  }
+ ],
+ "gs-285-1": [
+  {
+   "style": "direct",
+   "q": "What is the renunciation of the man who no longer prays?"
+  },
+  {
+   "style": "modern",
+   "q": "Can man rise higher when he no longer flows out into a God?"
+  }
+ ],
+ "gs-286-1": [
+  {
+   "style": "direct",
+   "q": "Why can you only suggest the new hopes?"
+  },
+  {
+   "style": "casual",
+   "q": "What do you do if your listeners are stones and animals?"
+  }
+ ],
+ "gs-287-1": [
+  {
+   "style": "direct",
+   "q": "Why do you love ignorance of the future?"
+  },
+  {
+   "style": "casual",
+   "q": "What does the wanderer say to his shadow?"
+  }
+ ],
+ "gs-289-1": [
+  {
+   "style": "direct",
+   "q": "What does a philosophical justification of one's life do for the individual?"
+  },
+  {
+   "style": "modern",
+   "q": "Should the evil and the unfortunate each have their own philosophy?"
+  }
+ ],
+ "gs-290-1": [
+  {
+   "style": "direct",
+   "q": "What does it mean to give style to one's character?"
+  },
+  {
+   "style": "modern",
+   "q": "How can I shape my strengths and weaknesses into a coherent character?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't authenticity better than shaping yourself?"
+  }
+ ],
+ "gs-291-1": [
+  {
+   "style": "direct",
+   "q": "What did you see in Genoa?"
+  },
+  {
+   "style": "modern",
+   "q": "How do cities reflect the character of their builders?"
+  }
+ ],
+ "gs-291-2": [
+  {
+   "style": "direct",
+   "q": "What kind of man do you find at every corner of Genoa?"
+  },
+  {
+   "style": "casual",
+   "q": "What does the man in Genoa long to establish anew?"
+  }
+ ],
+ "gs-292-1": [
+  {
+   "style": "direct",
+   "q": "What advice do you give to preachers of morality?"
+  },
+  {
+   "style": "modern",
+   "q": "Have moral preachers devalued virtue by speaking too much of it?"
+  }
+ ],
+ "gs-295-1": [
+  {
+   "style": "direct",
+   "q": "Why do you love short-lived habits?"
+  },
+  {
+   "style": "modern",
+   "q": "Should I avoid permanent habits and routines?"
+  }
+ ],
+ "gs-296-1": [
+  {
+   "style": "direct",
+   "q": "Why was a fixed reputation useful?"
+  },
+  {
+   "style": "modern",
+   "q": "Is consistency of opinion a virtue or a barrier to knowledge?"
+  }
+ ],
+ "gs-297-1": [
+  {
+   "style": "direct",
+   "q": "What is the ability to contradict?"
+  },
+  {
+   "style": "modern",
+   "q": "Why is it valuable to disagree with what is hallowed?"
+  }
+ ],
+ "gs-298-1": [
+  {
+   "style": "direct",
+   "q": "What happens to a notion when we put it into words?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do ideas die when I try to write them down?"
+  }
+ ],
+ "gs-299-1": [
+  {
+   "style": "direct",
+   "q": "What should we learn from artists?"
+  },
+  {
+   "style": "modern",
+   "q": "How can I make my life more beautiful?"
+  }
+ ],
+ "gs-300-1": [
+  {
+   "style": "direct",
+   "q": "What is the prelude to science?"
+  },
+  {
+   "style": "modern",
+   "q": "Did science arise from magic, alchemy and religion?"
+  }
+ ],
+ "gs-301-1": [
+  {
+   "style": "direct",
+   "q": "What is the illusion of the contemplative?"
+  },
+  {
+   "style": "modern",
+   "q": "Are thinkers spectators or creators of the world?"
+  },
+  {
+   "style": "challenge",
+   "q": "Aren't contemplatives merely observers while doers change the world?"
+  }
+ ],
+ "gs-302-1": [
+  {
+   "style": "direct",
+   "q": "What is the danger of the happiest ones?"
+  },
+  {
+   "style": "modern",
+   "q": "Why are people with the finest taste and senses so easily hurt?"
+  }
+ ],
+ "gs-303-1": [
+  {
+   "style": "direct",
+   "q": "What separates the two happy ones?"
+  },
+  {
+   "style": "modern",
+   "q": "Can someone whose plans keep failing still be happy?"
+  }
+ ],
+ "gs-304-1": [
+  {
+   "style": "direct",
+   "q": "Which kind of moral system do you prefer?"
+  },
+  {
+   "style": "modern",
+   "q": "Is it better to be told what to do than what to renounce?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't self-renunciation a moral virtue?"
+  }
+ ],
+ "gs-305-1": [
+  {
+   "style": "direct",
+   "q": "What is wrong with teaching man to be in self-control?"
+  },
+  {
+   "style": "modern",
+   "q": "Can constant self-control make someone unbearable and impoverished?"
+  }
+ ],
+ "gs-306-1": [
+  {
+   "style": "direct",
+   "q": "What is the difference between the Stoic and the Epicurean?"
+  },
+  {
+   "style": "modern",
+   "q": "Should I harden myself like a Stoic or select my experiences like an Epicurean?"
+  }
+ ],
+ "gs-307-1": [
+  {
+   "style": "direct",
+   "q": "Why do we criticise opinions we formerly loved?"
+  },
+  {
+   "style": "modern",
+   "q": "Did I outgrow my old beliefs, or did my new life kill them?"
+  }
+ ],
+ "gs-308-1": [
+  {
+   "style": "direct",
+   "q": "What does the history of each day consist of?"
+  },
+  {
+   "style": "modern",
+   "q": "Are my daily habits products of cowardice and laziness or of bravery and invention?"
+  }
+ ],
+ "gs-309-1": [
+  {
+   "style": "direct",
+   "q": "Why does the wanderer weep?"
+  },
+  {
+   "style": "casual",
+   "q": "Why does the impulse toward the true follow the wanderer?"
+  }
+ ],
+ "gs-310-1": [
+  {
+   "style": "direct",
+   "q": "What is the relation of will and wave?"
+  },
+  {
+   "style": "casual",
+   "q": "What do the waves and we have in common?"
+  }
+ ],
+ "gs-311-1": [
+  {
+   "style": "direct",
+   "q": "Why does the thinker sometimes wish to live in the crowd?"
+  },
+  {
+   "style": "modern",
+   "q": "Why is it hard to cause pain to others with my truth?"
+  }
+ ],
+ "gs-313-1": [
+  {
+   "style": "direct",
+   "q": "Why will you not paint martyr pictures?"
+  },
+  {
+   "style": "casual",
+   "q": "Do you want to be a sublime executioner?"
+  }
+ ],
+ "gs-314-1": [
+  {
+   "style": "direct",
+   "q": "What are your lion and eagle?"
+  },
+  {
+   "style": "casual",
+   "q": "Why do you keep new domestic animals?"
+  }
+ ],
+ "gs-315-1": [
+  {
+   "style": "direct",
+   "q": "How do you want to end?"
+  },
+  {
+   "style": "casual",
+   "q": "Shall I perish in a storm or burn out?"
+  }
+ ],
+ "gs-316-1": [
+  {
+   "style": "direct",
+   "q": "How do prophetic men suffer?"
+  },
+  {
+   "style": "modern",
+   "q": "Are prophets just people sensitive to pain?"
+  }
+ ],
+ "gs-317-1": [
+  {
+   "style": "direct",
+   "q": "Why do we seldom recognise the pathos of a period of life?"
+  },
+  {
+   "style": "modern",
+   "q": "A piece of music reminded me of a past time I thought would last forever. Why?"
+  }
+ ],
+ "gs-318-1": [
+  {
+   "style": "direct",
+   "q": "What is the wisdom in pain?"
+  },
+  {
+   "style": "modern",
+   "q": "Is pain useful?"
+  },
+  {
+   "style": "challenge",
+   "q": "Pain is simply bad and should be abolished."
+  }
+ ],
+ "gs-319-1": [
+  {
+   "style": "direct",
+   "q": "What honesty do founders of religions lack?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do religious people never question their own experiences?"
+  }
+ ],
+ "gs-320-1": [
+  {
+   "style": "direct",
+   "q": "What do you want to create?"
+  },
+  {
+   "style": "casual",
+   "q": "Are you a seeker of a niche, or do you want to create your own sun?"
+  }
+ ],
+ "gs-321-1": [
+  {
+   "style": "direct",
+   "q": "What is the new precaution against punishing and improving?"
+  },
+  {
+   "style": "modern",
+   "q": "Should I stop trying to change others?"
+  }
+ ],
+ "gs-322-1": [
+  {
+   "style": "direct",
+   "q": "What is the mark of a profound thinker?"
+  },
+  {
+   "style": "casual",
+   "q": "Do the most profound thinkers have orderly minds?"
+  }
+ ],
+ "gs-323-1": [
+  {
+   "style": "direct",
+   "q": "When does destiny confer its greatest distinction?"
+  },
+  {
+   "style": "casual",
+   "q": "Why should we fight for a time on the side of our adversaries?"
+  }
+ ],
+ "gs-324-1": [
+  {
+   "style": "direct",
+   "q": "Has life deceived you?"
+  },
+  {
+   "style": "modern",
+   "q": "Can life be an experiment for the thinker?"
+  }
+ ],
+ "gs-326-1": [
+  {
+   "style": "direct",
+   "q": "Why do preachers try to persuade man that he is ill?"
+  },
+  {
+   "style": "modern",
+   "q": "Do we exaggerate pain and misfortune?"
+  },
+  {
+   "style": "challenge",
+   "q": "Human life is hard. Aren't the preachers right?"
+  }
+ ],
+ "gs-326-2": [
+  {
+   "style": "direct",
+   "q": "Is our life painful enough to need Stoical petrification?"
+  },
+  {
+   "style": "casual",
+   "q": "Do we suffer enough to go Stoic?"
+  }
+ ],
+ "gs-327-1": [
+  {
+   "style": "direct",
+   "q": "What is it to take things seriously?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do people think thinking must be gloomy?"
+  }
+ ],
+ "gs-329-2": [
+  {
+   "style": "direct",
+   "q": "Has the attitude toward work and leisure changed?"
+  },
+  {
+   "style": "modern",
+   "q": "Do we feel guilty for taking time to think?"
+  }
+ ],
+ "gs-330-1": [
+  {
+   "style": "direct",
+   "q": "Does the thinker need applause?"
+  },
+  {
+   "style": "modern",
+   "q": "Can anyone do without recognition?"
+  }
+ ],
+ "gs-331-1": [
+  {
+   "style": "direct",
+   "q": "Why is it better to be deaf than deafened?"
+  },
+  {
+   "style": "modern",
+   "q": "How does a thinker find stillness amid the noise of the market?"
+  }
+ ],
+ "gs-332-1": [
+  {
+   "style": "direct",
+   "q": "What is the evil hour of the philosopher?"
+  },
+  {
+   "style": "modern",
+   "q": "I sometimes wonder whether it matters if anyone believes my ideas. Should I worry?"
+  }
+ ],
+ "gs-333-1": [
+  {
+   "style": "direct",
+   "q": "What does knowing mean?"
+  },
+  {
+   "style": "modern",
+   "q": "Is understanding a compromise among conflicting impulses?"
+  },
+  {
+   "style": "challenge",
+   "q": "Spinoza said we should neither laugh, weep nor curse but understand. Isn't that the highest attitude?"
+  }
+ ],
+ "gs-335-2": [
+  {
+   "style": "direct",
+   "q": "Is the voice of conscience reliable?"
+  },
+  {
+   "style": "modern",
+   "q": "Does my sense of duty come from upbringing and interests?"
+  },
+  {
+   "style": "challenge",
+   "q": "Kant said the categorical imperative is absolute. What do you say?"
+  }
+ ],
+ "gs-335-3": [
+  {
+   "style": "direct",
+   "q": "Why is it selfish to regard one's judgment as a universal law?"
+  },
+  {
+   "style": "modern",
+   "q": "Are moral judgments of others' actions even possible?"
+  },
+  {
+   "style": "casual",
+   "q": "Why should we stop moralising about each other?"
+  }
+ ],
+ "gs-336-1": [
+  {
+   "style": "direct",
+   "q": "Why has nature been so niggardly toward humanity?"
+  },
+  {
+   "style": "casual",
+   "q": "Why don't great men shine like the sun?"
+  }
+ ],
+ "gs-337-1": [
+  {
+   "style": "direct",
+   "q": "What is peculiar about the historical sense?"
+  },
+  {
+   "style": "modern",
+   "q": "Does knowing the whole of human history make us poorer or richer?"
+  }
+ ],
+ "gs-337-2": [
+  {
+   "style": "direct",
+   "q": "What would the feeling of \"humanity\" be?"
+  },
+  {
+   "style": "modern",
+   "q": "What would it mean to carry the whole past of humanity in one soul?"
+  }
+ ],
+ "gs-338-1": [
+  {
+   "style": "direct",
+   "q": "Is it to your advantage to be compassionate?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't compassion the essence of morality?"
+  },
+  {
+   "style": "modern",
+   "q": "Why does being helped by someone else sometimes make my suffering shallower?"
+  }
+ ],
+ "gs-338-2": [
+  {
+   "style": "direct",
+   "q": "What is the religion of smug ease?"
+  },
+  {
+   "style": "modern",
+   "q": "Should we accept suffering as part of happiness?"
+  }
+ ],
+ "gs-338-3": [
+  {
+   "style": "direct",
+   "q": "Why do we take refuge in the religion of pity?"
+  },
+  {
+   "style": "modern",
+   "q": "What does compassion allow us to escape?"
+  },
+  {
+   "style": "casual",
+   "q": "What is your own morality?"
+  }
+ ],
+ "gs-340-1": [
+  {
+   "style": "direct",
+   "q": "What did Socrates really say at the end?"
+  },
+  {
+   "style": "modern",
+   "q": "Was Socrates secretly a pessimist?"
+  }
+ ],
+ "gs-341-1": [
+  {
+   "style": "direct",
+   "q": "What is the heaviest burden?"
+  },
+  {
+   "style": "modern",
+   "q": "Would you want to live your life again infinitely?"
+  },
+  {
+   "style": "challenge",
+   "q": "Eternal recurrence sounds like a curse. How can anyone want it?"
+  }
+ ],
+ "gs-343-1": [
+  {
+   "style": "direct",
+   "q": "What does our cheerfulness signify after God's death?"
+  },
+  {
+   "style": "modern",
+   "q": "What are the consequences of \"God is dead\" for European morality?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't the death of God a tragedy?"
+  }
+ ],
+ "gs-343-2": [
+  {
+   "style": "direct",
+   "q": "What does the open sea mean for the discerner?"
+  },
+  {
+   "style": "casual",
+   "q": "Has the sea ever been so open?"
+  }
+ ],
+ "gs-344-2": [
+  {
+   "style": "direct",
+   "q": "Where does science get its belief that truth is more important than anything else?"
+  },
+  {
+   "style": "modern",
+   "q": "Is the will to truth a concealed will to death?"
+  }
+ ],
+ "gs-344-3": [
+  {
+   "style": "direct",
+   "q": "What is the metaphysical belief behind our belief in science?"
+  },
+  {
+   "style": "modern",
+   "q": "What if God himself is our most persistent lie?"
+  }
+ ],
+ "gs-346-1": [
+  {
+   "style": "direct",
+   "q": "What is our note of interrogation?"
+  },
+  {
+   "style": "modern",
+   "q": "Why don't you call yourselves atheists or immoralists?"
+  }
+ ],
+ "gs-346-2": [
+  {
+   "style": "direct",
+   "q": "Why does the phrase \"man and world\" seem monstrous?"
+  },
+  {
+   "style": "modern",
+   "q": "Is disgust at pessimism another form of nihilism?"
+  }
+ ],
+ "gs-347-1": [
+  {
+   "style": "direct",
+   "q": "How much faith does a person need?"
+  },
+  {
+   "style": "modern",
+   "q": "Is the need for belief a measure of weakness?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't faith a sign of strength of will?"
+  }
+ ],
+ "gs-349-1": [
+  {
+   "style": "direct",
+   "q": "Is self-preservation the fundamental instinct of life?"
+  },
+  {
+   "style": "challenge",
+   "q": "Darwin showed that life is a struggle for existence. Was he wrong?"
+  },
+  {
+   "style": "modern",
+   "q": "Is the struggle for survival an exception to the will to power?"
+  }
+ ],
+ "gs-350-1": [
+  {
+   "style": "direct",
+   "q": "What is the struggle against the church about?"
+  },
+  {
+   "style": "modern",
+   "q": "Was Protestantism a popular revolt of the shallow against the profound?"
+  }
+ ],
+ "gs-351-1": [
+  {
+   "style": "direct",
+   "q": "Why do philosophers feel remote from popular wisdom?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do people honour priestly natures as wise?"
+  }
+ ],
+ "gs-351-2": [
+  {
+   "style": "direct",
+   "q": "Why do philosophers not regard the priest as a sage?"
+  },
+  {
+   "style": "casual",
+   "q": "Who coined the word \"philosopher\" and why?"
+  }
+ ],
+ "gs-353-1": [
+  {
+   "style": "direct",
+   "q": "What is the real invention of a founder of a religion?"
+  },
+  {
+   "style": "modern",
+   "q": "How did Jesus and Buddha turn a way of life into a religion?"
+  }
+ ],
+ "gs-354-1": [
+  {
+   "style": "direct",
+   "q": "What is the purpose of consciousness?"
+  },
+  {
+   "style": "modern",
+   "q": "Is most of our thinking unconscious?"
+  }
+ ],
+ "gs-354-2": [
+  {
+   "style": "direct",
+   "q": "Where did consciousness develop?"
+  },
+  {
+   "style": "modern",
+   "q": "Did consciousness develop because of our need for communication?"
+  }
+ ],
+ "gs-354-3": [
+  {
+   "style": "direct",
+   "q": "How does consciousness make us shallow?"
+  },
+  {
+   "style": "modern",
+   "q": "Does becoming conscious falsify our experience and make it generic?"
+  }
+ ],
+ "gs-355-1": [
+  {
+   "style": "direct",
+   "q": "What does \"knowing\" mean to the people and philosophers?"
+  },
+  {
+   "style": "modern",
+   "q": "Is our need for knowledge really a need for the familiar and fear of the strange?"
+  }
+ ],
+ "gs-355-2": [
+  {
+   "style": "direct",
+   "q": "Why are natural sciences more certain than psychology?"
+  },
+  {
+   "style": "casual",
+   "q": "Why is taking what is not strange as an object absurd?"
+  }
+ ],
+ "gs-356-1": [
+  {
+   "style": "direct",
+   "q": "How will Europe become more artistic?"
+  },
+  {
+   "style": "modern",
+   "q": "Do people become their professional roles?"
+  },
+  {
+   "style": "challenge",
+   "q": "People are born for their callings. Isn't a stable role a virtue?"
+  }
+ ],
+ "gs-356-2": [
+  {
+   "style": "direct",
+   "q": "Why does the stage-player mentality make Europe unable to build lasting things?"
+  },
+  {
+   "style": "modern",
+   "q": "Are we still able to build institutions that last for centuries?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't a free society the goal of socialists?"
+  }
+ ],
+ "gs-357-1": [
+  {
+   "style": "direct",
+   "q": "Which philosophical insights did the Germans contribute?"
+  },
+  {
+   "style": "modern",
+   "q": "Were German philosophers really philosophical Germans?"
+  }
+ ],
+ "gs-357-2": [
+  {
+   "style": "direct",
+   "q": "What is German about Leibniz, Kant and Hegel?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do Germans give more value to becoming than being?"
+  }
+ ],
+ "gs-357-3": [
+  {
+   "style": "direct",
+   "q": "What gained the victory over the Christian God?"
+  },
+  {
+   "style": "modern",
+   "q": "Did Christian morality itself, through truthfulness, kill God?"
+  }
+ ],
+ "gs-357-5": [
+  {
+   "style": "direct",
+   "q": "Was Schopenhauer's pessimism a German event?"
+  },
+  {
+   "style": "casual",
+   "q": "Are the Germans of today pessimists?"
+  }
+ ],
+ "gs-358-1": [
+  {
+   "style": "direct",
+   "q": "Why do you call the Reformation a peasant revolt of the spirit?"
+  },
+  {
+   "style": "modern",
+   "q": "Did Luther, trying to save Christianity, help destroy it?"
+  }
+ ],
+ "gs-358-3": [
+  {
+   "style": "direct",
+   "q": "What did the Reformation do to the European spirit?"
+  },
+  {
+   "style": "modern",
+   "q": "What is the plebeianism of the spirit?"
+  },
+  {
+   "style": "challenge",
+   "q": "Didn't the Reformation free thought and prepare modern science?"
+  }
+ ],
+ "gs-359-1": [
+  {
+   "style": "direct",
+   "q": "Who are the most dangerous advocates of morality?"
+  },
+  {
+   "style": "modern",
+   "q": "Do the people who moralise most loudly use morality as revenge on the intellect?"
+  }
+ ],
+ "gs-359-2": [
+  {
+   "style": "direct",
+   "q": "Is the philosopher's pretension to wisdom a means of concealment?"
+  },
+  {
+   "style": "casual",
+   "q": "Why do philosophers become wise in old age?"
+  }
+ ],
+ "gs-361-1": [
+  {
+   "style": "direct",
+   "q": "What is the problem of the actor?"
+  },
+  {
+   "style": "modern",
+   "q": "Is an artist essentially a good actor with a good conscience?"
+  }
+ ],
+ "gs-364-1": [
+  {
+   "style": "direct",
+   "q": "What is the art of associating with men?"
+  },
+  {
+   "style": "modern",
+   "q": "How can I put up with people I don't like?"
+  }
+ ],
+ "gs-365-1": [
+  {
+   "style": "direct",
+   "q": "How does the anchorite go among men?"
+  },
+  {
+   "style": "casual",
+   "q": "What is a posthumous man?"
+  }
+ ],
+ "gs-366-1": [
+  {
+   "style": "direct",
+   "q": "How do you judge the value of a book?"
+  },
+  {
+   "style": "modern",
+   "q": "Do learned books distort the soul of their authors?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't specialisation necessary for scholarship?"
+  }
+ ],
+ "gs-366-2": [
+  {
+   "style": "direct",
+   "q": "Why do you bless the humps of learned men?"
+  },
+  {
+   "style": "modern",
+   "q": "What is the difference between a specialist and a literary man?"
+  }
+ ],
+ "gs-367-1": [
+  {
+   "style": "direct",
+   "q": "What is the distinction between monologic art and art before witnesses?"
+  },
+  {
+   "style": "modern",
+   "q": "Is there any art that is truly created in solitude?"
+  }
+ ],
+ "gs-368-1": [
+  {
+   "style": "direct",
+   "q": "What are your objections to Wagner's music?"
+  },
+  {
+   "style": "modern",
+   "q": "Is Wagner's drama really about music, or about attitude and posing?"
+  },
+  {
+   "style": "challenge",
+   "q": "Wagner's music is overwhelmingly moving. What could be wrong with it?"
+  }
+ ],
+ "gs-369-1": [
+  {
+   "style": "direct",
+   "q": "Why do the taste and creative power of an artist diverge?"
+  },
+  {
+   "style": "modern",
+   "q": "Can an artist create things he does not like?"
+  }
+ ],
+ "gs-370-2": [
+  {
+   "style": "direct",
+   "q": "What is romanticism?"
+  },
+  {
+   "style": "modern",
+   "q": "Does creation come from hunger or from superabundance?"
+  }
+ ],
+ "gs-371-1": [
+  {
+   "style": "direct",
+   "q": "Why are we unintelligible ones misunderstood?"
+  },
+  {
+   "style": "modern",
+   "q": "People confuse me with others because I keep changing. Is that a good sign?"
+  }
+ ],
+ "gs-372-1": [
+  {
+   "style": "direct",
+   "q": "Why are we not idealists?"
+  },
+  {
+   "style": "modern",
+   "q": "Is philosophical idealism a disease that starves the senses?"
+  }
+ ],
+ "gs-373-2": [
+  {
+   "style": "direct",
+   "q": "Is a scientific interpretation of the world the most meaningful?"
+  },
+  {
+   "style": "challenge",
+   "q": "Mechanics gives us the ultimate laws of existence. Doesn't it?"
+  },
+  {
+   "style": "modern",
+   "q": "Would a purely mechanical world be meaningless?"
+  }
+ ],
+ "gs-374-1": [
+  {
+   "style": "direct",
+   "q": "What is our new infinite?"
+  },
+  {
+   "style": "modern",
+   "q": "Are there infinite interpretations of the world?"
+  }
+ ],
+ "gs-375-1": [
+  {
+   "style": "direct",
+   "q": "Why do we seem to be Epicureans?"
+  },
+  {
+   "style": "modern",
+   "q": "Why are modern thinkers wary of strong convictions?"
+  }
+ ],
+ "gs-377-1": [
+  {
+   "style": "direct",
+   "q": "Who are the homeless ones?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do you reject the ideals of equal rights and a free society?"
+  },
+  {
+   "style": "challenge",
+   "q": "Isn't a humane, just, and peaceful world the goal?"
+  }
+ ],
+ "gs-377-3": [
+  {
+   "style": "direct",
+   "q": "Why are you good Europeans?"
+  },
+  {
+   "style": "modern",
+   "q": "Why should we reject racial self-admiration and nationalism?"
+  }
+ ],
+ "gs-378-1": [
+  {
+   "style": "direct",
+   "q": "What do the generous and rich in spirit do when the age casts its rubbish in them?"
+  },
+  {
+   "style": "casual",
+   "q": "How do fountains grow clear again?"
+  }
+ ],
+ "gs-380-1": [
+  {
+   "style": "direct",
+   "q": "What does the wanderer say about getting outside of morality?"
+  },
+  {
+   "style": "modern",
+   "q": "How can we look at our own morality from the outside?"
+  }
+ ],
+ "gs-381-1": [
+  {
+   "style": "direct",
+   "q": "Why does a writer not want to be understood by everyone?"
+  },
+  {
+   "style": "modern",
+   "q": "Why do you write briefly?"
+  }
+ ],
+ "gs-382-1": [
+  {
+   "style": "direct",
+   "q": "What is great healthiness?"
+  },
+  {
+   "style": "modern",
+   "q": "Is health something we must constantly acquire and sacrifice?"
+  }
+ ],
+ "gs-382-2": [
+  {
+   "style": "direct",
+   "q": "What is the ideal of the spirit that plays naively with everything holy?"
+  },
+  {
+   "style": "modern",
+   "q": "What would it mean to play with what has been called holy and good, and when does the great seriousness begin?"
+  }
+ ],
+ "gs-383-1": [
+  {
+   "style": "direct",
+   "q": "What do the spirits of the book demand of the author in the epilogue?"
+  },
+  {
+   "style": "casual",
+   "q": "Why does the minstrel ask to be misunderstood?"
+  }
+ ]
+}

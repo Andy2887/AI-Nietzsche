@@ -1,0 +1,87 @@
+gs-001-3
+K1
+r|Tell me why the moralist invents a second existence for us.
+gs-004-1
+K3
+K1
+gs-005-1
+K3
+r|Tell me why revolutionaries and preachers always talk of unconditional duty.
+gs-006-1
+K1
+r|Tell me what has happened to the dignity of thinking.
+gs-007-2
+K2
+r|Tell me whether science can give us goals for action.
+gs-008-1
+K2
+r|Tell me about the virtues we have that no one can see.
+gs-009-1
+K1
+r|Tell me what will erupt in later generations from what we now carry unknowingly.
+gs-010-1
+K2
+r|Explain why rare men may be revivals of past cultures.
+gs-011-1
+K3
+K1
+gs-012-1
+K3
+K2
+gs-013-1
+K3
+r|Explain your theory of how we exercise our sense of power over others.
+gs-014-1
+K2
+r|Explain why love and the lust for property may be the same impulse.
+gs-016-1
+K1
+K3
+gs-017-1
+K1
+r|Tell me how to turn poverty of virtue into something graceful.
+gs-018-1
+K1
+r|Tell me why our world has lost the ancient sense of noble pride.
+gs-019-1
+K2
+r|Tell me whether a great tree can grow without storms.
+gs-020-1
+K2
+r|Tell me what might become noble when prudence is common.
+gs-021-1
+K2
+K3
+gs-022-1
+K1
+r|Tell me about the courtier's plan for the king's day.
+gs-023-1
+K1
+r|Tell me the marks of a society in corruption.
+gs-025-1
+K1
+r|Warn me about the kind of humility that ruins a seeker of knowledge.
+gs-026-1
+K2
+r|Tell me what living means when it is a constant cruelty to what is dying.
+gs-027-1
+K1
+r|Tell me what the self-renouncer is really doing.
+gs-028-1
+K2
+r|Tell me how great men do harm with their best qualities.
+gs-029-1
+K1
+r|Tell me about the honesty of conservatives when they defend a custom.
+gs-030-1
+K2
+r|Tell me how famous men use their friends.
+gs-031-1
+K1
+r|Imagine a future in which trade becomes a noble pastime.
+gs-032-1
+K1
+r|Tell me about the two students the philosopher does not want.
+gs-033-1
+K2
+r|Tell me why man has become more distrustful and whether that makes him worse.

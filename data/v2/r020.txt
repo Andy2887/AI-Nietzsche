@@ -1,0 +1,108 @@
+dawn-496-1
+K2
+r|Explain why the philosopher looks like the "evil principle" to his society.
+dawn-497-1
+K2
+r|Tell me about the genius whose mind is loosely linked to his character.
+dawn-498-1
+K1
+r|Tell me about the man who submits readily until he is asked to.
+dawn-499-1
+K1
+r|Tell me what Diderot meant when he said only the solitary are evil.
+dawn-500-1
+K1
+s|My work makes me think about things I'd never choose to think about, year after year. Could that make me ill?
+dawn-501-1
+K3
+K2
+dawn-502-1
+K2
+r|Tell me what passion reveals in a person.
+dawn-504-1
+K2
+r|Tell me why philosophers tend to speak at the age they do.
+dawn-505-1
+K1
+r|Tell me who really sets the taste of the practical world.
+dawn-506-1
+K1
+r|Explain why a good work needs time to dry before it shines.
+dawn-507-1
+K3
+K2
+dawn-508-1
+K2
+r|Tell me why I shouldn't dramatise what I do for myself.
+dawn-509-1
+K1
+r|Advise someone who keeps needing the theatre to see life's dramas.
+dawn-510-1
+K1
+r|Tell me why a thinker must sometimes escape from his own virtues.
+dawn-512-1
+K2
+r|Tell me about the man who is bold with things but timid with persons.
+dawn-513-1
+K2
+r|Tell me why fine culture requires a narrow view.
+dawn-514-1
+K1
+r|Say what the weaker need from the stronger intellects.
+dawn-515-1
+K2
+r|Tell me why beauty has grown along with civilisation.
+dawn-516-1
+K3
+K1
+dawn-517-1
+K2
+r|Tell me why a man who hates himself is dangerous and what to do about him.
+dawn-518-1
+K1
+r|Tell me what resignation is.
+dawn-519-1
+K1
+r|Debate the man of action and the man of contemplation on doubt.
+dawn-520-1
+K1
+r|Tell me about the eternal funeral oration we hold for what we love.
+dawn-521-1
+K2
+r|Tell me about the man who is called vain for his one great quality.
+dawn-522-1
+K1
+r|Tell me why I should not listen to what others say about me.
+dawn-523-1
+K2
+r|Tell me what to ask about any show someone puts on for me.
+dawn-526-1
+K1
+r|Tell me why rulers turn into cyphers.
+dawn-527-1
+K1
+r|Tell me about people who deliberately hide their nobility.
+dawn-529-1
+K2
+r|Tell me how peoples like the Greeks come to shine for thousands of years.
+dawn-530-1
+K1
+r|Describe the strict thinker as a stream.
+dawn-531-1
+K2
+r|Tell me how a hermit's taste in art changes.
+dawn-533-1
+K2
+r|Tell me what the eyes of an actor and a painter can teach the psychologist.
+dawn-534-1
+K3
+K2
+dawn-535-1
+K2
+r|Tell me why truth alone has no power.
+dawn-538-1
+K1
+r|Tell me about the physical roots of the moral flaws of genius.
+dawn-539-1
+K2
+r|Tell me how much our wishes decide what we see as true.
