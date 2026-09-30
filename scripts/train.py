@@ -3,10 +3,19 @@
 Loss is computed on the assistant reply only. Prompts are rendered with the
 model's own chat template (thinking disabled), so use the same template at
 inference (scripts/generate.py does).
+
+Single GPU:  python scripts/train.py
+Multi-GPU:   torchrun --nproc_per_node=4 scripts/train.py --grad-accum 1
 """
 import argparse
 import json
+import os
 from pathlib import Path
+
+# Plain `python` on a multi-GPU box makes Trainer fall back to nn.DataParallel, which
+# gathers everything onto GPU 0 and OOMs. Pin to one GPU unless launched via torchrun.
+if "LOCAL_RANK" not in os.environ and "CUDA_VISIBLE_DEVICES" not in os.environ:
+    os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 
 import torch
 from peft import LoraConfig, get_peft_model
@@ -31,8 +40,10 @@ p.add_argument("--load-in-4bit", action="store_true", help="QLoRA, for small-VRA
 p.add_argument("--merge", action="store_true", help="also save merged full model to <out>/merged")
 p.add_argument("--seed", type=int, default=42)
 a = p.parse_args()
+local_rank = int(os.environ.get("LOCAL_RANK", 0))
 
 assert torch.cuda.is_available(), "CUDA GPU required"
+torch.cuda.set_device(local_rank)  # else non-zero DDP ranks touch GPU 0 when reloading the best checkpoint
 tok = AutoTokenizer.from_pretrained(a.model)
 if tok.pad_token is None:
     tok.pad_token = tok.eos_token
@@ -84,13 +95,14 @@ if a.load_in_4bit:
     kw["quantization_config"] = BitsAndBytesConfig(
         load_in_4bit=True, bnb_4bit_quant_type="nf4", bnb_4bit_use_double_quant=True,
         bnb_4bit_compute_dtype=torch.bfloat16)
-model = AutoModelForCausalLM.from_pretrained(a.model, device_map={"": 0}, **kw)
+model = AutoModelForCausalLM.from_pretrained(a.model, device_map={"": local_rank}, **kw)
 model.config.use_cache = False
 if a.load_in_4bit:
     from peft import prepare_model_for_kbit_training
-    model = prepare_model_for_kbit_training(model)
+    model = prepare_model_for_kbit_training(
+        model, gradient_checkpointing_kwargs={"use_reentrant": False})
 else:
-    model.gradient_checkpointing_enable()
+    model.gradient_checkpointing_enable(gradient_checkpointing_kwargs={"use_reentrant": False})
     model.enable_input_require_grads()
 
 model = get_peft_model(model, LoraConfig(
@@ -106,9 +118,14 @@ args = TrainingArguments(
     weight_decay=0.0, bf16=True, logging_steps=10, eval_strategy="epoch", save_strategy="epoch",
     save_total_limit=2, load_best_model_at_end=True, metric_for_best_model="eval_loss",
     greater_is_better=False, report_to="none", seed=a.seed, remove_unused_columns=False,
-    gradient_checkpointing=not a.load_in_4bit, optim="adamw_torch")
-Trainer(model=model, args=args, train_dataset=train_ds, eval_dataset=val_ds,
-        data_collator=collate).train()
+    gradient_checkpointing=not a.load_in_4bit,
+    gradient_checkpointing_kwargs={"use_reentrant": False}, ddp_find_unused_parameters=False,
+    optim="adamw_torch")
+trainer = Trainer(model=model, args=args, train_dataset=train_ds, eval_dataset=val_ds,
+                  data_collator=collate)
+trainer.train()
+if not trainer.is_world_process_zero():
+    raise SystemExit(0)
 
 model.save_pretrained(a.out)  # LoRA adapter
 tok.save_pretrained(a.out)
